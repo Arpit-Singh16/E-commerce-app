@@ -1,51 +1,199 @@
 import 'package:flutter/material.dart';
-import 'Customized/card_with_networkimage.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
-class Cart extends StatefulWidget {
-  const Cart({super.key});
+class CartPage extends StatefulWidget {
+  const CartPage({super.key});
 
   @override
-  State<Cart> createState() => _CartState();
+  State<CartPage> createState() => _CartPageState();
 }
 
-class _CartState extends State<Cart> {
-  // ✅ Renamed to avoid conflict with Dart's List class
-  var cartItems = ["Add", "Subtract", "Multiply", "Divide"];
+class _CartPageState extends State<CartPage> {
+  List<Map<String, dynamic>> cartItems = [];
+  bool isLoading = true;
+  int totalPrice = 0;
+
+  @override
+  void initState() {
+    super.initState();
+    fetchCartItems();
+  }
+
+  Future<void> fetchCartItems() async {
+    try {
+      final user = FirebaseAuth.instance.currentUser;
+      final snapshot = await FirebaseFirestore.instance
+          .collection('cart')
+          .where('uid', isEqualTo: user!.uid)
+          .get();
+
+      final items = snapshot.docs.map((doc) {
+        final data = doc.data();
+        data['id'] = doc.id;
+        return data;
+      }).toList();
+
+      if (!mounted) return;
+      setState(() {
+        cartItems = items;
+        isLoading = false;
+        totalPrice = calculateTotal(items);
+      });
+    } catch (e) {
+      print("❌ Error: $e");
+      if (!mounted) return;
+      setState(() {
+        isLoading = false;
+      });
+    }
+  }
+
+  int calculateTotal(List<Map<String, dynamic>> items) {
+    int total = 0;
+
+    for (var item in items) {
+      if (item is Map<String, dynamic>) {
+        final dynamic rawPrice = item['price'];
+        final int price = rawPrice is String
+            ? int.tryParse(rawPrice) ?? 0
+            : rawPrice is int
+            ? rawPrice
+            : rawPrice is double
+            ? rawPrice.round()
+            : 0;
+
+        final dynamic rawQuantity = item['quantity'];
+        final int quantity = rawQuantity is int
+            ? rawQuantity
+            : int.tryParse(rawQuantity?.toString() ?? '') ?? 1;
+
+        total += price * quantity;
+      }
+    }
+
+    return total;
+  }
+
+  Future<void> updateQuantity(String docId, int newQty) async {
+    if (newQty <= 0) {
+      await removeItem(docId);
+      return;
+    }
+
+    await FirebaseFirestore.instance.collection('cart').doc(docId).update({
+      'quantity': newQty,
+    });
+
+    fetchCartItems();
+  }
+
+  Future<void> removeItem(String docId) async {
+    await FirebaseFirestore.instance.collection('cart').doc(docId).delete();
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Item removed from cart')),
+    );
+    fetchCartItems();
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Cart"),
+        title: const Text("🛒 Your Cart"),
+        backgroundColor: Colors.black,
       ),
-      body: Column(
+      body: isLoading
+          ? const Center(child: CircularProgressIndicator())
+          : cartItems.isEmpty
+          ? const Center(child: Text("🛒 Cart is empty"))
+          : Column(
         children: [
           Expanded(
             child: ListView.builder(
               itemCount: cartItems.length,
               itemBuilder: (context, index) {
-                return Expanded(
-                  child: Container(
-                    height: 500,
-                    margin: const EdgeInsets.all(8.0),
-                    decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(10),
-                      boxShadow: [
-                        BoxShadow(
-                          color: Colors.grey.withOpacity(0.2),
-                          spreadRadius: 2,
-                          blurRadius: 5,
-                          offset: const Offset(0, 2),
+                final item = cartItems[index];
+                final id = item['id'];
+                final image = item['image'] ?? '';
+                final name = item['name'] ?? 'Unnamed';
+
+                final dynamic rawQuantity = item['quantity'];
+                final int quantity = rawQuantity is int
+                    ? rawQuantity
+                    : int.tryParse(rawQuantity?.toString() ?? '') ?? 1;
+
+                final dynamic rawPrice = item['price'];
+                final int price = rawPrice is String
+                    ? int.tryParse(rawPrice) ?? 0
+                    : rawPrice is int
+                    ? rawPrice
+                    : rawPrice is double
+                    ? rawPrice.round()
+                    : 0;
+
+                print("🛒 Item $index: $item");
+
+                return Card(
+                  margin: const EdgeInsets.symmetric(
+                      horizontal: 12, vertical: 6),
+                  child: ListTile(
+                    leading: ClipRRect(
+                      borderRadius: BorderRadius.circular(8),
+                      child: image != ''
+                          ? Image.network(image,
+                          width: 60,
+                          height: 60,
+                          fit: BoxFit.cover)
+                          : const Icon(Icons.image_not_supported,
+                          size: 40),
+                    ),
+                    title: Text(name,
+                        style: const TextStyle(
+                            fontWeight: FontWeight.bold)),
+                    subtitle: Text(
+                        "₹$price × $quantity = ₹${price * quantity}"),
+                    trailing: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        IconButton(
+                          icon:
+                          const Icon(Icons.remove_circle_outline),
+                          onPressed: () {
+                            updateQuantity(id, quantity - 1);
+                          },
+                        ),
+                        Text('$quantity'),
+                        IconButton(
+                          icon:
+                          const Icon(Icons.add_circle_outline),
+                          onPressed: () {
+                            updateQuantity(id, quantity + 1);
+                          },
                         ),
                       ],
-                    ),
-                    child: ListTile(
-                      leading: Icon(Icons.person),
                     ),
                   ),
                 );
               },
+            ),
+          ),
+          Container(
+            padding: const EdgeInsets.all(16),
+            color: Colors.black,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Text("Total:",
+                    style: TextStyle(
+                        color: Colors.white, fontSize: 18)),
+                Text("₹$totalPrice",
+                    style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold)),
+              ],
             ),
           ),
         ],

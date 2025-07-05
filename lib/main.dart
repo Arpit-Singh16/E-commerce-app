@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:provider/provider.dart';
+import 'Provider/Cartprovider.dart';
 import 'Splash_page.dart';
 import 'firebase_options.dart';
 
@@ -11,7 +13,11 @@ Future<void> main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   runApp(
-      Demo());
+    MultiProvider(providers:
+    [
+        ChangeNotifierProvider(create: (context) => cartprovider()),
+      ],
+      child: Demo()));
 }
 
 

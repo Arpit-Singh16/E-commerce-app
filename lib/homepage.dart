@@ -17,10 +17,19 @@ class Homepage extends StatefulWidget {
 class _HomepageState extends State<Homepage> {
 
 
-  // var products= FirebaseFirestore.instance.collection('products').get();
-  // Map<String, dynamic> List = products as Map<String, dynamic>;
+  Future<List<Map<String, dynamic>>> fetchProducts() async {
+    QuerySnapshot snapshot = (await FirebaseFirestore.instance
+        .collection('products')
+        .get()) ;
 
+    var products = snapshot.docs.map((doc) {
+      final data = doc.data() as Map<String, dynamic>;
+      data['id'] = doc.id; // ✅ include document ID
+      return data;
+    }).toList();
+    return products;
 
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -51,10 +60,6 @@ class _HomepageState extends State<Homepage> {
                 filled: true,
                 fillColor: Colors.grey[200],
                 prefixIcon: const Icon(Icons.search),
-                suffixIcon: IconButton(
-                  onPressed: () {},
-                  icon: const Icon(Icons.camera_alt),
-                ),
                 contentPadding: const EdgeInsets.symmetric(vertical: 0),
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(30),
@@ -209,7 +214,11 @@ class _HomepageState extends State<Homepage> {
                             image: "assets/images/IMG-20250702-WA0005.jpg",
                           ),
                           Card_asset(
-                            text: "More",
+                            text: "Gym",
+                            image: "assets/images/IMG-20250702-WA0005.jpg",
+                          ),
+                          Card_asset(
+                            text: "Healthcare",
                             image: "assets/images/IMG-20250702-WA0005.jpg",
                           ),
                         ],
@@ -268,30 +277,45 @@ class _HomepageState extends State<Homepage> {
 
                     Padding(
                       padding: EdgeInsets.symmetric(
-                        horizontal: 10,
-                        vertical: 10,
+                        horizontal: 4,
+                        vertical: 4,
                       ),
-                      child: GridView(
-                        shrinkWrap: true,
-                        physics: NeverScrollableScrollPhysics(),
-                        gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                          crossAxisCount: 2,
-                          mainAxisSpacing: 10,
-                          crossAxisSpacing: 10,
+                      child:FutureBuilder<List<Map<String, dynamic>>>(
+                        future: fetchProducts(), // calling your function here
+                        builder: (context, snapshot) {
+                          if (snapshot.connectionState == ConnectionState.waiting) {
+                            return Center(child: CircularProgressIndicator());
+                          } else if (snapshot.hasError) {
+                            return Center(child: Text("Error: ${snapshot.error}"));
+                          } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
+                            return Center(child: Text("No products found"));
+                          }
 
-                        ),
-                        children: [
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                              CustomHomepageCards(),
-                            ],
-                          ),
+                          List<Map<String, dynamic>> products = snapshot.data!;
+
+                          return GridView.builder(
+                            shrinkWrap: true,
+                            physics: NeverScrollableScrollPhysics(),
+                            itemCount: 30,
+                            gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                              crossAxisCount: 2,
+                              mainAxisSpacing: 10,
+                              crossAxisSpacing: 10,
+                              childAspectRatio: 0.75,
+                            ),
+                            itemBuilder: (context, index) {
+                              var product = products[index];
+                              return CustomHomepageCards(
+                                text: product['name'],
+                                image: product['image']?? Icon(Icons.image_not_supported), // Make sure your Firestore data has 'image'
+                                price: product['price'],
+                                productId: product['id'] ?? '', // Ensure your Firestore data has 'id'
+                              );
+                            },
+                          );
+                        },
+                      ),
+
 
                     ),
                   ],

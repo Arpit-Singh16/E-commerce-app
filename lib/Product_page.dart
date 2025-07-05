@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:quotetowallpaper/payment_page.dart';
+
+import 'Cart_page.dart';
 
 class ProductDetailPage extends StatefulWidget {
   final String productId;
@@ -20,11 +23,36 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
       appBar: AppBar(
         title: const Text("Product Details"),
         actions: [
-          IconButton(icon: const Icon(Icons.favorite_border), onPressed: () {}),
-          IconButton(
-            icon: const Icon(Icons.shopping_cart_outlined),
-            onPressed: () {},
-          ),
+          IconButton(icon: const Icon(Icons.favorite_border), onPressed: () async {
+            final productDoc = await FirebaseFirestore.instance
+                .collection('products')
+                .doc(widget.productId)
+                .get();
+
+            if (productDoc.exists) {
+              final productData = productDoc.data() as Map<String, dynamic>;
+
+              await FirebaseFirestore.instance.collection('Wishlist').add({
+                'productId': widget.productId,
+                'name': productData['name'],
+                'price': productData['price'],
+                'image': productData['image'],
+                'quantity': 1,
+                'timestamp': Timestamp.now(),
+              });
+
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(content: Text('Product added to your Wishlist!')),
+              );
+            } else {
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(content: Text('Product not found!')),
+              );
+            }
+          },),
+          IconButton(icon: const Icon(Icons.shopping_cart_outlined), onPressed: () {
+            Navigator.push(context, MaterialPageRoute(builder: (context)=>CartPage()));
+          }),
         ],
       ),
       body: FutureBuilder<DocumentSnapshot>(
@@ -37,74 +65,75 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
             return const Center(child: CircularProgressIndicator());
           }
 
-          final data = snapshot.data!.data() as Map<String, dynamic>;
+          final doc = snapshot.data;
+          if (!doc!.exists) {
+            return const Center(child: Text("Product not found"));
+          }
 
-          final images = List<String>.from(data['images']);
-          final name = data['name'];
-          final brand = data['brand'];
-          final rating = data['rating'].toString();
-          final reviews = data['reviews'].toString();
-          final price = data['price'];
-          final originalPrice = data['originalPrice'];
-          final colors = List<String>.from(data['colors']);
-          final storageOptions = List<String>.from(data['storageOptions']);
-          final features = List<String>.from(data['features']);
+          final data = doc.data() as Map<String, dynamic>;
+          final images = List<String>.from(data['images'] ?? []);
+          final name = data['name'] ?? 'Unnamed';
+          final brand = data['brand'] ?? 'Unknown';
+          final rating = data['rating']?.toString() ?? '0';
+          final reviews = data['reviews']?.toString() ?? '0';
+          final price = data['price'] ?? 0;
+          final originalPrice = data['originalPrice'] ?? 0;
+          final colors = List<String>.from(data['colors'] ?? []);
+          final storageOptions = List<String>.from(data['storageOptions'] ?? []);
+          final features = List<String>.from(data['features'] ?? []);
 
-          selectedColor ??= colors.first;
-          selectedStorage ??= storageOptions.first;
+          selectedColor ??= colors.isNotEmpty ? colors.first : null;
+          selectedStorage ??= storageOptions.isNotEmpty ? storageOptions.first : null;
 
           return SingleChildScrollView(
             padding: const EdgeInsets.all(16),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Main Image
-                Center(child: Image.network(images.first, height: 250)),
-
+                // 📷 Main Image
+                Center(
+                  child: images.isNotEmpty
+                      ? Image.network(images.first, height: 250)
+                      : const Icon(Icons.image_not_supported, size: 100),
+                ),
                 const SizedBox(height: 8),
 
-                // Thumbnail Gallery
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: images.map((img) {
-                    return Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: 4),
-                      child: Image.network(img, height: 50, width: 50),
-                    );
-                  }).toList(),
-                ),
-
+                // 📷 Thumbnail Gallery
+                if (images.length > 1)
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: images.map((img) {
+                      return Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 4),
+                        child: Image.network(img, height: 50, width: 50),
+                      );
+                    }).toList(),
+                  ),
                 const SizedBox(height: 16),
 
-                Text(
-                  name,
-                  style: const TextStyle(
-                    fontSize: 24,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
+                // 📝 Title and Brand
+                Text(name, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
                 Text("By $brand", style: const TextStyle(color: Colors.blue)),
+
+                // ⭐ Rating
                 Row(
                   children: [
                     const Icon(Icons.star, color: Colors.orange, size: 18),
                     Text(" $rating ($reviews reviews)"),
                   ],
                 ),
-
                 const SizedBox(height: 16),
 
+                // 💵 Price
                 Row(
                   children: [
                     Text(
-                      "\$$price",
-                      style: const TextStyle(
-                        fontSize: 24,
-                        fontWeight: FontWeight.bold,
-                      ),
+                      "₹$price",
+                      style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                     ),
                     const SizedBox(width: 10),
                     Text(
-                      "\$$originalPrice",
+                      "₹$originalPrice",
                       style: const TextStyle(
                         decoration: TextDecoration.lineThrough,
                         color: Colors.grey,
@@ -112,63 +141,58 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
                     ),
                   ],
                 ),
-
                 const SizedBox(height: 16),
 
-                const Text(
-                  "Color",
-                  style: TextStyle(fontWeight: FontWeight.bold),
-                ),
-                Wrap(
-                  spacing: 10,
-                  children: colors.map((color) {
-                    return ChoiceChip(
-                      label: Text(color),
-                      selected: selectedColor == color,
-                      onSelected: (val) =>
-                          setState(() => selectedColor = color),
-                    );
-                  }).toList(),
-                ),
-
-                const SizedBox(height: 16),
-
-                const Text(
-                  "Storage",
-                  style: TextStyle(fontWeight: FontWeight.bold),
-                ),
-                Wrap(
-                  spacing: 10,
-                  children: storageOptions.map((storage) {
-                    return ChoiceChip(
-                      label: Text(storage),
-                      selected: selectedStorage == storage,
-                      onSelected: (val) =>
-                          setState(() => selectedStorage = storage),
-                    );
-                  }).toList(),
-                ),
-
-                const SizedBox(height: 16),
-
-                const Text(
-                  "A Snapshot View",
-                  style: TextStyle(fontWeight: FontWeight.bold),
-                ),
-                ...features.map(
-                  (f) => ListTile(
-                    leading: const Icon(Icons.check),
-                    title: Text(f),
+                // 🎨 Color Options
+                if (colors.isNotEmpty) ...[
+                  const Text("Color", style: TextStyle(fontWeight: FontWeight.bold)),
+                  Wrap(
+                    spacing: 10,
+                    children: colors.map((color) {
+                      return ChoiceChip(
+                        label: Text(color),
+                        selected: selectedColor == color,
+                        onSelected: (_) => setState(() => selectedColor = color),
+                      );
+                    }).toList(),
                   ),
-                ),
-
+                ],
                 const SizedBox(height: 16),
 
+                // 💽 Storage Options
+                if (storageOptions.isNotEmpty) ...[
+                  const Text("Storage", style: TextStyle(fontWeight: FontWeight.bold)),
+                  Wrap(
+                    spacing: 10,
+                    children: storageOptions.map((storage) {
+                      return ChoiceChip(
+                        label: Text(storage),
+                        selected: selectedStorage == storage,
+                        onSelected: (_) => setState(() => selectedStorage = storage),
+                      );
+                    }).toList(),
+                  ),
+                ],
+                const SizedBox(height: 16),
+
+                // ✅ Features
+                const Text("A Snapshot View", style: TextStyle(fontWeight: FontWeight.bold)),
+                ...(features.isNotEmpty
+                    ? features.map((f) => ListTile(
+                  leading: const Icon(Icons.check),
+                  title: Text(f),
+                ))
+                    : [const Text("No features available")]),
+                const SizedBox(height: 16),
+
+                // 🛍 Action Buttons
                 Row(
                   children: [
                     Expanded(
                       child: ElevatedButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.push(context, MaterialPageRoute(builder: (context) => CardPaymentPage()));
+                        },
                         child: const Text("Buy Now"),
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.grey.shade300,
@@ -179,10 +203,47 @@ class _ProductDetailPageState extends State<ProductDetailPage> {
                     const SizedBox(width: 16),
                     Expanded(
                       child: ElevatedButton(
-                        onPressed: () {
-                          // Add to Cart functionality here
+                        onPressed: () async {
+                          FirebaseFirestore.instance.collection(user)
+                          final user = FirebaseFirestore.instance.currentUser; // Replace with actual user ID
+                          final productDoc = await FirebaseFirestore.instance
+                              .collection('products')
+                              .doc(widget.productId)
+                              .get();
+
+                          if (productDoc.exists) {
+                            final productData = productDoc.data() as Map<String, dynamic>;
+  
+                            await FirebaseFirestore.instance.collection('cart').add({
+                              'uid': FirebaseFirestore.instance.currentuser, // Replace with actual user ID
+                              'productId': widget.productId,
+                              'name': productData['name'],
+                              'price': productData['price'],
+                              'image':  productData['images'],
+                              'quantity': 1,
+                              'timestamp': Timestamp.now(),
+                            });
+
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              const SnackBar(content: Text('Product added to cart!')),
+                            );
+                          } else {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              const SnackBar(content: Text('Product not found!')),
+                            );
+                          }
                         },
                         child: const Text("Add to Cart"),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Colors.deepPurple,
+                          foregroundColor: Colors.white,
+                          padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                          textStyle: const TextStyle(
+                              fontSize: 16, fontWeight: FontWeight.bold),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                        ),
                       ),
                     ),
                   ],

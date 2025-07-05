@@ -1,8 +1,6 @@
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:quotetowallpaper/Wishlist_page.dart';
-
 import 'Cart_page.dart';
 import 'Profile_page.dart';
 import 'homepage.dart';
@@ -18,8 +16,8 @@ class _BottomNavgationState extends State<BottomNavgation> {
   int _currentIndex = 0;
   final List<Widget> pages = [
     Homepage(),
-    Wishlist(),
-    Cart(),
+    WishlistPage(),
+    CartPage(),
     ProfilePage(),
   ];
 

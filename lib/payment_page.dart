@@ -109,7 +109,7 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
                     }
                   },
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.deepPurple,
+                    backgroundColor: Colors.black,
                     padding: const EdgeInsets.symmetric(vertical: 14),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(10),
@@ -117,7 +117,7 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
                   ),
                   child: const Text(
                     "Pay Now ₹1250",
-                    style: TextStyle(fontSize: 18),
+                    style: TextStyle(fontSize: 18,color: Colors.white),
                   ),
                 ),
               ),
