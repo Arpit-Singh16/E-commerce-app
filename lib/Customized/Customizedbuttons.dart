@@ -2,14 +2,13 @@ import 'package:flutter/material.dart';
 
 class CustomIconButton extends StatefulWidget {
   final IconData icon;
-<<<<<<< HEAD
-
-  const CustomIconButton({super.key, required this.icon});
-=======
   final Widget page;
 
-  const CustomIconButton({super.key, required this.icon, required this.page});
->>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
+  const CustomIconButton({
+    super.key,
+    required this.icon,
+    required this.page,
+  });
 
   @override
   State<CustomIconButton> createState() => _CustomIconButtonState();
@@ -31,14 +30,16 @@ class _CustomIconButtonState extends State<CustomIconButton> {
           )
         ],
       ),
-      margin: EdgeInsets.all(5),
-      child: IconButton(onPressed: (){
-<<<<<<< HEAD
-=======
-        Navigator.push(context, MaterialPageRoute(builder: (context)=>widget.page));
->>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
-      }, icon: Icon(widget.icon)),
-      );
-
+      margin: const EdgeInsets.all(5),
+      child: IconButton(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => widget.page),
+          );
+        },
+        icon: Icon(widget.icon),
+      ),
+    );
   }
 }

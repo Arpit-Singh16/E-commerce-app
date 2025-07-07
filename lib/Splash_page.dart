@@ -1,17 +1,11 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-<<<<<<< HEAD
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'Admin/Adminpage.dart';
 import 'Bottom_navgation.dart';
-=======
-import 'Product_page.dart';
-import 'json_upload.dart';
->>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
 import 'login.dart';
-
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
@@ -21,7 +15,6 @@ class SplashPage extends StatefulWidget {
 }
 
 class _SplashPageState extends State<SplashPage> {
-<<<<<<< HEAD
   @override
   void initState() {
     super.initState();
@@ -29,7 +22,7 @@ class _SplashPageState extends State<SplashPage> {
   }
 
   Future<void> checkLoginStatus() async {
-    await Future.delayed(const Duration(seconds: 2)); // splash delay
+    await Future.delayed(const Duration(seconds: 2)); // Splash delay
     final user = FirebaseAuth.instance.currentUser;
 
     if (user != null) {
@@ -41,7 +34,8 @@ class _SplashPageState extends State<SplashPage> {
       final isAdmin = userDoc.data()?['isAdmin'] ?? false;
 
       if (isAdmin) {
-        // Show dialog for admin choice
+        // Show admin choice dialog
+        if (!mounted) return;
         showDialog(
           context: context,
           barrierDismissible: false,
@@ -51,7 +45,7 @@ class _SplashPageState extends State<SplashPage> {
             actions: [
               TextButton(
                 onPressed: () {
-                  Navigator.pop(context); // close dialog
+                  Navigator.pop(context);
                   Navigator.pushReplacement(
                     context,
                     MaterialPageRoute(builder: (_) => const BottomNavgation()),
@@ -61,7 +55,7 @@ class _SplashPageState extends State<SplashPage> {
               ),
               ElevatedButton(
                 onPressed: () {
-                  Navigator.pop(context); // close dialog
+                  Navigator.pop(context);
                   Navigator.pushReplacement(
                     context,
                     MaterialPageRoute(builder: (_) => const Adminpage()),
@@ -73,14 +67,16 @@ class _SplashPageState extends State<SplashPage> {
           ),
         );
       } else {
-        // Regular user → go to home
+        // Regular user
+        if (!mounted) return;
         Navigator.pushReplacement(
           context,
           MaterialPageRoute(builder: (_) => const BottomNavgation()),
         );
       }
     } else {
-      // Not logged in → go to login page
+      // Not logged in
+      if (!mounted) return;
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (_) => const LoginPage()),
@@ -91,53 +87,24 @@ class _SplashPageState extends State<SplashPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[200],
+      backgroundColor: Colors.black,
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            const CircleAvatar(
+          children: const [
+            CircleAvatar(
               backgroundImage: NetworkImage(
                 "https://plus.unsplash.com/premium_photo-1690571200236-0f9098fc6ca9?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               ),
               radius: 100,
             ),
-            const SizedBox(height: 20),
-            const Text(
+            SizedBox(height: 20),
+            Text(
               "Welcome to My App",
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.white),
             ),
-            const SizedBox(height: 20),
-            const CircularProgressIndicator(color: Colors.blue),
-=======
-
-  @override
-  void initState() {
-    Timer(Duration(seconds: 2),(){
-      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>LoginPage()));
-    });
-  }
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Colors.grey,
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [
-            CircleAvatar(
-              backgroundImage: NetworkImage(
-                "https://plus.unsplash.com/premium_photo-1690571200236-0f9098fc6ca9?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-              ),
-              radius: 200,
-            ),
-            Text("Welcome to My App",
-              style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
-            CircularProgressIndicator(
-              color: Colors.blue,
-            ),
->>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
+            SizedBox(height: 20),
+            CircularProgressIndicator(color: Colors.blue),
           ],
         ),
       ),
