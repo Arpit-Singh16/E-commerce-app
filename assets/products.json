@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 406.35,
+    "discountPercentage": 23,
+    "rating": 4.8,
+    "stock": 117,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/340/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ClassicGear in category home. High quality and great value.",
+    "category": "home",
+    "price": 137.25,
+    "discountPercentage": 14,
+    "rating": 4.1,
+    "stock": 30,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/622/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 837.61,
+    "discountPercentage": 17,
+    "rating": 4.2,
+    "stock": 284,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/882/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 81.42,
+    "discountPercentage": 13,
+    "rating": 4.0,
+    "stock": 176,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/732/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 897.31,
+    "discountPercentage": 30,
+    "rating": 3.9,
+    "stock": 17,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/733/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Smartwatch",
+    "description": "Smartwatch by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 844.83,
+    "discountPercentage": 7,
+    "rating": 4.2,
+    "stock": 231,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/955/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 170.86,
+    "discountPercentage": 18,
+    "rating": 4.2,
+    "stock": 282,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/310/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by SoundWave in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 856.32,
+    "discountPercentage": 17,
+    "rating": 3.6,
+    "stock": 163,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/825/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by SoundWave in category books. High quality and great value.",
+    "category": "books",
+    "price": 290.27,
+    "discountPercentage": 5,
+    "rating": 4.3,
+    "stock": 112,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/434/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 615.64,
+    "discountPercentage": 21,
+    "rating": 4.1,
+    "stock": 478,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/129/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 913.83,
+    "discountPercentage": 24,
+    "rating": 4.0,
+    "stock": 266,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/841/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 30.1,
+    "discountPercentage": 5,
+    "rating": 3.8,
+    "stock": 437,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/374/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 890.76,
+    "discountPercentage": 25,
+    "rating": 4.9,
+    "stock": 370,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/706/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 225.68,
+    "discountPercentage": 18,
+    "rating": 5.0,
+    "stock": 179,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/251/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 784.29,
+    "discountPercentage": 9,
+    "rating": 4.2,
+    "stock": 218,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/966/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by HomeStyle in category home. High quality and great value.",
+    "category": "home",
+    "price": 411.12,
+    "discountPercentage": 14,
+    "rating": 3.9,
+    "stock": 379,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/762/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 283.54,
+    "discountPercentage": 16,
+    "rating": 3.9,
+    "stock": 401,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/920/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by GlowUp in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 796.95,
+    "discountPercentage": 13,
+    "rating": 4.2,
+    "stock": 202,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/869/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 480.1,
+    "discountPercentage": 8,
+    "rating": 4.6,
+    "stock": 334,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/262/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 607.73,
+    "discountPercentage": 21,
+    "rating": 4.1,
+    "stock": 269,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/872/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 683.84,
+    "discountPercentage": 24,
+    "rating": 4.9,
+    "stock": 14,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/529/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 257.35,
+    "discountPercentage": 14,
+    "rating": 3.9,
+    "stock": 110,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/715/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by TechPro in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 458.73,
+    "discountPercentage": 24,
+    "rating": 3.6,
+    "stock": 368,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/848/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 482.27,
+    "discountPercentage": 23,
+    "rating": 4.7,
+    "stock": 158,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/270/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 935.31,
+    "discountPercentage": 11,
+    "rating": 4.8,
+    "stock": 383,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/452/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 507.49,
+    "discountPercentage": 20,
+    "rating": 3.7,
+    "stock": 27,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/673/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 463.13,
+    "discountPercentage": 18,
+    "rating": 3.9,
+    "stock": 64,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/289/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by ReadMore in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 541.47,
+    "discountPercentage": 24,
+    "rating": 4.0,
+    "stock": 99,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/905/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Running Shoes",
+    "description": "Running Shoes by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 959.4,
+    "discountPercentage": 10,
+    "rating": 4.2,
+    "stock": 271,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/841/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by SoundWave in category books. High quality and great value.",
+    "category": "books",
+    "price": 659.86,
+    "discountPercentage": 27,
+    "rating": 3.9,
+    "stock": 34,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/184/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 922.03,
+    "discountPercentage": 9,
+    "rating": 4.0,
+    "stock": 385,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/942/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 778.74,
+    "discountPercentage": 5,
+    "rating": 4.6,
+    "stock": 372,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/995/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 126.86,
+    "discountPercentage": 23,
+    "rating": 4.4,
+    "stock": 34,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/156/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 399.52,
+    "discountPercentage": 26,
+    "rating": 5.0,
+    "stock": 330,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/906/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by HomeStyle in category home. High quality and great value.",
+    "category": "home",
+    "price": 169.8,
+    "discountPercentage": 18,
+    "rating": 4.2,
+    "stock": 59,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/330/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by RunMax in category home. High quality and great value.",
+    "category": "home",
+    "price": 89.66,
+    "discountPercentage": 27,
+    "rating": 4.4,
+    "stock": 48,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/411/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 404.8,
+    "discountPercentage": 9,
+    "rating": 3.5,
+    "stock": 296,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/187/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by UrbanWear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 874.86,
+    "discountPercentage": 15,
+    "rating": 4.0,
+    "stock": 33,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/620/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 14.52,
+    "discountPercentage": 11,
+    "rating": 4.9,
+    "stock": 110,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/407/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 526.84,
+    "discountPercentage": 27,
+    "rating": 3.8,
+    "stock": 104,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/558/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 310.05,
+    "discountPercentage": 28,
+    "rating": 4.1,
+    "stock": 77,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/413/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 989.8,
+    "discountPercentage": 21,
+    "rating": 3.7,
+    "stock": 181,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/992/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 680.59,
+    "discountPercentage": 19,
+    "rating": 4.9,
+    "stock": 452,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/876/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 745.0,
+    "discountPercentage": 6,
+    "rating": 4.7,
+    "stock": 48,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/705/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Sunglasses",
+    "description": "Sunglasses by RunMax in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 86.37,
+    "discountPercentage": 15,
+    "rating": 3.8,
+    "stock": 332,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/229/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by HomeStyle in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 639.19,
+    "discountPercentage": 17,
+    "rating": 3.7,
+    "stock": 171,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/968/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 589.41,
+    "discountPercentage": 18,
+    "rating": 4.8,
+    "stock": 489,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/129/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 922.83,
+    "discountPercentage": 13,
+    "rating": 3.5,
+    "stock": 265,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/926/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by RunMax in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 315.52,
+    "discountPercentage": 25,
+    "rating": 3.6,
+    "stock": 124,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/940/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 618.31,
+    "discountPercentage": 14,
+    "rating": 3.9,
+    "stock": 335,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/433/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 178.59,
+    "discountPercentage": 17,
+    "rating": 4.4,
+    "stock": 125,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/497/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by GlowUp in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 51.26,
+    "discountPercentage": 21,
+    "rating": 3.7,
+    "stock": 377,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/339/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by TechPro in category home. High quality and great value.",
+    "category": "home",
+    "price": 267.32,
+    "discountPercentage": 21,
+    "rating": 4.9,
+    "stock": 18,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/695/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 153.62,
+    "discountPercentage": 28,
+    "rating": 3.8,
+    "stock": 318,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/714/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 950.55,
+    "discountPercentage": 11,
+    "rating": 4.3,
+    "stock": 355,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/352/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Smartwatch",
+    "description": "Smartwatch by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 144.65,
+    "discountPercentage": 10,
+    "rating": 3.9,
+    "stock": 162,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/317/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 420.5,
+    "discountPercentage": 22,
+    "rating": 4.3,
+    "stock": 79,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/788/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 545.03,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "stock": 325,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/727/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Sunglasses",
+    "description": "Sunglasses by GlowUp in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 165.56,
+    "discountPercentage": 28,
+    "rating": 3.7,
+    "stock": 52,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/905/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by HomeStyle in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 195.96,
+    "discountPercentage": 30,
+    "rating": 3.9,
+    "stock": 334,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/621/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 181.74,
+    "discountPercentage": 23,
+    "rating": 3.9,
+    "stock": 327,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/844/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by HomeStyle in category books. High quality and great value.",
+    "category": "books",
+    "price": 686.76,
+    "discountPercentage": 16,
+    "rating": 4.4,
+    "stock": 104,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/384/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by HomeStyle in category home. High quality and great value.",
+    "category": "home",
+    "price": 92.39,
+    "discountPercentage": 14,
+    "rating": 4.2,
+    "stock": 458,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/398/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Running Shoes",
+    "description": "Running Shoes by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 257.44,
+    "discountPercentage": 21,
+    "rating": 4.1,
+    "stock": 171,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/731/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 95.81,
+    "discountPercentage": 29,
+    "rating": 3.7,
+    "stock": 418,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/592/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 600.58,
+    "discountPercentage": 24,
+    "rating": 3.9,
+    "stock": 144,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/867/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 585.79,
+    "discountPercentage": 12,
+    "rating": 4.6,
+    "stock": 129,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/413/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by ClassicGear in category home. High quality and great value.",
+    "category": "home",
+    "price": 541.85,
+    "discountPercentage": 30,
+    "rating": 3.9,
+    "stock": 283,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/952/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 471.75,
+    "discountPercentage": 16,
+    "rating": 5.0,
+    "stock": 281,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/406/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 347.54,
+    "discountPercentage": 30,
+    "rating": 4.8,
+    "stock": 407,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/805/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by SoundWave in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 340.7,
+    "discountPercentage": 16,
+    "rating": 3.5,
+    "stock": 230,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/673/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ReadMore in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 999.53,
+    "discountPercentage": 27,
+    "rating": 4.3,
+    "stock": 209,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/494/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by SoundWave in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 304.29,
+    "discountPercentage": 27,
+    "rating": 4.9,
+    "stock": 361,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/861/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 518.84,
+    "discountPercentage": 22,
+    "rating": 4.2,
+    "stock": 323,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/857/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by FitFlex in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 212.02,
+    "discountPercentage": 19,
+    "rating": 4.9,
+    "stock": 191,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/868/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 109.21,
+    "discountPercentage": 27,
+    "rating": 4.5,
+    "stock": 344,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/622/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 113.68,
+    "discountPercentage": 5,
+    "rating": 3.9,
+    "stock": 20,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/682/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Running Shoes",
+    "description": "Running Shoes by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 611.5,
+    "discountPercentage": 21,
+    "rating": 4.3,
+    "stock": 130,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/446/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Sunglasses",
+    "description": "Sunglasses by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 310.74,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "stock": 61,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/776/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by HomeStyle in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 633.06,
+    "discountPercentage": 22,
+    "rating": 3.6,
+    "stock": 246,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/235/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by HomeStyle in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 873.54,
+    "discountPercentage": 8,
+    "rating": 4.1,
+    "stock": 103,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/361/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by UrbanWear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 704.12,
+    "discountPercentage": 7,
+    "rating": 4.4,
+    "stock": 394,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/792/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Running Shoes",
+    "description": "Running Shoes by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 563.56,
+    "discountPercentage": 14,
+    "rating": 4.8,
+    "stock": 267,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/613/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 998.65,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 183,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/965/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Smartwatch",
+    "description": "Smartwatch by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 919.55,
+    "discountPercentage": 30,
+    "rating": 4.3,
+    "stock": 335,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/501/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Sunglasses",
+    "description": "Sunglasses by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 999.37,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 447,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/545/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 94.01,
+    "discountPercentage": 22,
+    "rating": 3.8,
+    "stock": 491,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/823/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Smartwatch",
+    "description": "Smartwatch by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 271.17,
+    "discountPercentage": 19,
+    "rating": 3.7,
+    "stock": 320,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/666/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 297.67,
+    "discountPercentage": 28,
+    "rating": 4.1,
+    "stock": 342,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/962/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by UrbanWear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 82.02,
+    "discountPercentage": 20,
+    "rating": 3.5,
+    "stock": 253,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/277/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 295.43,
+    "discountPercentage": 14,
+    "rating": 3.5,
+    "stock": 149,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/368/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 926.26,
+    "discountPercentage": 8,
+    "rating": 4.5,
+    "stock": 132,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/930/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 633.1,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 99,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/362/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by SoundWave in category home. High quality and great value.",
+    "category": "home",
+    "price": 544.87,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "stock": 27,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/542/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 912.52,
+    "discountPercentage": 12,
+    "rating": 4.3,
+    "stock": 24,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/421/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by FitFlex in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 639.84,
+    "discountPercentage": 10,
+    "rating": 4.0,
+    "stock": 294,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/353/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Running Shoes",
+    "description": "Running Shoes by SoundWave in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 861.25,
+    "discountPercentage": 21,
+    "rating": 3.8,
+    "stock": 461,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/643/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 532.94,
+    "discountPercentage": 6,
+    "rating": 3.8,
+    "stock": 247,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/267/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 725.55,
+    "discountPercentage": 16,
+    "rating": 3.7,
+    "stock": 499,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/514/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by ReadMore in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 373.72,
+    "discountPercentage": 12,
+    "rating": 4.0,
+    "stock": 284,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/876/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 749.93,
+    "discountPercentage": 19,
+    "rating": 3.6,
+    "stock": 73,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/613/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by RunMax in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 786.0,
+    "discountPercentage": 7,
+    "rating": 4.5,
+    "stock": 432,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/188/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by RunMax in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 488.41,
+    "discountPercentage": 21,
+    "rating": 3.6,
+    "stock": 220,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/134/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 823.16,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 292,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/202/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 210.08,
+    "discountPercentage": 30,
+    "rating": 4.5,
+    "stock": 451,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/285/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 282.19,
+    "discountPercentage": 8,
+    "rating": 3.7,
+    "stock": 399,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/145/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by SoundWave in category home. High quality and great value.",
+    "category": "home",
+    "price": 398.46,
+    "discountPercentage": 15,
+    "rating": 4.9,
+    "stock": 471,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/360/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Cookware Set",
+    "description": "Cookware Set by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 292.47,
+    "discountPercentage": 27,
+    "rating": 4.2,
+    "stock": 127,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/964/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 432.43,
+    "discountPercentage": 23,
+    "rating": 4.4,
+    "stock": 228,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/398/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by UrbanWear in category books. High quality and great value.",
+    "category": "books",
+    "price": 225.25,
+    "discountPercentage": 8,
+    "rating": 4.8,
+    "stock": 18,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/972/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Cookware Set",
+    "description": "Cookware Set by UrbanWear in category books. High quality and great value.",
+    "category": "books",
+    "price": 633.71,
+    "discountPercentage": 29,
+    "rating": 4.1,
+    "stock": 397,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/329/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by HomeStyle in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 786.1,
+    "discountPercentage": 14,
+    "rating": 4.4,
+    "stock": 436,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/724/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 522.83,
+    "discountPercentage": 9,
+    "rating": 4.7,
+    "stock": 190,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/588/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 937.6,
+    "discountPercentage": 16,
+    "rating": 4.6,
+    "stock": 210,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/347/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Running Shoes",
+    "description": "Running Shoes by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 420.82,
+    "discountPercentage": 20,
+    "rating": 3.6,
+    "stock": 109,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/692/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Cookware Set",
+    "description": "Cookware Set by SoundWave in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 141.23,
+    "discountPercentage": 24,
+    "rating": 3.7,
+    "stock": 262,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/509/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Running Shoes",
+    "description": "Running Shoes by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 856.07,
+    "discountPercentage": 25,
+    "rating": 4.1,
+    "stock": 317,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/353/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ReadMore in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 232.76,
+    "discountPercentage": 25,
+    "rating": 4.2,
+    "stock": 353,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/736/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 519.07,
+    "discountPercentage": 12,
+    "rating": 4.9,
+    "stock": 125,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/295/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 754.37,
+    "discountPercentage": 30,
+    "rating": 4.3,
+    "stock": 324,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/921/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by TechPro in category home. High quality and great value.",
+    "category": "home",
+    "price": 914.84,
+    "discountPercentage": 7,
+    "rating": 4.9,
+    "stock": 272,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/688/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Running Shoes",
+    "description": "Running Shoes by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 608.01,
+    "discountPercentage": 12,
+    "rating": 4.2,
+    "stock": 205,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/656/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 171.15,
+    "discountPercentage": 9,
+    "rating": 4.1,
+    "stock": 432,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/913/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 919.77,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 489,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/130/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 660.87,
+    "discountPercentage": 29,
+    "rating": 4.9,
+    "stock": 233,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/829/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 513.98,
+    "discountPercentage": 24,
+    "rating": 4.3,
+    "stock": 384,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/373/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 901.06,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 25,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/922/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 493.74,
+    "discountPercentage": 12,
+    "rating": 3.8,
+    "stock": 356,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/701/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 450.4,
+    "discountPercentage": 25,
+    "rating": 4.0,
+    "stock": 450,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/597/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by SoundWave in category home. High quality and great value.",
+    "category": "home",
+    "price": 315.32,
+    "discountPercentage": 24,
+    "rating": 4.8,
+    "stock": 40,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/242/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Cookware Set",
+    "description": "Cookware Set by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 792.67,
+    "discountPercentage": 16,
+    "rating": 4.9,
+    "stock": 108,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/213/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by HomeStyle in category home. High quality and great value.",
+    "category": "home",
+    "price": 308.95,
+    "discountPercentage": 15,
+    "rating": 4.2,
+    "stock": 146,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/927/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Sunglasses",
+    "description": "Sunglasses by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 325.98,
+    "discountPercentage": 19,
+    "rating": 4.1,
+    "stock": 241,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/585/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 393.33,
+    "discountPercentage": 20,
+    "rating": 4.1,
+    "stock": 453,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/302/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 590.77,
+    "discountPercentage": 29,
+    "rating": 4.9,
+    "stock": 435,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/194/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Cookware Set",
+    "description": "Cookware Set by HomeStyle in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 738.79,
+    "discountPercentage": 29,
+    "rating": 4.0,
+    "stock": 28,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/563/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 69.45,
+    "discountPercentage": 24,
+    "rating": 3.6,
+    "stock": 449,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/503/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 644.77,
+    "discountPercentage": 20,
+    "rating": 4.2,
+    "stock": 424,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/146/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Running Shoes",
+    "description": "Running Shoes by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 766.27,
+    "discountPercentage": 22,
+    "rating": 4.3,
+    "stock": 462,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/726/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 384.58,
+    "discountPercentage": 16,
+    "rating": 5.0,
+    "stock": 48,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/498/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 969.32,
+    "discountPercentage": 13,
+    "rating": 4.2,
+    "stock": 246,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/280/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 445.2,
+    "discountPercentage": 13,
+    "rating": 4.7,
+    "stock": 341,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/257/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 534.27,
+    "discountPercentage": 11,
+    "rating": 3.6,
+    "stock": 230,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/619/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Sunglasses",
+    "description": "Sunglasses by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 28.02,
+    "discountPercentage": 19,
+    "rating": 3.8,
+    "stock": 360,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/158/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by HomeStyle in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 648.91,
+    "discountPercentage": 28,
+    "rating": 3.9,
+    "stock": 344,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/871/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by SoundWave in category home. High quality and great value.",
+    "category": "home",
+    "price": 78.32,
+    "discountPercentage": 25,
+    "rating": 3.6,
+    "stock": 204,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/943/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 849.2,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "stock": 427,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/653/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 734.97,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "stock": 461,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/650/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ReadMore in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 153.38,
+    "discountPercentage": 28,
+    "rating": 3.9,
+    "stock": 438,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/987/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 846.01,
+    "discountPercentage": 6,
+    "rating": 4.7,
+    "stock": 192,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/876/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 740.79,
+    "discountPercentage": 29,
+    "rating": 4.0,
+    "stock": 214,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/144/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by HomeStyle in category books. High quality and great value.",
+    "category": "books",
+    "price": 905.23,
+    "discountPercentage": 28,
+    "rating": 4.2,
+    "stock": 313,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/855/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Smartwatch",
+    "description": "Smartwatch by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 837.94,
+    "discountPercentage": 11,
+    "rating": 4.8,
+    "stock": 113,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/804/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 974.56,
+    "discountPercentage": 13,
+    "rating": 3.9,
+    "stock": 404,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/946/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 100.47,
+    "discountPercentage": 9,
+    "rating": 4.9,
+    "stock": 494,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/308/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 996.56,
+    "discountPercentage": 16,
+    "rating": 4.4,
+    "stock": 147,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/618/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Smartwatch",
+    "description": "Smartwatch by SoundWave in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 920.17,
+    "discountPercentage": 29,
+    "rating": 3.7,
+    "stock": 306,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/115/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by TechPro in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 865.94,
+    "discountPercentage": 17,
+    "rating": 4.6,
+    "stock": 108,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/703/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by ClassicGear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 698.36,
+    "discountPercentage": 22,
+    "rating": 4.5,
+    "stock": 90,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/629/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 972.51,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "stock": 376,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/182/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by RunMax in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 814.48,
+    "discountPercentage": 27,
+    "rating": 4.9,
+    "stock": 282,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/929/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ReadMore in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 674.53,
+    "discountPercentage": 23,
+    "rating": 4.3,
+    "stock": 102,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/543/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 131.11,
+    "discountPercentage": 24,
+    "rating": 3.9,
+    "stock": 125,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/785/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by HomeStyle in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 940.95,
+    "discountPercentage": 16,
+    "rating": 5.0,
+    "stock": 41,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/968/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by HomeStyle in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 189.78,
+    "discountPercentage": 8,
+    "rating": 3.6,
+    "stock": 29,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/105/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 234.55,
+    "discountPercentage": 20,
+    "rating": 4.4,
+    "stock": 388,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/249/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 384.87,
+    "discountPercentage": 30,
+    "rating": 4.9,
+    "stock": 443,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/953/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by RunMax in category home. High quality and great value.",
+    "category": "home",
+    "price": 518.95,
+    "discountPercentage": 22,
+    "rating": 4.1,
+    "stock": 182,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/243/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by UrbanWear in category books. High quality and great value.",
+    "category": "books",
+    "price": 701.76,
+    "discountPercentage": 23,
+    "rating": 4.9,
+    "stock": 329,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/736/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 164.52,
+    "discountPercentage": 26,
+    "rating": 4.0,
+    "stock": 344,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/476/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by HomeStyle in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 641.61,
+    "discountPercentage": 12,
+    "rating": 3.8,
+    "stock": 41,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/887/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by RunMax in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 960.03,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "stock": 39,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/779/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 187.75,
+    "discountPercentage": 25,
+    "rating": 4.6,
+    "stock": 188,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/509/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 67.41,
+    "discountPercentage": 13,
+    "rating": 4.4,
+    "stock": 381,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/212/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 697.57,
+    "discountPercentage": 25,
+    "rating": 3.6,
+    "stock": 84,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/565/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Running Shoes",
+    "description": "Running Shoes by RunMax in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 462.93,
+    "discountPercentage": 29,
+    "rating": 4.7,
+    "stock": 179,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/315/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by HomeStyle in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 138.29,
+    "discountPercentage": 25,
+    "rating": 3.7,
+    "stock": 428,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/714/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Cookware Set",
+    "description": "Cookware Set by HomeStyle in category books. High quality and great value.",
+    "category": "books",
+    "price": 706.35,
+    "discountPercentage": 29,
+    "rating": 3.7,
+    "stock": 244,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/293/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by RunMax in category home. High quality and great value.",
+    "category": "home",
+    "price": 443.52,
+    "discountPercentage": 7,
+    "rating": 4.2,
+    "stock": 357,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/206/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 852.77,
+    "discountPercentage": 28,
+    "rating": 4.9,
+    "stock": 142,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/747/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 560.93,
+    "discountPercentage": 15,
+    "rating": 4.4,
+    "stock": 332,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/451/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 140.07,
+    "discountPercentage": 6,
+    "rating": 4.9,
+    "stock": 206,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/762/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 243.47,
+    "discountPercentage": 23,
+    "rating": 3.9,
+    "stock": 334,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/215/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 828.9,
+    "discountPercentage": 25,
+    "rating": 4.2,
+    "stock": 445,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/595/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Cookware Set",
+    "description": "Cookware Set by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 871.79,
+    "discountPercentage": 6,
+    "rating": 4.2,
+    "stock": 138,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/738/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 26.16,
+    "discountPercentage": 10,
+    "rating": 4.0,
+    "stock": 135,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/234/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 453.34,
+    "discountPercentage": 10,
+    "rating": 3.7,
+    "stock": 204,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/182/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by FitFlex in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 303.18,
+    "discountPercentage": 21,
+    "rating": 3.7,
+    "stock": 345,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/360/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 124.05,
+    "discountPercentage": 8,
+    "rating": 4.8,
+    "stock": 67,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/332/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Sunglasses",
+    "description": "Sunglasses by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 489.74,
+    "discountPercentage": 30,
+    "rating": 3.9,
+    "stock": 28,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/254/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Cookware Set",
+    "description": "Cookware Set by RunMax in category home. High quality and great value.",
+    "category": "home",
+    "price": 636.49,
+    "discountPercentage": 15,
+    "rating": 3.6,
+    "stock": 343,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/153/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by TechPro in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 484.6,
+    "discountPercentage": 5,
+    "rating": 3.8,
+    "stock": 211,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/727/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by TechPro in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 386.16,
+    "discountPercentage": 23,
+    "rating": 3.8,
+    "stock": 50,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/627/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 615.39,
+    "discountPercentage": 20,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/694/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Cookware Set",
+    "description": "Cookware Set by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 416.94,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "stock": 474,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/365/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by UrbanWear in category books. High quality and great value.",
+    "category": "books",
+    "price": 527.01,
+    "discountPercentage": 9,
+    "rating": 4.5,
+    "stock": 370,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/380/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ReadMore in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 810.89,
+    "discountPercentage": 14,
+    "rating": 4.4,
+    "stock": 316,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/434/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Running Shoes",
+    "description": "Running Shoes by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 362.79,
+    "discountPercentage": 22,
+    "rating": 5.0,
+    "stock": 94,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/661/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 55.04,
+    "discountPercentage": 23,
+    "rating": 3.8,
+    "stock": 122,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/955/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by SoundWave in category home. High quality and great value.",
+    "category": "home",
+    "price": 260.68,
+    "discountPercentage": 8,
+    "rating": 3.8,
+    "stock": 454,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/438/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 876.21,
+    "discountPercentage": 23,
+    "rating": 3.5,
+    "stock": 414,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/230/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by SoundWave in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 893.87,
+    "discountPercentage": 8,
+    "rating": 3.9,
+    "stock": 84,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/174/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 984.41,
+    "discountPercentage": 19,
+    "rating": 4.7,
+    "stock": 141,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/742/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 589.15,
+    "discountPercentage": 18,
+    "rating": 4.5,
+    "stock": 284,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/157/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 464.13,
+    "discountPercentage": 17,
+    "rating": 4.5,
+    "stock": 88,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/166/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 760.66,
+    "discountPercentage": 23,
+    "rating": 5.0,
+    "stock": 377,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/452/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by GlowUp in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 28.09,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "stock": 203,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/961/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 423.0,
+    "discountPercentage": 7,
+    "rating": 3.9,
+    "stock": 41,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/449/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 840.24,
+    "discountPercentage": 13,
+    "rating": 4.3,
+    "stock": 138,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/170/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Sunglasses",
+    "description": "Sunglasses by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 205.78,
+    "discountPercentage": 28,
+    "rating": 4.9,
+    "stock": 279,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/337/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 578.77,
+    "discountPercentage": 23,
+    "rating": 3.6,
+    "stock": 132,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/144/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Smartwatch",
+    "description": "Smartwatch by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 942.83,
+    "discountPercentage": 26,
+    "rating": 3.8,
+    "stock": 244,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/166/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ClassicGear in category home. High quality and great value.",
+    "category": "home",
+    "price": 461.01,
+    "discountPercentage": 25,
+    "rating": 3.6,
+    "stock": 314,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/741/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Sunglasses",
+    "description": "Sunglasses by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 356.71,
+    "discountPercentage": 23,
+    "rating": 4.5,
+    "stock": 497,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/467/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by UrbanWear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 125.61,
+    "discountPercentage": 6,
+    "rating": 4.1,
+    "stock": 337,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/717/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 796.59,
+    "discountPercentage": 26,
+    "rating": 3.6,
+    "stock": 243,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/150/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 610.06,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 178,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/121/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 218,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 675.01,
+    "discountPercentage": 9,
+    "rating": 4.0,
+    "stock": 296,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/886/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by RunMax in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 683.63,
+    "discountPercentage": 11,
+    "rating": 3.8,
+    "stock": 116,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/671/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 358.76,
+    "discountPercentage": 18,
+    "rating": 4.2,
+    "stock": 354,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/209/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by RunMax in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 913.91,
+    "discountPercentage": 27,
+    "rating": 4.9,
+    "stock": 126,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/353/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 131.69,
+    "discountPercentage": 8,
+    "rating": 4.2,
+    "stock": 350,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/956/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 617.69,
+    "discountPercentage": 10,
+    "rating": 3.7,
+    "stock": 421,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/826/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by UrbanWear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 570.66,
+    "discountPercentage": 25,
+    "rating": 4.1,
+    "stock": 51,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/848/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ClassicGear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 686.66,
+    "discountPercentage": 21,
+    "rating": 4.5,
+    "stock": 152,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/717/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Running Shoes",
+    "description": "Running Shoes by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 281.14,
+    "discountPercentage": 19,
+    "rating": 4.6,
+    "stock": 319,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/448/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Smartwatch",
+    "description": "Smartwatch by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 419.69,
+    "discountPercentage": 11,
+    "rating": 4.7,
+    "stock": 229,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/495/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Running Shoes",
+    "description": "Running Shoes by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 427.22,
+    "discountPercentage": 5,
+    "rating": 4.4,
+    "stock": 367,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/689/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by FitFlex in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 64.02,
+    "discountPercentage": 27,
+    "rating": 3.5,
+    "stock": 22,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/365/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 914.67,
+    "discountPercentage": 15,
+    "rating": 4.1,
+    "stock": 139,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/967/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 685.97,
+    "discountPercentage": 18,
+    "rating": 3.8,
+    "stock": 408,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/742/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Sunglasses",
+    "description": "Sunglasses by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 762.57,
+    "discountPercentage": 13,
+    "rating": 4.0,
+    "stock": 431,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/807/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 773.1,
+    "discountPercentage": 26,
+    "rating": 3.5,
+    "stock": 108,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/529/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 537.69,
+    "discountPercentage": 13,
+    "rating": 3.6,
+    "stock": 411,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/134/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 497.2,
+    "discountPercentage": 11,
+    "rating": 3.8,
+    "stock": 449,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/861/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Smartwatch",
+    "description": "Smartwatch by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 950.57,
+    "discountPercentage": 19,
+    "rating": 4.4,
+    "stock": 199,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/589/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 583.37,
+    "discountPercentage": 9,
+    "rating": 5.0,
+    "stock": 263,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/685/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 30.55,
+    "discountPercentage": 8,
+    "rating": 4.8,
+    "stock": 445,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/789/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 239,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 364.2,
+    "discountPercentage": 16,
+    "rating": 3.9,
+    "stock": 114,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/341/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 240,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 159.55,
+    "discountPercentage": 30,
+    "rating": 3.8,
+    "stock": 35,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/996/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 100.98,
+    "discountPercentage": 13,
+    "rating": 3.9,
+    "stock": 208,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/266/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Running Shoes",
+    "description": "Running Shoes by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 106.58,
+    "discountPercentage": 23,
+    "rating": 3.8,
+    "stock": 291,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/321/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 243,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 784.92,
+    "discountPercentage": 16,
+    "rating": 4.8,
+    "stock": 179,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/933/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 244,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 695.14,
+    "discountPercentage": 26,
+    "rating": 4.2,
+    "stock": 293,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/836/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 65.25,
+    "discountPercentage": 13,
+    "rating": 3.5,
+    "stock": 232,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/583/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 84.0,
+    "discountPercentage": 24,
+    "rating": 4.0,
+    "stock": 259,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/749/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 247,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by SoundWave in category home. High quality and great value.",
+    "category": "home",
+    "price": 590.63,
+    "discountPercentage": 6,
+    "rating": 4.7,
+    "stock": 102,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/354/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by RunMax in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 412.64,
+    "discountPercentage": 19,
+    "rating": 4.8,
+    "stock": 388,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/521/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 249,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 631.35,
+    "discountPercentage": 24,
+    "rating": 3.9,
+    "stock": 60,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/231/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 250,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 852.78,
+    "discountPercentage": 5,
+    "rating": 3.9,
+    "stock": 149,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/883/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 251,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 619.06,
+    "discountPercentage": 8,
+    "rating": 4.2,
+    "stock": 357,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/163/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 252,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 755.76,
+    "discountPercentage": 19,
+    "rating": 3.9,
+    "stock": 427,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/233/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 253,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 765.69,
+    "discountPercentage": 23,
+    "rating": 3.7,
+    "stock": 411,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/636/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 254,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 457.2,
+    "discountPercentage": 15,
+    "rating": 3.8,
+    "stock": 83,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/103/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "Smartwatch",
+    "description": "Smartwatch by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 638.34,
+    "discountPercentage": 15,
+    "rating": 3.8,
+    "stock": 372,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/312/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 256,
+    "title": "Running Shoes",
+    "description": "Running Shoes by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 177.4,
+    "discountPercentage": 12,
+    "rating": 3.7,
+    "stock": 280,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/543/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 257,
+    "title": "Smartwatch",
+    "description": "Smartwatch by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 663.98,
+    "discountPercentage": 16,
+    "rating": 3.9,
+    "stock": 434,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/716/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 880.85,
+    "discountPercentage": 6,
+    "rating": 3.9,
+    "stock": 381,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/543/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 259,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 561.68,
+    "discountPercentage": 16,
+    "rating": 4.2,
+    "stock": 69,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/680/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 260,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by FitFlex in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 900.01,
+    "discountPercentage": 30,
+    "rating": 3.6,
+    "stock": 285,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/404/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 261,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 341.56,
+    "discountPercentage": 6,
+    "rating": 4.5,
+    "stock": 37,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/156/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 262,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by GlowUp in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 243.73,
+    "discountPercentage": 13,
+    "rating": 4.6,
+    "stock": 77,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/388/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by RunMax in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 335.74,
+    "discountPercentage": 9,
+    "rating": 4.5,
+    "stock": 57,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/829/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 264,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 70.73,
+    "discountPercentage": 26,
+    "rating": 4.6,
+    "stock": 127,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/269/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 265,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 825.76,
+    "discountPercentage": 27,
+    "rating": 3.8,
+    "stock": 303,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/871/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 266,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 622.22,
+    "discountPercentage": 19,
+    "rating": 4.5,
+    "stock": 24,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/702/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 267,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 150.6,
+    "discountPercentage": 22,
+    "rating": 3.6,
+    "stock": 241,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/413/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 268,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by HomeStyle in category home. High quality and great value.",
+    "category": "home",
+    "price": 966.31,
+    "discountPercentage": 12,
+    "rating": 4.3,
+    "stock": 188,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/972/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "Cookware Set",
+    "description": "Cookware Set by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 212.62,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 384,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/973/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by HomeStyle in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 575.1,
+    "discountPercentage": 23,
+    "rating": 3.7,
+    "stock": 155,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/762/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 271,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by HomeStyle in category books. High quality and great value.",
+    "category": "books",
+    "price": 767.04,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "stock": 449,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/123/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 272,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 571.4,
+    "discountPercentage": 21,
+    "rating": 4.7,
+    "stock": 265,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/167/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 273,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 213.09,
+    "discountPercentage": 28,
+    "rating": 4.8,
+    "stock": 276,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/649/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 274,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 426.47,
+    "discountPercentage": 15,
+    "rating": 3.8,
+    "stock": 497,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/366/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 785.17,
+    "discountPercentage": 30,
+    "rating": 4.7,
+    "stock": 141,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/162/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 276,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 458.16,
+    "discountPercentage": 25,
+    "rating": 4.8,
+    "stock": 211,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/946/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 277,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 631.35,
+    "discountPercentage": 30,
+    "rating": 4.3,
+    "stock": 242,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/758/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 286.88,
+    "discountPercentage": 28,
+    "rating": 4.4,
+    "stock": 36,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/557/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 279,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 485.32,
+    "discountPercentage": 18,
+    "rating": 3.9,
+    "stock": 482,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/302/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 280,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 214.94,
+    "discountPercentage": 28,
+    "rating": 3.8,
+    "stock": 381,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/357/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 281,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 262.44,
+    "discountPercentage": 23,
+    "rating": 3.8,
+    "stock": 131,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/921/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 282,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ReadMore in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 614.0,
+    "discountPercentage": 30,
+    "rating": 4.9,
+    "stock": 42,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/542/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 283,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 585.28,
+    "discountPercentage": 19,
+    "rating": 4.5,
+    "stock": 167,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/618/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 174.6,
+    "discountPercentage": 9,
+    "rating": 4.4,
+    "stock": 301,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/327/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 285,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 312.6,
+    "discountPercentage": 12,
+    "rating": 3.7,
+    "stock": 63,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/260/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 286,
+    "title": "Smartwatch",
+    "description": "Smartwatch by SoundWave in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 70.71,
+    "discountPercentage": 28,
+    "rating": 3.5,
+    "stock": 359,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/537/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 287,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ClassicGear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 123.68,
+    "discountPercentage": 22,
+    "rating": 4.2,
+    "stock": 167,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/959/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 288,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 871.27,
+    "discountPercentage": 6,
+    "rating": 4.2,
+    "stock": 417,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/313/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 289,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 183.52,
+    "discountPercentage": 16,
+    "rating": 3.7,
+    "stock": 329,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/200/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 644.99,
+    "discountPercentage": 25,
+    "rating": 4.3,
+    "stock": 322,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/536/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 291,
+    "title": "Running Shoes",
+    "description": "Running Shoes by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 176.88,
+    "discountPercentage": 24,
+    "rating": 3.6,
+    "stock": 294,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/576/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 292,
+    "title": "Sunglasses",
+    "description": "Sunglasses by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 246.68,
+    "discountPercentage": 28,
+    "rating": 4.6,
+    "stock": 126,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/748/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 293,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 708.52,
+    "discountPercentage": 26,
+    "rating": 4.0,
+    "stock": 497,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/864/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 294,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 605.11,
+    "discountPercentage": 14,
+    "rating": 4.8,
+    "stock": 390,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/728/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 295,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by RunMax in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 535.19,
+    "discountPercentage": 19,
+    "rating": 3.6,
+    "stock": 335,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/723/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 296,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 676.6,
+    "discountPercentage": 21,
+    "rating": 3.7,
+    "stock": 43,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/403/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 297,
+    "title": "Sunglasses",
+    "description": "Sunglasses by SoundWave in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 684.31,
+    "discountPercentage": 22,
+    "rating": 4.9,
+    "stock": 174,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/137/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 298,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 941.96,
+    "discountPercentage": 11,
+    "rating": 4.0,
+    "stock": 248,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/695/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 299,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ClassicGear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 678.38,
+    "discountPercentage": 26,
+    "rating": 4.6,
+    "stock": 276,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/129/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 300,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 546.8,
+    "discountPercentage": 19,
+    "rating": 4.3,
+    "stock": 381,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/950/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 301,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 549.82,
+    "discountPercentage": 19,
+    "rating": 4.4,
+    "stock": 396,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/917/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 302,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by RunMax in category home. High quality and great value.",
+    "category": "home",
+    "price": 679.32,
+    "discountPercentage": 20,
+    "rating": 4.2,
+    "stock": 389,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/177/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 303,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 125.99,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "stock": 494,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/262/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 304,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 81.56,
+    "discountPercentage": 26,
+    "rating": 4.4,
+    "stock": 473,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/175/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 305,
+    "title": "Running Shoes",
+    "description": "Running Shoes by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 553.07,
+    "discountPercentage": 21,
+    "rating": 4.4,
+    "stock": 367,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/266/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 306,
+    "title": "Sunglasses",
+    "description": "Sunglasses by UrbanWear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 632.42,
+    "discountPercentage": 30,
+    "rating": 3.6,
+    "stock": 276,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/170/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 307,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ClassicGear in category home. High quality and great value.",
+    "category": "home",
+    "price": 825.86,
+    "discountPercentage": 28,
+    "rating": 4.7,
+    "stock": 133,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/114/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 308,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by TechPro in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 910.57,
+    "discountPercentage": 20,
+    "rating": 4.5,
+    "stock": 373,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/108/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 309,
+    "title": "Sunglasses",
+    "description": "Sunglasses by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 485.68,
+    "discountPercentage": 16,
+    "rating": 4.0,
+    "stock": 244,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/604/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 310,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 718.61,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "stock": 246,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/544/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 311,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 268.57,
+    "discountPercentage": 7,
+    "rating": 3.8,
+    "stock": 108,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/201/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 312,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 711.67,
+    "discountPercentage": 24,
+    "rating": 3.8,
+    "stock": 87,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/214/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 313,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 432.53,
+    "discountPercentage": 6,
+    "rating": 4.8,
+    "stock": 65,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/706/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 314,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 165.07,
+    "discountPercentage": 29,
+    "rating": 4.4,
+    "stock": 46,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/138/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 315,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 339.55,
+    "discountPercentage": 9,
+    "rating": 3.5,
+    "stock": 339,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/945/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 316,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ClassicGear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 906.37,
+    "discountPercentage": 12,
+    "rating": 3.8,
+    "stock": 19,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/346/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 317,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 36.19,
+    "discountPercentage": 28,
+    "rating": 4.1,
+    "stock": 336,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/831/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 657.52,
+    "discountPercentage": 27,
+    "rating": 3.9,
+    "stock": 220,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/282/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 319,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by TechPro in category home. High quality and great value.",
+    "category": "home",
+    "price": 232.78,
+    "discountPercentage": 7,
+    "rating": 4.7,
+    "stock": 273,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/173/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 320,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 690.2,
+    "discountPercentage": 5,
+    "rating": 3.7,
+    "stock": 498,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/472/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 321,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 623.62,
+    "discountPercentage": 26,
+    "rating": 4.8,
+    "stock": 448,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/627/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 322,
+    "title": "Cookware Set",
+    "description": "Cookware Set by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 591.16,
+    "discountPercentage": 28,
+    "rating": 4.2,
+    "stock": 284,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/389/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 323,
+    "title": "Smartwatch",
+    "description": "Smartwatch by TechPro in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 479.03,
+    "discountPercentage": 7,
+    "rating": 4.0,
+    "stock": 305,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/448/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 324,
+    "title": "Smartwatch",
+    "description": "Smartwatch by TechPro in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 527.62,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 62,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/520/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 325,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 432.61,
+    "discountPercentage": 10,
+    "rating": 3.6,
+    "stock": 110,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/527/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 326,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 62.99,
+    "discountPercentage": 13,
+    "rating": 4.7,
+    "stock": 291,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/864/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 327,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 982.46,
+    "discountPercentage": 28,
+    "rating": 4.7,
+    "stock": 318,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/518/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 328,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ClassicGear in category home. High quality and great value.",
+    "category": "home",
+    "price": 603.9,
+    "discountPercentage": 20,
+    "rating": 4.0,
+    "stock": 156,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/796/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 329,
+    "title": "Smartwatch",
+    "description": "Smartwatch by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 878.17,
+    "discountPercentage": 24,
+    "rating": 3.8,
+    "stock": 387,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/254/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 330,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by GlowUp in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 255.14,
+    "discountPercentage": 22,
+    "rating": 4.6,
+    "stock": 296,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/571/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 331,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by TechPro in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 993.16,
+    "discountPercentage": 22,
+    "rating": 3.8,
+    "stock": 438,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/122/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 332,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 801.95,
+    "discountPercentage": 24,
+    "rating": 4.3,
+    "stock": 179,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/404/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 333,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by UrbanWear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 181.04,
+    "discountPercentage": 14,
+    "rating": 4.6,
+    "stock": 484,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/533/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 334,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 670.51,
+    "discountPercentage": 11,
+    "rating": 4.0,
+    "stock": 436,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/604/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 335,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by SoundWave in category books. High quality and great value.",
+    "category": "books",
+    "price": 361.72,
+    "discountPercentage": 29,
+    "rating": 3.6,
+    "stock": 150,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/844/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 336,
+    "title": "Sunglasses",
+    "description": "Sunglasses by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 130.36,
+    "discountPercentage": 14,
+    "rating": 4.8,
+    "stock": 18,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/152/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 337,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 400.62,
+    "discountPercentage": 8,
+    "rating": 4.1,
+    "stock": 316,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/457/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 338,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 444.21,
+    "discountPercentage": 26,
+    "rating": 4.1,
+    "stock": 73,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/112/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 339,
+    "title": "Running Shoes",
+    "description": "Running Shoes by ClassicGear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 643.51,
+    "discountPercentage": 26,
+    "rating": 3.6,
+    "stock": 52,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/879/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 340,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by HomeStyle in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 262.83,
+    "discountPercentage": 11,
+    "rating": 4.0,
+    "stock": 151,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/735/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 341,
+    "title": "Cookware Set",
+    "description": "Cookware Set by UrbanWear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 808.17,
+    "discountPercentage": 11,
+    "rating": 4.8,
+    "stock": 119,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/105/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 342,
+    "title": "Sunglasses",
+    "description": "Sunglasses by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 901.75,
+    "discountPercentage": 21,
+    "rating": 4.5,
+    "stock": 104,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/535/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 343,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 445.5,
+    "discountPercentage": 24,
+    "rating": 4.4,
+    "stock": 86,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/229/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 344,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 143.4,
+    "discountPercentage": 30,
+    "rating": 4.2,
+    "stock": 233,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/640/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 345,
+    "title": "Sunglasses",
+    "description": "Sunglasses by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 313.29,
+    "discountPercentage": 13,
+    "rating": 4.9,
+    "stock": 46,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/677/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 346,
+    "title": "Smartwatch",
+    "description": "Smartwatch by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 994.34,
+    "discountPercentage": 16,
+    "rating": 3.7,
+    "stock": 138,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/907/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 347,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 989.32,
+    "discountPercentage": 25,
+    "rating": 3.6,
+    "stock": 79,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/172/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 348,
+    "title": "Cookware Set",
+    "description": "Cookware Set by FitFlex in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 790.77,
+    "discountPercentage": 19,
+    "rating": 4.3,
+    "stock": 391,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/871/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 349,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by SoundWave in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 799.3,
+    "discountPercentage": 26,
+    "rating": 4.0,
+    "stock": 453,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/876/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 350,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by HomeStyle in category home. High quality and great value.",
+    "category": "home",
+    "price": 287.13,
+    "discountPercentage": 13,
+    "rating": 4.1,
+    "stock": 131,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/904/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 351,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ReadMore in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 36.11,
+    "discountPercentage": 11,
+    "rating": 4.4,
+    "stock": 342,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/919/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 352,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 289.57,
+    "discountPercentage": 29,
+    "rating": 4.1,
+    "stock": 292,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/370/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 353,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 240.15,
+    "discountPercentage": 29,
+    "rating": 3.9,
+    "stock": 271,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/935/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 354,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 315.04,
+    "discountPercentage": 9,
+    "rating": 3.9,
+    "stock": 106,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/770/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 355,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by FitFlex in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 63.18,
+    "discountPercentage": 11,
+    "rating": 3.9,
+    "stock": 35,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/361/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 356,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ClassicGear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 86.12,
+    "discountPercentage": 7,
+    "rating": 3.7,
+    "stock": 36,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/295/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 357,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 527.52,
+    "discountPercentage": 18,
+    "rating": 5.0,
+    "stock": 97,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/251/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 358,
+    "title": "Smartwatch",
+    "description": "Smartwatch by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 704.86,
+    "discountPercentage": 16,
+    "rating": 3.8,
+    "stock": 16,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/215/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 359,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 729.7,
+    "discountPercentage": 18,
+    "rating": 4.8,
+    "stock": 469,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/216/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 360,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 324.6,
+    "discountPercentage": 24,
+    "rating": 4.7,
+    "stock": 138,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/314/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 361,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 491.82,
+    "discountPercentage": 22,
+    "rating": 4.3,
+    "stock": 193,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/244/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 362,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 580.86,
+    "discountPercentage": 14,
+    "rating": 4.5,
+    "stock": 475,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/201/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 363,
+    "title": "Smartwatch",
+    "description": "Smartwatch by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 406.61,
+    "discountPercentage": 26,
+    "rating": 4.0,
+    "stock": 92,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/271/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 364,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ClassicGear in category home. High quality and great value.",
+    "category": "home",
+    "price": 490.89,
+    "discountPercentage": 26,
+    "rating": 5.0,
+    "stock": 44,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/806/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 365,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by UrbanWear in category books. High quality and great value.",
+    "category": "books",
+    "price": 60.31,
+    "discountPercentage": 28,
+    "rating": 4.3,
+    "stock": 167,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/348/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 366,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 558.51,
+    "discountPercentage": 24,
+    "rating": 4.4,
+    "stock": 441,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/871/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 367,
+    "title": "Smartwatch",
+    "description": "Smartwatch by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 913.58,
+    "discountPercentage": 20,
+    "rating": 3.7,
+    "stock": 199,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/787/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 368,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by FitFlex in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 738.02,
+    "discountPercentage": 13,
+    "rating": 3.8,
+    "stock": 494,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/971/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 369,
+    "title": "Running Shoes",
+    "description": "Running Shoes by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 611.41,
+    "discountPercentage": 18,
+    "rating": 4.4,
+    "stock": 455,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/731/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 370,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by ReadMore in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 141.08,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "stock": 82,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/249/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 371,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 746.45,
+    "discountPercentage": 26,
+    "rating": 4.2,
+    "stock": 475,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/387/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 372,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by SoundWave in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 548.51,
+    "discountPercentage": 27,
+    "rating": 4.3,
+    "stock": 444,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/486/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 373,
+    "title": "Smartwatch",
+    "description": "Smartwatch by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 466.2,
+    "discountPercentage": 23,
+    "rating": 3.7,
+    "stock": 458,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/393/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 374,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by TechPro in category home. High quality and great value.",
+    "category": "home",
+    "price": 293.33,
+    "discountPercentage": 12,
+    "rating": 4.1,
+    "stock": 306,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/345/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 375,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 262.52,
+    "discountPercentage": 29,
+    "rating": 4.9,
+    "stock": 262,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/972/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 376,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 744.58,
+    "discountPercentage": 11,
+    "rating": 4.2,
+    "stock": 15,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/744/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 377,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 837.88,
+    "discountPercentage": 23,
+    "rating": 3.7,
+    "stock": 101,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/693/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 378,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 124.58,
+    "discountPercentage": 24,
+    "rating": 3.7,
+    "stock": 486,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/541/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 379,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 585.55,
+    "discountPercentage": 11,
+    "rating": 3.9,
+    "stock": 200,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/970/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 380,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by SoundWave in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 850.76,
+    "discountPercentage": 7,
+    "rating": 4.9,
+    "stock": 269,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/202/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 381,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category books. High quality and great value.",
+    "category": "books",
+    "price": 914.47,
+    "discountPercentage": 9,
+    "rating": 3.8,
+    "stock": 360,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/465/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 382,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by TechPro in category home. High quality and great value.",
+    "category": "home",
+    "price": 772.59,
+    "discountPercentage": 13,
+    "rating": 4.0,
+    "stock": 486,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/329/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 383,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 901.07,
+    "discountPercentage": 28,
+    "rating": 3.9,
+    "stock": 29,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/572/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 384,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by SoundWave in category home. High quality and great value.",
+    "category": "home",
+    "price": 81.79,
+    "discountPercentage": 25,
+    "rating": 4.6,
+    "stock": 187,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/297/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 385,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ReadMore in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 210.58,
+    "discountPercentage": 8,
+    "rating": 4.6,
+    "stock": 437,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/954/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 386,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 693.57,
+    "discountPercentage": 17,
+    "rating": 4.5,
+    "stock": 270,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/165/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 387,
+    "title": "Sunglasses",
+    "description": "Sunglasses by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 57.69,
+    "discountPercentage": 8,
+    "rating": 4.9,
+    "stock": 191,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/481/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "Running Shoes",
+    "description": "Running Shoes by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 919.91,
+    "discountPercentage": 8,
+    "rating": 5.0,
+    "stock": 66,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/299/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 389,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 622.11,
+    "discountPercentage": 19,
+    "rating": 4.7,
+    "stock": 213,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/605/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 390,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 652.8,
+    "discountPercentage": 29,
+    "rating": 4.0,
+    "stock": 395,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/900/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 391,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 760.91,
+    "discountPercentage": 13,
+    "rating": 4.8,
+    "stock": 486,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/626/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 392,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by TechPro in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 285.7,
+    "discountPercentage": 18,
+    "rating": 3.7,
+    "stock": 266,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/459/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 393,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by HomeStyle in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 136.91,
+    "discountPercentage": 24,
+    "rating": 3.9,
+    "stock": 49,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/740/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 394,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 560.21,
+    "discountPercentage": 21,
+    "rating": 4.1,
+    "stock": 141,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/295/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 395,
+    "title": "Smartwatch",
+    "description": "Smartwatch by FitFlex in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 973.62,
+    "discountPercentage": 13,
+    "rating": 4.2,
+    "stock": 199,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/970/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 396,
+    "title": "Running Shoes",
+    "description": "Running Shoes by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 151.84,
+    "discountPercentage": 29,
+    "rating": 4.4,
+    "stock": 453,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/593/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 397,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 582.92,
+    "discountPercentage": 22,
+    "rating": 4.3,
+    "stock": 73,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/337/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 398,
+    "title": "Sunglasses",
+    "description": "Sunglasses by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 791.61,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "stock": 326,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/644/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 399,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by FitFlex in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 936.69,
+    "discountPercentage": 16,
+    "rating": 4.4,
+    "stock": 292,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/140/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 400,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 948.39,
+    "discountPercentage": 14,
+    "rating": 3.9,
+    "stock": 261,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/795/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 401,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 570.66,
+    "discountPercentage": 28,
+    "rating": 4.3,
+    "stock": 133,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/471/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 402,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 751.63,
+    "discountPercentage": 29,
+    "rating": 3.7,
+    "stock": 211,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/317/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 403,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by FitFlex in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 374.96,
+    "discountPercentage": 13,
+    "rating": 4.3,
+    "stock": 92,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/784/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 404,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 915.47,
+    "discountPercentage": 8,
+    "rating": 4.6,
+    "stock": 69,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/156/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 405,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ReadMore in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 771.8,
+    "discountPercentage": 23,
+    "rating": 4.1,
+    "stock": 307,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/362/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 406,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 338.99,
+    "discountPercentage": 10,
+    "rating": 3.9,
+    "stock": 172,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/611/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 407,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 579.66,
+    "discountPercentage": 17,
+    "rating": 3.9,
+    "stock": 443,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/790/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 408,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 308.36,
+    "discountPercentage": 18,
+    "rating": 4.5,
+    "stock": 370,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/563/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 409,
+    "title": "Cookware Set",
+    "description": "Cookware Set by GlowUp in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 746.34,
+    "discountPercentage": 20,
+    "rating": 4.0,
+    "stock": 332,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/853/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 410,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by FitFlex in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 297.64,
+    "discountPercentage": 8,
+    "rating": 4.5,
+    "stock": 45,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/428/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 411,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ClassicGear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 938.54,
+    "discountPercentage": 12,
+    "rating": 3.6,
+    "stock": 83,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/160/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 412,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 443.95,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "stock": 307,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/462/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 413,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ClassicGear in category books. High quality and great value.",
+    "category": "books",
+    "price": 968.03,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "stock": 440,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/334/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 414,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by HomeStyle in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 547.74,
+    "discountPercentage": 21,
+    "rating": 4.4,
+    "stock": 255,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/518/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 415,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ClassicGear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 198.65,
+    "discountPercentage": 12,
+    "rating": 3.5,
+    "stock": 247,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/136/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 416,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 224.0,
+    "discountPercentage": 8,
+    "rating": 4.1,
+    "stock": 65,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/981/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 417,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by ReadMore in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 305.9,
+    "discountPercentage": 6,
+    "rating": 5.0,
+    "stock": 328,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/709/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 418,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 763.84,
+    "discountPercentage": 22,
+    "rating": 3.7,
+    "stock": 277,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/311/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 419,
+    "title": "Running Shoes",
+    "description": "Running Shoes by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 374.73,
+    "discountPercentage": 14,
+    "rating": 4.8,
+    "stock": 136,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/813/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 420,
+    "title": "Running Shoes",
+    "description": "Running Shoes by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 713.34,
+    "discountPercentage": 14,
+    "rating": 4.0,
+    "stock": 310,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/285/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 421,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by UrbanWear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 989.62,
+    "discountPercentage": 29,
+    "rating": 4.8,
+    "stock": 86,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/448/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 422,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 415.69,
+    "discountPercentage": 16,
+    "rating": 3.5,
+    "stock": 181,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/210/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 423,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by UrbanWear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 992.03,
+    "discountPercentage": 10,
+    "rating": 3.7,
+    "stock": 232,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/779/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 424,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by TechPro in category books. High quality and great value.",
+    "category": "books",
+    "price": 253.93,
+    "discountPercentage": 8,
+    "rating": 4.1,
+    "stock": 419,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/418/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 425,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 241.65,
+    "discountPercentage": 27,
+    "rating": 3.6,
+    "stock": 355,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/377/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 426,
+    "title": "Sunglasses",
+    "description": "Sunglasses by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 648.23,
+    "discountPercentage": 10,
+    "rating": 3.9,
+    "stock": 221,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/265/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 427,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 955.26,
+    "discountPercentage": 16,
+    "rating": 4.3,
+    "stock": 221,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/339/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 428,
+    "title": "Cookware Set",
+    "description": "Cookware Set by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 57.17,
+    "discountPercentage": 5,
+    "rating": 3.9,
+    "stock": 191,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/541/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 429,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by HomeStyle in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 579.91,
+    "discountPercentage": 18,
+    "rating": 4.8,
+    "stock": 213,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/623/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 430,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 497.53,
+    "discountPercentage": 22,
+    "rating": 4.9,
+    "stock": 140,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/128/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 431,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by RunMax in category home. High quality and great value.",
+    "category": "home",
+    "price": 744.16,
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "stock": 57,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/902/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 432,
+    "title": "Smartwatch",
+    "description": "Smartwatch by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 379.91,
+    "discountPercentage": 9,
+    "rating": 4.1,
+    "stock": 339,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/171/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 433,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 736.01,
+    "discountPercentage": 7,
+    "rating": 4.5,
+    "stock": 39,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/258/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 434,
+    "title": "Cookware Set",
+    "description": "Cookware Set by ReadMore in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 879.56,
+    "discountPercentage": 27,
+    "rating": 3.9,
+    "stock": 176,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/415/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 435,
+    "title": "Smartwatch",
+    "description": "Smartwatch by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 554.32,
+    "discountPercentage": 13,
+    "rating": 4.7,
+    "stock": 348,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/447/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 436,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 757.57,
+    "discountPercentage": 16,
+    "rating": 4.6,
+    "stock": 127,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/908/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 437,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by HomeStyle in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 334.92,
+    "discountPercentage": 5,
+    "rating": 4.4,
+    "stock": 456,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/990/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 438,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 769.02,
+    "discountPercentage": 12,
+    "rating": 3.8,
+    "stock": 281,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/662/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 439,
+    "title": "Running Shoes",
+    "description": "Running Shoes by SoundWave in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 761.6,
+    "discountPercentage": 21,
+    "rating": 3.7,
+    "stock": 130,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/133/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 440,
+    "title": "Cookware Set",
+    "description": "Cookware Set by RunMax in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 684.31,
+    "discountPercentage": 9,
+    "rating": 4.5,
+    "stock": 293,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/726/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 441,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by FitFlex in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 132.3,
+    "discountPercentage": 12,
+    "rating": 4.2,
+    "stock": 217,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/553/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 442,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 474.76,
+    "discountPercentage": 24,
+    "rating": 4.8,
+    "stock": 106,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/178/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 443,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ReadMore in category books. High quality and great value.",
+    "category": "books",
+    "price": 361.76,
+    "discountPercentage": 18,
+    "rating": 3.9,
+    "stock": 319,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/756/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 444,
+    "title": "Fiction Novel",
+    "description": "Fiction Novel by ClassicGear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 704.18,
+    "discountPercentage": 26,
+    "rating": 3.7,
+    "stock": 114,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/784/fff&text=Fiction+Novel"
+    ]
+  },
+  {
+    "id": 445,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 343.29,
+    "discountPercentage": 20,
+    "rating": 4.1,
+    "stock": 327,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/430/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 446,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 962.05,
+    "discountPercentage": 12,
+    "rating": 5.0,
+    "stock": 266,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/631/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 447,
+    "title": "Cookware Set",
+    "description": "Cookware Set by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 976.42,
+    "discountPercentage": 21,
+    "rating": 3.8,
+    "stock": 126,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/615/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 448,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 838.77,
+    "discountPercentage": 13,
+    "rating": 4.5,
+    "stock": 379,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/393/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 449,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 190.44,
+    "discountPercentage": 27,
+    "rating": 4.7,
+    "stock": 32,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/299/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 450,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by ClassicGear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 416.71,
+    "discountPercentage": 23,
+    "rating": 3.9,
+    "stock": 324,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/650/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 451,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by HomeStyle in category books. High quality and great value.",
+    "category": "books",
+    "price": 329.28,
+    "discountPercentage": 20,
+    "rating": 4.2,
+    "stock": 98,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/866/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 452,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by ReadMore in category home. High quality and great value.",
+    "category": "home",
+    "price": 903.52,
+    "discountPercentage": 10,
+    "rating": 3.9,
+    "stock": 245,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/606/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 453,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 374.22,
+    "discountPercentage": 29,
+    "rating": 4.9,
+    "stock": 401,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/221/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 454,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by RunMax in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 243.42,
+    "discountPercentage": 28,
+    "rating": 4.4,
+    "stock": 450,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/619/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 455,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by HomeStyle in category electronics. High quality and great value.",
+    "category": "electronics",
+    "price": 275.47,
+    "discountPercentage": 23,
+    "rating": 4.8,
+    "stock": 364,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/487/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 456,
+    "title": "Sunglasses",
+    "description": "Sunglasses by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 888.66,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "stock": 376,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/888/fff&text=Sunglasses"
+    ]
+  },
+  {
+    "id": 457,
+    "title": "Cookware Set",
+    "description": "Cookware Set by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 573.82,
+    "discountPercentage": 5,
+    "rating": 4.2,
+    "stock": 77,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/127/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 458,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by TechPro in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 514.71,
+    "discountPercentage": 20,
+    "rating": 4.5,
+    "stock": 77,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/470/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 459,
+    "title": "Bluetooth Speaker",
+    "description": "Bluetooth Speaker by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 320.92,
+    "discountPercentage": 25,
+    "rating": 3.6,
+    "stock": 27,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/695/fff&text=Bluetooth+Speaker"
+    ]
+  },
+  {
+    "id": 460,
+    "title": "Face Moisturizer",
+    "description": "Face Moisturizer by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 234.86,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "stock": 202,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/604/fff&text=Face+Moisturizer"
+    ]
+  },
+  {
+    "id": 461,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 136.94,
+    "discountPercentage": 23,
+    "rating": 3.9,
+    "stock": 379,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/522/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 462,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 662.48,
+    "discountPercentage": 27,
+    "rating": 4.3,
+    "stock": 280,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/858/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 463,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 353.09,
+    "discountPercentage": 20,
+    "rating": 4.9,
+    "stock": 355,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/693/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 464,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by RunMax in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 894.49,
+    "discountPercentage": 30,
+    "rating": 3.8,
+    "stock": 65,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/831/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 465,
+    "title": "Running Shoes",
+    "description": "Running Shoes by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 37.31,
+    "discountPercentage": 8,
+    "rating": 4.5,
+    "stock": 432,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/800/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 466,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 442.33,
+    "discountPercentage": 24,
+    "rating": 4.7,
+    "stock": 267,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/989/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 467,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by FitFlex in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 28.76,
+    "discountPercentage": 17,
+    "rating": 4.1,
+    "stock": 253,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/731/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 468,
+    "title": "Smartwatch",
+    "description": "Smartwatch by UrbanWear in category home. High quality and great value.",
+    "category": "home",
+    "price": 773.86,
+    "discountPercentage": 18,
+    "rating": 3.9,
+    "stock": 278,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/981/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 469,
+    "title": "Smartwatch",
+    "description": "Smartwatch by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 158.25,
+    "discountPercentage": 15,
+    "rating": 4.3,
+    "stock": 118,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/667/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 470,
+    "title": "Smartwatch",
+    "description": "Smartwatch by GlowUp in category books. High quality and great value.",
+    "category": "books",
+    "price": 568.93,
+    "discountPercentage": 10,
+    "rating": 4.3,
+    "stock": 136,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/211/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 471,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by GlowUp in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 167.73,
+    "discountPercentage": 24,
+    "rating": 3.8,
+    "stock": 250,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/198/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 472,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by RunMax in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 592.81,
+    "discountPercentage": 24,
+    "rating": 3.6,
+    "stock": 336,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/790/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 473,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by UrbanWear in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 816.94,
+    "discountPercentage": 26,
+    "rating": 4.8,
+    "stock": 159,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/443/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 474,
+    "title": "Gaming Mouse",
+    "description": "Gaming Mouse by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 417.29,
+    "discountPercentage": 20,
+    "rating": 3.7,
+    "stock": 162,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/899/fff&text=Gaming+Mouse"
+    ]
+  },
+  {
+    "id": 475,
+    "title": "Running Shoes",
+    "description": "Running Shoes by ClassicGear in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 205.9,
+    "discountPercentage": 23,
+    "rating": 4.9,
+    "stock": 279,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/313/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 476,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Men's Cotton T-Shirt by SoundWave in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 472.38,
+    "discountPercentage": 27,
+    "rating": 4.4,
+    "stock": 74,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/515/fff&text=Men's+Cotton+T-Shirt"
+    ]
+  },
+  {
+    "id": 477,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 108.48,
+    "discountPercentage": 23,
+    "rating": 4.9,
+    "stock": 157,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/836/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 478,
+    "title": "Leather Wallet",
+    "description": "Leather Wallet by TechPro in category accessories. High quality and great value.",
+    "category": "accessories",
+    "price": 546.03,
+    "discountPercentage": 9,
+    "rating": 3.7,
+    "stock": 351,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/695/fff&text=Leather+Wallet"
+    ]
+  },
+  {
+    "id": 479,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by FitFlex in category books. High quality and great value.",
+    "category": "books",
+    "price": 810.07,
+    "discountPercentage": 20,
+    "rating": 3.6,
+    "stock": 484,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/631/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 480,
+    "title": "Smartwatch",
+    "description": "Smartwatch by SoundWave in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 301.22,
+    "discountPercentage": 12,
+    "rating": 3.8,
+    "stock": 322,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/728/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 481,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by TechPro in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 577.04,
+    "discountPercentage": 29,
+    "rating": 3.8,
+    "stock": 391,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/925/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 482,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by UrbanWear in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 103.77,
+    "discountPercentage": 5,
+    "rating": 4.6,
+    "stock": 58,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/414/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 483,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by GlowUp in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 658.94,
+    "discountPercentage": 14,
+    "rating": 3.8,
+    "stock": 310,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/877/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 484,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by RunMax in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 834.14,
+    "discountPercentage": 11,
+    "rating": 4.6,
+    "stock": 225,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/152/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 485,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ClassicGear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 250.5,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 400,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/256/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 486,
+    "title": "Running Shoes",
+    "description": "Running Shoes by HomeStyle in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 166.42,
+    "discountPercentage": 25,
+    "rating": 3.8,
+    "stock": 334,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/624/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 487,
+    "title": "Smartwatch",
+    "description": "Smartwatch by HomeStyle in category beauty. High quality and great value.",
+    "category": "beauty",
+    "price": 20.64,
+    "discountPercentage": 12,
+    "rating": 3.9,
+    "stock": 41,
+    "brand": "HomeStyle",
+    "images": [
+      "https://dummyimage.com/600x400/649/fff&text=Smartwatch"
+    ]
+  },
+  {
+    "id": 488,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by GlowUp in category home. High quality and great value.",
+    "category": "home",
+    "price": 911.63,
+    "discountPercentage": 22,
+    "rating": 3.6,
+    "stock": 240,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/852/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 489,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by SoundWave in category books. High quality and great value.",
+    "category": "books",
+    "price": 590.48,
+    "discountPercentage": 15,
+    "rating": 3.7,
+    "stock": 464,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/535/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 490,
+    "title": "Running Shoes",
+    "description": "Running Shoes by RunMax in category books. High quality and great value.",
+    "category": "books",
+    "price": 850.06,
+    "discountPercentage": 30,
+    "rating": 4.6,
+    "stock": 53,
+    "brand": "RunMax",
+    "images": [
+      "https://dummyimage.com/600x400/277/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 491,
+    "title": "Cookware Set",
+    "description": "Cookware Set by TechPro in category home. High quality and great value.",
+    "category": "home",
+    "price": 831.3,
+    "discountPercentage": 23,
+    "rating": 4.3,
+    "stock": 301,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/155/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 492,
+    "title": "Dumbbell Set",
+    "description": "Dumbbell Set by ClassicGear in category home. High quality and great value.",
+    "category": "home",
+    "price": 172.47,
+    "discountPercentage": 25,
+    "rating": 4.6,
+    "stock": 171,
+    "brand": "ClassicGear",
+    "images": [
+      "https://dummyimage.com/600x400/404/fff&text=Dumbbell+Set"
+    ]
+  },
+  {
+    "id": 493,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by SoundWave in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 303.51,
+    "discountPercentage": 6,
+    "rating": 4.2,
+    "stock": 176,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/209/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 494,
+    "title": "Laptop Backpack",
+    "description": "Laptop Backpack by GlowUp in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 519.33,
+    "discountPercentage": 7,
+    "rating": 4.8,
+    "stock": 473,
+    "brand": "GlowUp",
+    "images": [
+      "https://dummyimage.com/600x400/273/fff&text=Laptop+Backpack"
+    ]
+  },
+  {
+    "id": 495,
+    "title": "Running Shoes",
+    "description": "Running Shoes by TechPro in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 726.46,
+    "discountPercentage": 29,
+    "rating": 3.8,
+    "stock": 498,
+    "brand": "TechPro",
+    "images": [
+      "https://dummyimage.com/600x400/939/fff&text=Running+Shoes"
+    ]
+  },
+  {
+    "id": 496,
+    "title": "Yoga Mat",
+    "description": "Yoga Mat by ReadMore in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 843.34,
+    "discountPercentage": 7,
+    "rating": 3.8,
+    "stock": 372,
+    "brand": "ReadMore",
+    "images": [
+      "https://dummyimage.com/600x400/777/fff&text=Yoga+Mat"
+    ]
+  },
+  {
+    "id": 497,
+    "title": "Smartphone 128GB",
+    "description": "Smartphone 128GB by SoundWave in category sports. High quality and great value.",
+    "category": "sports",
+    "price": 326.06,
+    "discountPercentage": 23,
+    "rating": 3.6,
+    "stock": 444,
+    "brand": "SoundWave",
+    "images": [
+      "https://dummyimage.com/600x400/604/fff&text=Smartphone+128GB"
+    ]
+  },
+  {
+    "id": 498,
+    "title": "Cookware Set",
+    "description": "Cookware Set by FitFlex in category home. High quality and great value.",
+    "category": "home",
+    "price": 490.67,
+    "discountPercentage": 10,
+    "rating": 4.2,
+    "stock": 47,
+    "brand": "FitFlex",
+    "images": [
+      "https://dummyimage.com/600x400/570/fff&text=Cookware+Set"
+    ]
+  },
+  {
+    "id": 499,
+    "title": "Wireless Headphones",
+    "description": "Wireless Headphones by UrbanWear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 334.61,
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "stock": 264,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/266/fff&text=Wireless+Headphones"
+    ]
+  },
+  {
+    "id": 500,
+    "title": "Running Shoes",
+    "description": "Running Shoes by UrbanWear in category fashion. High quality and great value.",
+    "category": "fashion",
+    "price": 399.72,
+    "discountPercentage": 27,
+    "rating": 4.9,
+    "stock": 346,
+    "brand": "UrbanWear",
+    "images": [
+      "https://dummyimage.com/600x400/893/fff&text=Running+Shoes"
+    ]
+  }
+]

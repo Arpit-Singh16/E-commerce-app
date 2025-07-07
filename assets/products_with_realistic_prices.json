@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "HE0001",
+    "name": "3M Hand Sanitizer 1",
+    "category": "Healthcare",
+    "price": 2030,
+    "image": "https://picsum.photos/seed/health1 /200/200",
+    "description": "3M Hand Sanitizer 1 is a premium quality hand sanitizer from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0002",
+    "name": "Decathlon Skipping Rope 2",
+    "category": "Gym",
+    "price": 27911,
+    "image": "https://picsum.photos/seed/gym2/200/200",
+    "description": "Decathlon Skipping Rope 2 is a premium quality skipping rope from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0003",
+    "name": "Xiaomi Handset 3",
+    "category": "Mobile",
+    "price": 14574,
+    "image": "https://picsum.photos/seed/mobile3/200/200",
+    "description": "Xiaomi Handset 3 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0004",
+    "name": "Asus MacBook 4",
+    "category": "Laptop",
+    "price": 110306,
+    "image": "https://picsum.photos/seed/laptop4/200/200",
+    "description": "Asus MacBook 4 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0005",
+    "name": "3M First Aid Kit 5",
+    "category": "Healthcare",
+    "price": 1115,
+    "image": "https://picsum.photos/seed/health5 /200/200",
+    "description": "3M First Aid Kit 5 is a premium quality first aid kit from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0006",
+    "name": "Nike Jacket 6",
+    "category": "Clothes",
+    "price": 1487,
+    "image": "https://picsum.photos/seed/clothes6/200/200",
+    "description": "Nike Jacket 6 is a premium quality jacket from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0007",
+    "name": "Apple iPhone 7",
+    "category": "Mobile",
+    "price": 18385,
+    "image": "https://picsum.photos/seed/mobile7/200/200",
+    "description": "Apple iPhone 7 is a premium quality iphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0008",
+    "name": "Decathlon Skipping Rope 8",
+    "category": "Gym",
+    "price": 32225,
+    "image": "https://picsum.photos/seed/gym8/200/200",
+    "description": "Decathlon Skipping Rope 8 is a premium quality skipping rope from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0009",
+    "name": "Dell Ultrabook 9",
+    "category": "Laptop",
+    "price": 54839,
+    "image": "https://picsum.photos/seed/laptop9/200/200",
+    "description": "Dell Ultrabook 9 is a premium quality ultrabook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0010",
+    "name": "JBL Bluetooth Speaker 10",
+    "category": "Speaker",
+    "price": 18882,
+    "image": "https://picsum.photos/seed/speaker10/200/200",
+    "description": "JBL Bluetooth Speaker 10 is a premium quality bluetooth speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0011",
+    "name": "Dell Gaming Laptop 11",
+    "category": "Laptop",
+    "price": 145062,
+    "image": "https://picsum.photos/seed/laptop11/200/200",
+    "description": "Dell Gaming Laptop 11 is a premium quality gaming laptop from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0012",
+    "name": "Fitbit Resistance Bands 12",
+    "category": "Gym",
+    "price": 29589,
+    "image": "https://picsum.photos/seed/gym12/200/200",
+    "description": "Fitbit Resistance Bands 12 is a premium quality resistance bands from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0013",
+    "name": "Dell Notebook 13",
+    "category": "Laptop",
+    "price": 102587,
+    "image": "https://picsum.photos/seed/laptop13/200/200",
+    "description": "Dell Notebook 13 is a premium quality notebook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0014",
+    "name": "Fitbit Dumbbells 14",
+    "category": "Gym",
+    "price": 25650,
+    "image": "https://picsum.photos/seed/gym14/200/200",
+    "description": "Fitbit Dumbbells 14 is a premium quality dumbbells from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0015",
+    "name": "HP MacBook 15",
+    "category": "Laptop",
+    "price": 125901,
+    "image": "https://picsum.photos/seed/laptop15/200/200",
+    "description": "HP MacBook 15 is a premium quality macbook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0016",
+    "name": "Adidas Sneakers 16",
+    "category": "Clothes",
+    "price": 907,
+    "image": "https://picsum.photos/seed/clothes16/200/200",
+    "description": "Adidas Sneakers 16 is a premium quality sneakers from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0017",
+    "name": "GSK Thermometer 17",
+    "category": "Healthcare",
+    "price": 4780,
+    "image": "https://picsum.photos/seed/health17 /200/200",
+    "description": "GSK Thermometer 17 is a premium quality thermometer from GSK.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0018",
+    "name": "Nike Jeans 18",
+    "category": "Clothes",
+    "price": 2351,
+    "image": "https://picsum.photos/seed/clothes18/200/200",
+    "description": "Nike Jeans 18 is a premium quality jeans from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0019",
+    "name": "Xiaomi Android Phone 19",
+    "category": "Mobile",
+    "price": 93291,
+    "image": "https://picsum.photos/seed/mobile19/200/200",
+    "description": "Xiaomi Android Phone 19 is a premium quality android phone from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0020",
+    "name": "Acer Notebook 20",
+    "category": "Laptop",
+    "price": 60528,
+    "image": "https://picsum.photos/seed/laptop20/200/200",
+    "description": "Acer Notebook 20 is a premium quality notebook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0021",
+    "name": "Reebok Resistance Bands 21",
+    "category": "Gym",
+    "price": 39983,
+    "image": "https://picsum.photos/seed/gym21/200/200",
+    "description": "Reebok Resistance Bands 21 is a premium quality resistance bands from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0022",
+    "name": "Adidas T-Shirt 22",
+    "category": "Clothes",
+    "price": 315,
+    "image": "https://picsum.photos/seed/clothes22/200/200",
+    "description": "Adidas T-Shirt 22 is a premium quality t-shirt from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0023",
+    "name": "Dr Morepen Thermometer 23",
+    "category": "Healthcare",
+    "price": 7804,
+    "image": "https://picsum.photos/seed/health23 /200/200",
+    "description": "Dr Morepen Thermometer 23 is a premium quality thermometer from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0024",
+    "name": "Adidas Sneakers 24",
+    "category": "Clothes",
+    "price": 578,
+    "image": "https://picsum.photos/seed/clothes24/200/200",
+    "description": "Adidas Sneakers 24 is a premium quality sneakers from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0025",
+    "name": "Xiaomi Handset 25",
+    "category": "Mobile",
+    "price": 101496,
+    "image": "https://picsum.photos/seed/mobile25/200/200",
+    "description": "Xiaomi Handset 25 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0026",
+    "name": "Puma Jacket 26",
+    "category": "Clothes",
+    "price": 406,
+    "image": "https://picsum.photos/seed/clothes26/200/200",
+    "description": "Puma Jacket 26 is a premium quality jacket from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0027",
+    "name": "Puma Dress 27",
+    "category": "Clothes",
+    "price": 2100,
+    "image": "https://picsum.photos/seed/clothes27/200/200",
+    "description": "Puma Dress 27 is a premium quality dress from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0028",
+    "name": "Bowflex Resistance Bands 28",
+    "category": "Gym",
+    "price": 9891,
+    "image": "https://picsum.photos/seed/gym28/200/200",
+    "description": "Bowflex Resistance Bands 28 is a premium quality resistance bands from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0029",
+    "name": "Bowflex Treadmill 29",
+    "category": "Gym",
+    "price": 18456,
+    "image": "https://picsum.photos/seed/gym29/200/200",
+    "description": "Bowflex Treadmill 29 is a premium quality treadmill from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0030",
+    "name": "GSK Face Mask 30",
+    "category": "Healthcare",
+    "price": 1189,
+    "image": "https://picsum.photos/seed/health30 /200/200",
+    "description": "GSK Face Mask 30 is a premium quality face mask from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0031",
+    "name": "GSK Hand Sanitizer 31",
+    "category": "Healthcare",
+    "price": 5641,
+    "image": "https://picsum.photos/seed/health31 /200/200",
+    "description": "GSK Hand Sanitizer 31 is a premium quality hand sanitizer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0032",
+    "name": "3M Thermometer 32",
+    "category": "Healthcare",
+    "price": 5831,
+    "image": "https://picsum.photos/seed/health32 /200/200",
+    "description": "3M Thermometer 32 is a premium quality thermometer from 3M.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0033",
+    "name": "3M Face Mask 33",
+    "category": "Healthcare",
+    "price": 1289,
+    "image": "https://picsum.photos/seed/health33 /200/200",
+    "description": "3M Face Mask 33 is a premium quality face mask from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0034",
+    "name": "Adidas Dress 34",
+    "category": "Clothes",
+    "price": 1822,
+    "image": "https://picsum.photos/seed/clothes34/200/200",
+    "description": "Adidas Dress 34 is a premium quality dress from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0035",
+    "name": "Apple iPhone 35",
+    "category": "Mobile",
+    "price": 72778,
+    "image": "https://picsum.photos/seed/mobile35/200/200",
+    "description": "Apple iPhone 35 is a premium quality iphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0036",
+    "name": "Asus MacBook 36",
+    "category": "Laptop",
+    "price": 197274,
+    "image": "https://picsum.photos/seed/laptop36/200/200",
+    "description": "Asus MacBook 36 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0037",
+    "name": "Bowflex Skipping Rope 37",
+    "category": "Gym",
+    "price": 29020,
+    "image": "https://picsum.photos/seed/gym37/200/200",
+    "description": "Bowflex Skipping Rope 37 is a premium quality skipping rope from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0038",
+    "name": "Dr Morepen Hand Sanitizer 38",
+    "category": "Healthcare",
+    "price": 6716,
+    "image": "https://picsum.photos/seed/health38 /200/200",
+    "description": "Dr Morepen Hand Sanitizer 38 is a premium quality hand sanitizer from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0039",
+    "name": "Reebok Dumbbells 39",
+    "category": "Gym",
+    "price": 18914,
+    "image": "https://picsum.photos/seed/gym39/200/200",
+    "description": "Reebok Dumbbells 39 is a premium quality dumbbells from Reebok.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0040",
+    "name": "Fitbit Skipping Rope 40",
+    "category": "Gym",
+    "price": 26751,
+    "image": "https://picsum.photos/seed/gym40/200/200",
+    "description": "Fitbit Skipping Rope 40 is a premium quality skipping rope from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0041",
+    "name": "Levi's Jacket 41",
+    "category": "Clothes",
+    "price": 820,
+    "image": "https://picsum.photos/seed/clothes41/200/200",
+    "description": "Levi's Jacket 41 is a premium quality jacket from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0042",
+    "name": "Cipla Thermometer 42",
+    "category": "Healthcare",
+    "price": 5987,
+    "image": "https://picsum.photos/seed/health42 /200/200",
+    "description": "Cipla Thermometer 42 is a premium quality thermometer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0043",
+    "name": "Bowflex Yoga Mat 43",
+    "category": "Gym",
+    "price": 22280,
+    "image": "https://picsum.photos/seed/gym43/200/200",
+    "description": "Bowflex Yoga Mat 43 is a premium quality yoga mat from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0044",
+    "name": "Dr Morepen First Aid Kit 44",
+    "category": "Healthcare",
+    "price": 5082,
+    "image": "https://picsum.photos/seed/health44 /200/200",
+    "description": "Dr Morepen First Aid Kit 44 is a premium quality first aid kit from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0045",
+    "name": "Adidas Jacket 45",
+    "category": "Clothes",
+    "price": 2025,
+    "image": "https://picsum.photos/seed/clothes45/200/200",
+    "description": "Adidas Jacket 45 is a premium quality jacket from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0046",
+    "name": "Zara Jeans 46",
+    "category": "Clothes",
+    "price": 704,
+    "image": "https://picsum.photos/seed/clothes46/200/200",
+    "description": "Zara Jeans 46 is a premium quality jeans from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0047",
+    "name": "Dell Notebook 47",
+    "category": "Laptop",
+    "price": 84849,
+    "image": "https://picsum.photos/seed/laptop47/200/200",
+    "description": "Dell Notebook 47 is a premium quality notebook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0048",
+    "name": "Anker Bluetooth Speaker 48",
+    "category": "Speaker",
+    "price": 4735,
+    "image": "https://picsum.photos/seed/speaker48/200/200",
+    "description": "Anker Bluetooth Speaker 48 is a premium quality bluetooth speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0049",
+    "name": "Apple Handset 49",
+    "category": "Mobile",
+    "price": 43173,
+    "image": "https://picsum.photos/seed/mobile49/200/200",
+    "description": "Apple Handset 49 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0050",
+    "name": "Lenovo Gaming Laptop 50",
+    "category": "Laptop",
+    "price": 59875,
+    "image": "https://picsum.photos/seed/laptop50/200/200",
+    "description": "Lenovo Gaming Laptop 50 is a premium quality gaming laptop from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0051",
+    "name": "OnePlus Handset 51",
+    "category": "Mobile",
+    "price": 57409,
+    "image": "https://picsum.photos/seed/mobile51/200/200",
+    "description": "OnePlus Handset 51 is a premium quality handset from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0052",
+    "name": "Decathlon Dumbbells 52",
+    "category": "Gym",
+    "price": 25411,
+    "image": "https://picsum.photos/seed/gym52/200/200",
+    "description": "Decathlon Dumbbells 52 is a premium quality dumbbells from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0053",
+    "name": "OnePlus Smartphone 53",
+    "category": "Mobile",
+    "price": 68990,
+    "image": "https://picsum.photos/seed/mobile53/200/200",
+    "description": "OnePlus Smartphone 53 is a premium quality smartphone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0054",
+    "name": "Levi's Sneakers 54",
+    "category": "Clothes",
+    "price": 4661,
+    "image": "https://picsum.photos/seed/clothes54/200/200",
+    "description": "Levi's Sneakers 54 is a premium quality sneakers from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0055",
+    "name": "Lenovo Gaming Laptop 55",
+    "category": "Laptop",
+    "price": 64036,
+    "image": "https://picsum.photos/seed/laptop55/200/200",
+    "description": "Lenovo Gaming Laptop 55 is a premium quality gaming laptop from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0056",
+    "name": "Zara T-Shirt 56",
+    "category": "Clothes",
+    "price": 3094,
+    "image": "https://picsum.photos/seed/clothes56/200/200",
+    "description": "Zara T-Shirt 56 is a premium quality t-shirt from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0057",
+    "name": "Philips Smart Speaker 57",
+    "category": "Speaker",
+    "price": 2103,
+    "image": "https://picsum.photos/seed/speaker57/200/200",
+    "description": "Philips Smart Speaker 57 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0058",
+    "name": "Xiaomi iPhone 58",
+    "category": "Mobile",
+    "price": 9579,
+    "image": "https://picsum.photos/seed/mobile58/200/200",
+    "description": "Xiaomi iPhone 58 is a premium quality iphone from Xiaomi.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0059",
+    "name": "Google Smartphone 59",
+    "category": "Mobile",
+    "price": 71273,
+    "image": "https://picsum.photos/seed/mobile59/200/200",
+    "description": "Google Smartphone 59 is a premium quality smartphone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0060",
+    "name": "Philips Hand Sanitizer 60",
+    "category": "Healthcare",
+    "price": 4666,
+    "image": "https://picsum.photos/seed/health60 /200/200",
+    "description": "Philips Hand Sanitizer 60 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0061",
+    "name": "Decathlon Dumbbells 61",
+    "category": "Gym",
+    "price": 16521,
+    "image": "https://picsum.photos/seed/gym61/200/200",
+    "description": "Decathlon Dumbbells 61 is a premium quality dumbbells from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0062",
+    "name": "Dell MacBook 62",
+    "category": "Laptop",
+    "price": 111734,
+    "image": "https://picsum.photos/seed/laptop62/200/200",
+    "description": "Dell MacBook 62 is a premium quality macbook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0063",
+    "name": "HP Ultrabook 63",
+    "category": "Laptop",
+    "price": 69958,
+    "image": "https://picsum.photos/seed/laptop63/200/200",
+    "description": "HP Ultrabook 63 is a premium quality ultrabook from HP.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0064",
+    "name": "Under Armour Resistance Bands 64",
+    "category": "Gym",
+    "price": 28477,
+    "image": "https://picsum.photos/seed/gym64/200/200",
+    "description": "Under Armour Resistance Bands 64 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0065",
+    "name": "HP Notebook 65",
+    "category": "Laptop",
+    "price": 128018,
+    "image": "https://picsum.photos/seed/laptop65/200/200",
+    "description": "HP Notebook 65 is a premium quality notebook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0066",
+    "name": "Apple Handset 66",
+    "category": "Mobile",
+    "price": 79207,
+    "image": "https://picsum.photos/seed/mobile66/200/200",
+    "description": "Apple Handset 66 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0067",
+    "name": "Dr Morepen Hand Sanitizer 67",
+    "category": "Healthcare",
+    "price": 5834,
+    "image": "https://picsum.photos/seed/health67 /200/200",
+    "description": "Dr Morepen Hand Sanitizer 67 is a premium quality hand sanitizer from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0068",
+    "name": "Fitbit Resistance Bands 68",
+    "category": "Gym",
+    "price": 10100,
+    "image": "https://picsum.photos/seed/gym68/200/200",
+    "description": "Fitbit Resistance Bands 68 is a premium quality resistance bands from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0069",
+    "name": "Fitbit Skipping Rope 69",
+    "category": "Gym",
+    "price": 2552,
+    "image": "https://picsum.photos/seed/gym69/200/200",
+    "description": "Fitbit Skipping Rope 69 is a premium quality skipping rope from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0070",
+    "name": "Asus Gaming Laptop 70",
+    "category": "Laptop",
+    "price": 99075,
+    "image": "https://picsum.photos/seed/laptop70/200/200",
+    "description": "Asus Gaming Laptop 70 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0071",
+    "name": "Bowflex Yoga Mat 71",
+    "category": "Gym",
+    "price": 28477,
+    "image": "https://picsum.photos/seed/gym71/200/200",
+    "description": "Bowflex Yoga Mat 71 is a premium quality yoga mat from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0072",
+    "name": "Lenovo Ultrabook 72",
+    "category": "Laptop",
+    "price": 181170,
+    "image": "https://picsum.photos/seed/laptop72/200/200",
+    "description": "Lenovo Ultrabook 72 is a premium quality ultrabook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0073",
+    "name": "Dr Morepen Vitamins 73",
+    "category": "Healthcare",
+    "price": 3638,
+    "image": "https://picsum.photos/seed/health73 /200/200",
+    "description": "Dr Morepen Vitamins 73 is a premium quality vitamins from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0074",
+    "name": "Dell Gaming Laptop 74",
+    "category": "Laptop",
+    "price": 134919,
+    "image": "https://picsum.photos/seed/laptop74/200/200",
+    "description": "Dell Gaming Laptop 74 is a premium quality gaming laptop from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0075",
+    "name": "Philips Thermometer 75",
+    "category": "Healthcare",
+    "price": 3525,
+    "image": "https://picsum.photos/seed/health75 /200/200",
+    "description": "Philips Thermometer 75 is a premium quality thermometer from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0076",
+    "name": "Samsung Handset 76",
+    "category": "Mobile",
+    "price": 119305,
+    "image": "https://picsum.photos/seed/mobile76/200/200",
+    "description": "Samsung Handset 76 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0077",
+    "name": "Decathlon Treadmill 77",
+    "category": "Gym",
+    "price": 4466,
+    "image": "https://picsum.photos/seed/gym77/200/200",
+    "description": "Decathlon Treadmill 77 is a premium quality treadmill from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0078",
+    "name": "Cipla Thermometer 78",
+    "category": "Healthcare",
+    "price": 249,
+    "image": "https://picsum.photos/seed/health78 /200/200",
+    "description": "Cipla Thermometer 78 is a premium quality thermometer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0079",
+    "name": "Philips Bluetooth Speaker 79",
+    "category": "Speaker",
+    "price": 16870,
+    "image": "https://picsum.photos/seed/speaker79/200/200",
+    "description": "Philips Bluetooth Speaker 79 is a premium quality bluetooth speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0080",
+    "name": "Sony Soundbar 80",
+    "category": "Speaker",
+    "price": 15679,
+    "image": "https://picsum.photos/seed/speaker80/200/200",
+    "description": "Sony Soundbar 80 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0081",
+    "name": "Bowflex Dumbbells 81",
+    "category": "Gym",
+    "price": 35520,
+    "image": "https://picsum.photos/seed/gym81/200/200",
+    "description": "Bowflex Dumbbells 81 is a premium quality dumbbells from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0082",
+    "name": "Puma Sneakers 82",
+    "category": "Clothes",
+    "price": 2325,
+    "image": "https://picsum.photos/seed/clothes82/200/200",
+    "description": "Puma Sneakers 82 is a premium quality sneakers from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0083",
+    "name": "Philips Thermometer 83",
+    "category": "Healthcare",
+    "price": 6084,
+    "image": "https://picsum.photos/seed/health83 /200/200",
+    "description": "Philips Thermometer 83 is a premium quality thermometer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0084",
+    "name": "Dr Morepen Hand Sanitizer 84",
+    "category": "Healthcare",
+    "price": 7130,
+    "image": "https://picsum.photos/seed/health84 /200/200",
+    "description": "Dr Morepen Hand Sanitizer 84 is a premium quality hand sanitizer from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0085",
+    "name": "Adidas Dress 85",
+    "category": "Clothes",
+    "price": 469,
+    "image": "https://picsum.photos/seed/clothes85/200/200",
+    "description": "Adidas Dress 85 is a premium quality dress from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0086",
+    "name": "Dr Morepen Face Mask 86",
+    "category": "Healthcare",
+    "price": 1146,
+    "image": "https://picsum.photos/seed/health86 /200/200",
+    "description": "Dr Morepen Face Mask 86 is a premium quality face mask from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0087",
+    "name": "Xiaomi iPhone 87",
+    "category": "Mobile",
+    "price": 7019,
+    "image": "https://picsum.photos/seed/mobile87/200/200",
+    "description": "Xiaomi iPhone 87 is a premium quality iphone from Xiaomi.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0088",
+    "name": "Levi's Jeans 88",
+    "category": "Clothes",
+    "price": 3243,
+    "image": "https://picsum.photos/seed/clothes88/200/200",
+    "description": "Levi's Jeans 88 is a premium quality jeans from Levi's.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0089",
+    "name": "Samsung Android Phone 89",
+    "category": "Mobile",
+    "price": 7102,
+    "image": "https://picsum.photos/seed/mobile89/200/200",
+    "description": "Samsung Android Phone 89 is a premium quality android phone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0090",
+    "name": "Under Armour Dumbbells 90",
+    "category": "Gym",
+    "price": 5000,
+    "image": "https://picsum.photos/seed/gym90/200/200",
+    "description": "Under Armour Dumbbells 90 is a premium quality dumbbells from Under Armour.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0091",
+    "name": "Google Smartphone 91",
+    "category": "Mobile",
+    "price": 62778,
+    "image": "https://picsum.photos/seed/mobile91/200/200",
+    "description": "Google Smartphone 91 is a premium quality smartphone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0092",
+    "name": "Levi's Jeans 92",
+    "category": "Clothes",
+    "price": 1459,
+    "image": "https://picsum.photos/seed/clothes92/200/200",
+    "description": "Levi's Jeans 92 is a premium quality jeans from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0093",
+    "name": "Adidas Dress 93",
+    "category": "Clothes",
+    "price": 2233,
+    "image": "https://picsum.photos/seed/clothes93/200/200",
+    "description": "Adidas Dress 93 is a premium quality dress from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0094",
+    "name": "Acer MacBook 94",
+    "category": "Laptop",
+    "price": 37918,
+    "image": "https://picsum.photos/seed/laptop94/200/200",
+    "description": "Acer MacBook 94 is a premium quality macbook from Acer.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0095",
+    "name": "GSK Hand Sanitizer 95",
+    "category": "Healthcare",
+    "price": 5360,
+    "image": "https://picsum.photos/seed/health95 /200/200",
+    "description": "GSK Hand Sanitizer 95 is a premium quality hand sanitizer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0096",
+    "name": "Levi's Dress 96",
+    "category": "Clothes",
+    "price": 2079,
+    "image": "https://picsum.photos/seed/clothes96/200/200",
+    "description": "Levi's Dress 96 is a premium quality dress from Levi's.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0097",
+    "name": "Fitbit Dumbbells 97",
+    "category": "Gym",
+    "price": 18920,
+    "image": "https://picsum.photos/seed/gym97/200/200",
+    "description": "Fitbit Dumbbells 97 is a premium quality dumbbells from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0098",
+    "name": "Philips Hand Sanitizer 98",
+    "category": "Healthcare",
+    "price": 3655,
+    "image": "https://picsum.photos/seed/health98 /200/200",
+    "description": "Philips Hand Sanitizer 98 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0099",
+    "name": "Philips Soundbar 99",
+    "category": "Speaker",
+    "price": 5833,
+    "image": "https://picsum.photos/seed/speaker99/200/200",
+    "description": "Philips Soundbar 99 is a premium quality soundbar from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0100",
+    "name": "Sony Smart Speaker 100",
+    "category": "Speaker",
+    "price": 11300,
+    "image": "https://picsum.photos/seed/speaker0/200/200",
+    "description": "Sony Smart Speaker 100 is a premium quality smart speaker from Sony.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0101",
+    "name": "Philips Thermometer 101",
+    "category": "Healthcare",
+    "price": 3996,
+    "image": "https://picsum.photos/seed/health1 /200/200",
+    "description": "Philips Thermometer 101 is a premium quality thermometer from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0102",
+    "name": "JBL Soundbar 102",
+    "category": "Speaker",
+    "price": 3276,
+    "image": "https://picsum.photos/seed/speaker2/200/200",
+    "description": "JBL Soundbar 102 is a premium quality soundbar from JBL.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0103",
+    "name": "Bose Portable Speaker 103",
+    "category": "Speaker",
+    "price": 11670,
+    "image": "https://picsum.photos/seed/speaker3/200/200",
+    "description": "Bose Portable Speaker 103 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0104",
+    "name": "Reebok Treadmill 104",
+    "category": "Gym",
+    "price": 23046,
+    "image": "https://picsum.photos/seed/gym4/200/200",
+    "description": "Reebok Treadmill 104 is a premium quality treadmill from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0105",
+    "name": "Google Android Phone 105",
+    "category": "Mobile",
+    "price": 6364,
+    "image": "https://picsum.photos/seed/mobile5/200/200",
+    "description": "Google Android Phone 105 is a premium quality android phone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0106",
+    "name": "Reebok Dumbbells 106",
+    "category": "Gym",
+    "price": 21412,
+    "image": "https://picsum.photos/seed/gym6/200/200",
+    "description": "Reebok Dumbbells 106 is a premium quality dumbbells from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0107",
+    "name": "Bowflex Resistance Bands 107",
+    "category": "Gym",
+    "price": 23047,
+    "image": "https://picsum.photos/seed/gym7/200/200",
+    "description": "Bowflex Resistance Bands 107 is a premium quality resistance bands from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0108",
+    "name": "Bowflex Skipping Rope 108",
+    "category": "Gym",
+    "price": 1237,
+    "image": "https://picsum.photos/seed/gym8/200/200",
+    "description": "Bowflex Skipping Rope 108 is a premium quality skipping rope from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0109",
+    "name": "Nike Sneakers 109",
+    "category": "Clothes",
+    "price": 525,
+    "image": "https://picsum.photos/seed/clothes9/200/200",
+    "description": "Nike Sneakers 109 is a premium quality sneakers from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0110",
+    "name": "Decathlon Treadmill 110",
+    "category": "Gym",
+    "price": 1403,
+    "image": "https://picsum.photos/seed/gym10/200/200",
+    "description": "Decathlon Treadmill 110 is a premium quality treadmill from Decathlon.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0111",
+    "name": "OnePlus Smartphone 111",
+    "category": "Mobile",
+    "price": 45449,
+    "image": "https://picsum.photos/seed/mobile11/200/200",
+    "description": "OnePlus Smartphone 111 is a premium quality smartphone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0112",
+    "name": "Apple Android Phone 112",
+    "category": "Mobile",
+    "price": 98428,
+    "image": "https://picsum.photos/seed/mobile12/200/200",
+    "description": "Apple Android Phone 112 is a premium quality android phone from Apple.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0113",
+    "name": "JBL Bluetooth Speaker 113",
+    "category": "Speaker",
+    "price": 1523,
+    "image": "https://picsum.photos/seed/speaker13/200/200",
+    "description": "JBL Bluetooth Speaker 113 is a premium quality bluetooth speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0114",
+    "name": "Philips Smart Speaker 114",
+    "category": "Speaker",
+    "price": 6553,
+    "image": "https://picsum.photos/seed/speaker14/200/200",
+    "description": "Philips Smart Speaker 114 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0115",
+    "name": "HP Ultrabook 115",
+    "category": "Laptop",
+    "price": 82808,
+    "image": "https://picsum.photos/seed/laptop15/200/200",
+    "description": "HP Ultrabook 115 is a premium quality ultrabook from HP.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0116",
+    "name": "Asus Gaming Laptop 116",
+    "category": "Laptop",
+    "price": 107284,
+    "image": "https://picsum.photos/seed/laptop16/200/200",
+    "description": "Asus Gaming Laptop 116 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0117",
+    "name": "Philips Soundbar 117",
+    "category": "Speaker",
+    "price": 16671,
+    "image": "https://picsum.photos/seed/speaker17/200/200",
+    "description": "Philips Soundbar 117 is a premium quality soundbar from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0118",
+    "name": "Samsung Handset 118",
+    "category": "Mobile",
+    "price": 60433,
+    "image": "https://picsum.photos/seed/mobile18/200/200",
+    "description": "Samsung Handset 118 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0119",
+    "name": "Apple Handset 119",
+    "category": "Mobile",
+    "price": 111444,
+    "image": "https://picsum.photos/seed/mobile19/200/200",
+    "description": "Apple Handset 119 is a premium quality handset from Apple.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0120",
+    "name": "Philips Portable Speaker 120",
+    "category": "Speaker",
+    "price": 1598,
+    "image": "https://picsum.photos/seed/speaker20/200/200",
+    "description": "Philips Portable Speaker 120 is a premium quality portable speaker from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0121",
+    "name": "Under Armour Yoga Mat 121",
+    "category": "Gym",
+    "price": 11791,
+    "image": "https://picsum.photos/seed/gym21/200/200",
+    "description": "Under Armour Yoga Mat 121 is a premium quality yoga mat from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0122",
+    "name": "Philips Thermometer 122",
+    "category": "Healthcare",
+    "price": 4948,
+    "image": "https://picsum.photos/seed/health22 /200/200",
+    "description": "Philips Thermometer 122 is a premium quality thermometer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0123",
+    "name": "Lenovo Gaming Laptop 123",
+    "category": "Laptop",
+    "price": 175767,
+    "image": "https://picsum.photos/seed/laptop23/200/200",
+    "description": "Lenovo Gaming Laptop 123 is a premium quality gaming laptop from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0124",
+    "name": "Philips Smart Speaker 124",
+    "category": "Speaker",
+    "price": 3807,
+    "image": "https://picsum.photos/seed/speaker24/200/200",
+    "description": "Philips Smart Speaker 124 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0125",
+    "name": "Dell MacBook 125",
+    "category": "Laptop",
+    "price": 127909,
+    "image": "https://picsum.photos/seed/laptop25/200/200",
+    "description": "Dell MacBook 125 is a premium quality macbook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0126",
+    "name": "Sony Soundbar 126",
+    "category": "Speaker",
+    "price": 20634,
+    "image": "https://picsum.photos/seed/speaker26/200/200",
+    "description": "Sony Soundbar 126 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0127",
+    "name": "Nike T-Shirt 127",
+    "category": "Clothes",
+    "price": 1612,
+    "image": "https://picsum.photos/seed/clothes27/200/200",
+    "description": "Nike T-Shirt 127 is a premium quality t-shirt from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0128",
+    "name": "Apple Handset 128",
+    "category": "Mobile",
+    "price": 18457,
+    "image": "https://picsum.photos/seed/mobile28/200/200",
+    "description": "Apple Handset 128 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0129",
+    "name": "Bose Soundbar 129",
+    "category": "Speaker",
+    "price": 6055,
+    "image": "https://picsum.photos/seed/speaker29/200/200",
+    "description": "Bose Soundbar 129 is a premium quality soundbar from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0130",
+    "name": "Xiaomi Android Phone 130",
+    "category": "Mobile",
+    "price": 115452,
+    "image": "https://picsum.photos/seed/mobile30/200/200",
+    "description": "Xiaomi Android Phone 130 is a premium quality android phone from Xiaomi.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0131",
+    "name": "Bose Portable Speaker 131",
+    "category": "Speaker",
+    "price": 24007,
+    "image": "https://picsum.photos/seed/speaker31/200/200",
+    "description": "Bose Portable Speaker 131 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0132",
+    "name": "Samsung Handset 132",
+    "category": "Mobile",
+    "price": 68294,
+    "image": "https://picsum.photos/seed/mobile32/200/200",
+    "description": "Samsung Handset 132 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0133",
+    "name": "Philips Portable Speaker 133",
+    "category": "Speaker",
+    "price": 9576,
+    "image": "https://picsum.photos/seed/speaker33/200/200",
+    "description": "Philips Portable Speaker 133 is a premium quality portable speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0134",
+    "name": "Zara Jacket 134",
+    "category": "Clothes",
+    "price": 1462,
+    "image": "https://picsum.photos/seed/clothes34/200/200",
+    "description": "Zara Jacket 134 is a premium quality jacket from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0135",
+    "name": "Reebok Resistance Bands 135",
+    "category": "Gym",
+    "price": 25199,
+    "image": "https://picsum.photos/seed/gym35/200/200",
+    "description": "Reebok Resistance Bands 135 is a premium quality resistance bands from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0136",
+    "name": "GSK Thermometer 136",
+    "category": "Healthcare",
+    "price": 4990,
+    "image": "https://picsum.photos/seed/health36 /200/200",
+    "description": "GSK Thermometer 136 is a premium quality thermometer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0137",
+    "name": "JBL Soundbar 137",
+    "category": "Speaker",
+    "price": 10477,
+    "image": "https://picsum.photos/seed/speaker37/200/200",
+    "description": "JBL Soundbar 137 is a premium quality soundbar from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0138",
+    "name": "Bowflex Skipping Rope 138",
+    "category": "Gym",
+    "price": 5043,
+    "image": "https://picsum.photos/seed/gym38/200/200",
+    "description": "Bowflex Skipping Rope 138 is a premium quality skipping rope from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0139",
+    "name": "Anker Smart Speaker 139",
+    "category": "Speaker",
+    "price": 7067,
+    "image": "https://picsum.photos/seed/speaker39/200/200",
+    "description": "Anker Smart Speaker 139 is a premium quality smart speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0140",
+    "name": "Decathlon Skipping Rope 140",
+    "category": "Gym",
+    "price": 6851,
+    "image": "https://picsum.photos/seed/gym40/200/200",
+    "description": "Decathlon Skipping Rope 140 is a premium quality skipping rope from Decathlon.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0141",
+    "name": "Philips Bluetooth Speaker 141",
+    "category": "Speaker",
+    "price": 5203,
+    "image": "https://picsum.photos/seed/speaker41/200/200",
+    "description": "Philips Bluetooth Speaker 141 is a premium quality bluetooth speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0142",
+    "name": "Bose Smart Speaker 142",
+    "category": "Speaker",
+    "price": 2958,
+    "image": "https://picsum.photos/seed/speaker42/200/200",
+    "description": "Bose Smart Speaker 142 is a premium quality smart speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0143",
+    "name": "Philips First Aid Kit 143",
+    "category": "Healthcare",
+    "price": 5760,
+    "image": "https://picsum.photos/seed/health43 /200/200",
+    "description": "Philips First Aid Kit 143 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0144",
+    "name": "Adidas Sneakers 144",
+    "category": "Clothes",
+    "price": 2652,
+    "image": "https://picsum.photos/seed/clothes44/200/200",
+    "description": "Adidas Sneakers 144 is a premium quality sneakers from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0145",
+    "name": "Apple Android Phone 145",
+    "category": "Mobile",
+    "price": 36230,
+    "image": "https://picsum.photos/seed/mobile45/200/200",
+    "description": "Apple Android Phone 145 is a premium quality android phone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0146",
+    "name": "Philips Smart Speaker 146",
+    "category": "Speaker",
+    "price": 20016,
+    "image": "https://picsum.photos/seed/speaker46/200/200",
+    "description": "Philips Smart Speaker 146 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0147",
+    "name": "Levi's T-Shirt 147",
+    "category": "Clothes",
+    "price": 1811,
+    "image": "https://picsum.photos/seed/clothes47/200/200",
+    "description": "Levi's T-Shirt 147 is a premium quality t-shirt from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0148",
+    "name": "Acer Ultrabook 148",
+    "category": "Laptop",
+    "price": 191940,
+    "image": "https://picsum.photos/seed/laptop48/200/200",
+    "description": "Acer Ultrabook 148 is a premium quality ultrabook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0149",
+    "name": "Sony Bluetooth Speaker 149",
+    "category": "Speaker",
+    "price": 6079,
+    "image": "https://picsum.photos/seed/speaker49/200/200",
+    "description": "Sony Bluetooth Speaker 149 is a premium quality bluetooth speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0150",
+    "name": "Zara Dress 150",
+    "category": "Clothes",
+    "price": 3337,
+    "image": "https://picsum.photos/seed/clothes50/200/200",
+    "description": "Zara Dress 150 is a premium quality dress from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0151",
+    "name": "Levi's Jacket 151",
+    "category": "Clothes",
+    "price": 1999,
+    "image": "https://picsum.photos/seed/clothes51/200/200",
+    "description": "Levi's Jacket 151 is a premium quality jacket from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0152",
+    "name": "HP Ultrabook 152",
+    "category": "Laptop",
+    "price": 166123,
+    "image": "https://picsum.photos/seed/laptop52/200/200",
+    "description": "HP Ultrabook 152 is a premium quality ultrabook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0153",
+    "name": "Dell Gaming Laptop 153",
+    "category": "Laptop",
+    "price": 98585,
+    "image": "https://picsum.photos/seed/laptop53/200/200",
+    "description": "Dell Gaming Laptop 153 is a premium quality gaming laptop from Dell.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0154",
+    "name": "Zara Sneakers 154",
+    "category": "Clothes",
+    "price": 961,
+    "image": "https://picsum.photos/seed/clothes54/200/200",
+    "description": "Zara Sneakers 154 is a premium quality sneakers from Zara.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0155",
+    "name": "GSK Vitamins 155",
+    "category": "Healthcare",
+    "price": 7423,
+    "image": "https://picsum.photos/seed/health55 /200/200",
+    "description": "GSK Vitamins 155 is a premium quality vitamins from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0156",
+    "name": "Cipla First Aid Kit 156",
+    "category": "Healthcare",
+    "price": 4250,
+    "image": "https://picsum.photos/seed/health56 /200/200",
+    "description": "Cipla First Aid Kit 156 is a premium quality first aid kit from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0157",
+    "name": "Bose Portable Speaker 157",
+    "category": "Speaker",
+    "price": 18716,
+    "image": "https://picsum.photos/seed/speaker57/200/200",
+    "description": "Bose Portable Speaker 157 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0158",
+    "name": "Bowflex Yoga Mat 158",
+    "category": "Gym",
+    "price": 34601,
+    "image": "https://picsum.photos/seed/gym58/200/200",
+    "description": "Bowflex Yoga Mat 158 is a premium quality yoga mat from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0159",
+    "name": "Asus Gaming Laptop 159",
+    "category": "Laptop",
+    "price": 138756,
+    "image": "https://picsum.photos/seed/laptop59/200/200",
+    "description": "Asus Gaming Laptop 159 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0160",
+    "name": "Bowflex Treadmill 160",
+    "category": "Gym",
+    "price": 6948,
+    "image": "https://picsum.photos/seed/gym60/200/200",
+    "description": "Bowflex Treadmill 160 is a premium quality treadmill from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0161",
+    "name": "Philips Smart Speaker 161",
+    "category": "Speaker",
+    "price": 19271,
+    "image": "https://picsum.photos/seed/speaker61/200/200",
+    "description": "Philips Smart Speaker 161 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0162",
+    "name": "Acer Ultrabook 162",
+    "category": "Laptop",
+    "price": 102544,
+    "image": "https://picsum.photos/seed/laptop62/200/200",
+    "description": "Acer Ultrabook 162 is a premium quality ultrabook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0163",
+    "name": "Bose Portable Speaker 163",
+    "category": "Speaker",
+    "price": 21077,
+    "image": "https://picsum.photos/seed/speaker63/200/200",
+    "description": "Bose Portable Speaker 163 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0164",
+    "name": "Apple Smartphone 164",
+    "category": "Mobile",
+    "price": 19786,
+    "image": "https://picsum.photos/seed/mobile64/200/200",
+    "description": "Apple Smartphone 164 is a premium quality smartphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0165",
+    "name": "Nike Jacket 165",
+    "category": "Clothes",
+    "price": 533,
+    "image": "https://picsum.photos/seed/clothes65/200/200",
+    "description": "Nike Jacket 165 is a premium quality jacket from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0166",
+    "name": "JBL Smart Speaker 166",
+    "category": "Speaker",
+    "price": 21701,
+    "image": "https://picsum.photos/seed/speaker66/200/200",
+    "description": "JBL Smart Speaker 166 is a premium quality smart speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0167",
+    "name": "Acer Notebook 167",
+    "category": "Laptop",
+    "price": 43053,
+    "image": "https://picsum.photos/seed/laptop67/200/200",
+    "description": "Acer Notebook 167 is a premium quality notebook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0168",
+    "name": "Zara Jeans 168",
+    "category": "Clothes",
+    "price": 3358,
+    "image": "https://picsum.photos/seed/clothes68/200/200",
+    "description": "Zara Jeans 168 is a premium quality jeans from Zara.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0169",
+    "name": "3M Hand Sanitizer 169",
+    "category": "Healthcare",
+    "price": 1277,
+    "image": "https://picsum.photos/seed/health69 /200/200",
+    "description": "3M Hand Sanitizer 169 is a premium quality hand sanitizer from 3M.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0170",
+    "name": "Adidas Sneakers 170",
+    "category": "Clothes",
+    "price": 2743,
+    "image": "https://picsum.photos/seed/clothes70/200/200",
+    "description": "Adidas Sneakers 170 is a premium quality sneakers from Adidas.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0171",
+    "name": "Philips Bluetooth Speaker 171",
+    "category": "Speaker",
+    "price": 2092,
+    "image": "https://picsum.photos/seed/speaker71/200/200",
+    "description": "Philips Bluetooth Speaker 171 is a premium quality bluetooth speaker from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0172",
+    "name": "HP MacBook 172",
+    "category": "Laptop",
+    "price": 138984,
+    "image": "https://picsum.photos/seed/laptop72/200/200",
+    "description": "HP MacBook 172 is a premium quality macbook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0173",
+    "name": "Samsung Smartphone 173",
+    "category": "Mobile",
+    "price": 47976,
+    "image": "https://picsum.photos/seed/mobile73/200/200",
+    "description": "Samsung Smartphone 173 is a premium quality smartphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0174",
+    "name": "Lenovo MacBook 174",
+    "category": "Laptop",
+    "price": 128784,
+    "image": "https://picsum.photos/seed/laptop74/200/200",
+    "description": "Lenovo MacBook 174 is a premium quality macbook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0175",
+    "name": "Under Armour Dumbbells 175",
+    "category": "Gym",
+    "price": 7074,
+    "image": "https://picsum.photos/seed/gym75/200/200",
+    "description": "Under Armour Dumbbells 175 is a premium quality dumbbells from Under Armour.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0176",
+    "name": "Adidas T-Shirt 176",
+    "category": "Clothes",
+    "price": 4383,
+    "image": "https://picsum.photos/seed/clothes76/200/200",
+    "description": "Adidas T-Shirt 176 is a premium quality t-shirt from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0177",
+    "name": "Apple Handset 177",
+    "category": "Mobile",
+    "price": 96018,
+    "image": "https://picsum.photos/seed/mobile77/200/200",
+    "description": "Apple Handset 177 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0178",
+    "name": "Under Armour Resistance Bands 178",
+    "category": "Gym",
+    "price": 11919,
+    "image": "https://picsum.photos/seed/gym78/200/200",
+    "description": "Under Armour Resistance Bands 178 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0179",
+    "name": "Decathlon Yoga Mat 179",
+    "category": "Gym",
+    "price": 4553,
+    "image": "https://picsum.photos/seed/gym79/200/200",
+    "description": "Decathlon Yoga Mat 179 is a premium quality yoga mat from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0180",
+    "name": "Apple iPhone 180",
+    "category": "Mobile",
+    "price": 19163,
+    "image": "https://picsum.photos/seed/mobile80/200/200",
+    "description": "Apple iPhone 180 is a premium quality iphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0181",
+    "name": "OnePlus Android Phone 181",
+    "category": "Mobile",
+    "price": 119121,
+    "image": "https://picsum.photos/seed/mobile81/200/200",
+    "description": "OnePlus Android Phone 181 is a premium quality android phone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0182",
+    "name": "Reebok Dumbbells 182",
+    "category": "Gym",
+    "price": 18750,
+    "image": "https://picsum.photos/seed/gym82/200/200",
+    "description": "Reebok Dumbbells 182 is a premium quality dumbbells from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0183",
+    "name": "Fitbit Treadmill 183",
+    "category": "Gym",
+    "price": 1490,
+    "image": "https://picsum.photos/seed/gym83/200/200",
+    "description": "Fitbit Treadmill 183 is a premium quality treadmill from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0184",
+    "name": "JBL Soundbar 184",
+    "category": "Speaker",
+    "price": 17434,
+    "image": "https://picsum.photos/seed/speaker84/200/200",
+    "description": "JBL Soundbar 184 is a premium quality soundbar from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0185",
+    "name": "Apple iPhone 185",
+    "category": "Mobile",
+    "price": 103944,
+    "image": "https://picsum.photos/seed/mobile85/200/200",
+    "description": "Apple iPhone 185 is a premium quality iphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0186",
+    "name": "Xiaomi Smartphone 186",
+    "category": "Mobile",
+    "price": 44602,
+    "image": "https://picsum.photos/seed/mobile86/200/200",
+    "description": "Xiaomi Smartphone 186 is a premium quality smartphone from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0187",
+    "name": "Under Armour Resistance Bands 187",
+    "category": "Gym",
+    "price": 13977,
+    "image": "https://picsum.photos/seed/gym87/200/200",
+    "description": "Under Armour Resistance Bands 187 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0188",
+    "name": "Under Armour Treadmill 188",
+    "category": "Gym",
+    "price": 7503,
+    "image": "https://picsum.photos/seed/gym88/200/200",
+    "description": "Under Armour Treadmill 188 is a premium quality treadmill from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0189",
+    "name": "OnePlus Handset 189",
+    "category": "Mobile",
+    "price": 97009,
+    "image": "https://picsum.photos/seed/mobile89/200/200",
+    "description": "OnePlus Handset 189 is a premium quality handset from OnePlus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0190",
+    "name": "Acer Notebook 190",
+    "category": "Laptop",
+    "price": 49929,
+    "image": "https://picsum.photos/seed/laptop90/200/200",
+    "description": "Acer Notebook 190 is a premium quality notebook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0191",
+    "name": "Samsung Handset 191",
+    "category": "Mobile",
+    "price": 10687,
+    "image": "https://picsum.photos/seed/mobile91/200/200",
+    "description": "Samsung Handset 191 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0192",
+    "name": "Puma Jeans 192",
+    "category": "Clothes",
+    "price": 559,
+    "image": "https://picsum.photos/seed/clothes92/200/200",
+    "description": "Puma Jeans 192 is a premium quality jeans from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0193",
+    "name": "Bose Bluetooth Speaker 193",
+    "category": "Speaker",
+    "price": 6124,
+    "image": "https://picsum.photos/seed/speaker93/200/200",
+    "description": "Bose Bluetooth Speaker 193 is a premium quality bluetooth speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0194",
+    "name": "GSK Thermometer 194",
+    "category": "Healthcare",
+    "price": 6017,
+    "image": "https://picsum.photos/seed/health94 /200/200",
+    "description": "GSK Thermometer 194 is a premium quality thermometer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0195",
+    "name": "Levi's Jacket 195",
+    "category": "Clothes",
+    "price": 2199,
+    "image": "https://picsum.photos/seed/clothes95/200/200",
+    "description": "Levi's Jacket 195 is a premium quality jacket from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0196",
+    "name": "Bowflex Yoga Mat 196",
+    "category": "Gym",
+    "price": 27300,
+    "image": "https://picsum.photos/seed/gym96/200/200",
+    "description": "Bowflex Yoga Mat 196 is a premium quality yoga mat from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0197",
+    "name": "Philips Thermometer 197",
+    "category": "Healthcare",
+    "price": 1121,
+    "image": "https://picsum.photos/seed/health97 /200/200",
+    "description": "Philips Thermometer 197 is a premium quality thermometer from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0198",
+    "name": "Under Armour Treadmill 198",
+    "category": "Gym",
+    "price": 4325,
+    "image": "https://picsum.photos/seed/gym98/200/200",
+    "description": "Under Armour Treadmill 198 is a premium quality treadmill from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0199",
+    "name": "Adidas Jeans 199",
+    "category": "Clothes",
+    "price": 2396,
+    "image": "https://picsum.photos/seed/clothes99/200/200",
+    "description": "Adidas Jeans 199 is a premium quality jeans from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0200",
+    "name": "Adidas Dress 200",
+    "category": "Clothes",
+    "price": 4117,
+    "image": "https://picsum.photos/seed/clothes0/200/200",
+    "description": "Adidas Dress 200 is a premium quality dress from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0201",
+    "name": "Philips Bluetooth Speaker 201",
+    "category": "Speaker",
+    "price": 20423,
+    "image": "https://picsum.photos/seed/speaker1/200/200",
+    "description": "Philips Bluetooth Speaker 201 is a premium quality bluetooth speaker from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0202",
+    "name": "3M Hand Sanitizer 202",
+    "category": "Healthcare",
+    "price": 5093,
+    "image": "https://picsum.photos/seed/health2 /200/200",
+    "description": "3M Hand Sanitizer 202 is a premium quality hand sanitizer from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0203",
+    "name": "Under Armour Resistance Bands 203",
+    "category": "Gym",
+    "price": 37441,
+    "image": "https://picsum.photos/seed/gym3/200/200",
+    "description": "Under Armour Resistance Bands 203 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0204",
+    "name": "Puma Jeans 204",
+    "category": "Clothes",
+    "price": 2806,
+    "image": "https://picsum.photos/seed/clothes4/200/200",
+    "description": "Puma Jeans 204 is a premium quality jeans from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0205",
+    "name": "Levi's Sneakers 205",
+    "category": "Clothes",
+    "price": 1126,
+    "image": "https://picsum.photos/seed/clothes5/200/200",
+    "description": "Levi's Sneakers 205 is a premium quality sneakers from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0206",
+    "name": "Lenovo Ultrabook 206",
+    "category": "Laptop",
+    "price": 120316,
+    "image": "https://picsum.photos/seed/laptop6/200/200",
+    "description": "Lenovo Ultrabook 206 is a premium quality ultrabook from Lenovo.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0207",
+    "name": "Samsung Smartphone 207",
+    "category": "Mobile",
+    "price": 81563,
+    "image": "https://picsum.photos/seed/mobile7/200/200",
+    "description": "Samsung Smartphone 207 is a premium quality smartphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0208",
+    "name": "OnePlus Smartphone 208",
+    "category": "Mobile",
+    "price": 91620,
+    "image": "https://picsum.photos/seed/mobile8/200/200",
+    "description": "OnePlus Smartphone 208 is a premium quality smartphone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0209",
+    "name": "Philips Smart Speaker 209",
+    "category": "Speaker",
+    "price": 18865,
+    "image": "https://picsum.photos/seed/speaker9/200/200",
+    "description": "Philips Smart Speaker 209 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0210",
+    "name": "Google Handset 210",
+    "category": "Mobile",
+    "price": 64532,
+    "image": "https://picsum.photos/seed/mobile10/200/200",
+    "description": "Google Handset 210 is a premium quality handset from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0211",
+    "name": "Acer Ultrabook 211",
+    "category": "Laptop",
+    "price": 87365,
+    "image": "https://picsum.photos/seed/laptop11/200/200",
+    "description": "Acer Ultrabook 211 is a premium quality ultrabook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0212",
+    "name": "Bose Bluetooth Speaker 212",
+    "category": "Speaker",
+    "price": 11877,
+    "image": "https://picsum.photos/seed/speaker12/200/200",
+    "description": "Bose Bluetooth Speaker 212 is a premium quality bluetooth speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0213",
+    "name": "Xiaomi iPhone 213",
+    "category": "Mobile",
+    "price": 18091,
+    "image": "https://picsum.photos/seed/mobile13/200/200",
+    "description": "Xiaomi iPhone 213 is a premium quality iphone from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0214",
+    "name": "Philips Hand Sanitizer 214",
+    "category": "Healthcare",
+    "price": 1767,
+    "image": "https://picsum.photos/seed/health14 /200/200",
+    "description": "Philips Hand Sanitizer 214 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0215",
+    "name": "Acer MacBook 215",
+    "category": "Laptop",
+    "price": 50955,
+    "image": "https://picsum.photos/seed/laptop15/200/200",
+    "description": "Acer MacBook 215 is a premium quality macbook from Acer.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0216",
+    "name": "3M First Aid Kit 216",
+    "category": "Healthcare",
+    "price": 6897,
+    "image": "https://picsum.photos/seed/health16 /200/200",
+    "description": "3M First Aid Kit 216 is a premium quality first aid kit from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0217",
+    "name": "Sony Portable Speaker 217",
+    "category": "Speaker",
+    "price": 7949,
+    "image": "https://picsum.photos/seed/speaker17/200/200",
+    "description": "Sony Portable Speaker 217 is a premium quality portable speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0218",
+    "name": "Asus MacBook 218",
+    "category": "Laptop",
+    "price": 45818,
+    "image": "https://picsum.photos/seed/laptop18/200/200",
+    "description": "Asus MacBook 218 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0219",
+    "name": "Asus MacBook 219",
+    "category": "Laptop",
+    "price": 45442,
+    "image": "https://picsum.photos/seed/laptop19/200/200",
+    "description": "Asus MacBook 219 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0220",
+    "name": "Dr Morepen Vitamins 220",
+    "category": "Healthcare",
+    "price": 5954,
+    "image": "https://picsum.photos/seed/health20 /200/200",
+    "description": "Dr Morepen Vitamins 220 is a premium quality vitamins from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0221",
+    "name": "JBL Portable Speaker 221",
+    "category": "Speaker",
+    "price": 11975,
+    "image": "https://picsum.photos/seed/speaker21/200/200",
+    "description": "JBL Portable Speaker 221 is a premium quality portable speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0222",
+    "name": "Zara Dress 222",
+    "category": "Clothes",
+    "price": 2289,
+    "image": "https://picsum.photos/seed/clothes22/200/200",
+    "description": "Zara Dress 222 is a premium quality dress from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0223",
+    "name": "JBL Portable Speaker 223",
+    "category": "Speaker",
+    "price": 6678,
+    "image": "https://picsum.photos/seed/speaker23/200/200",
+    "description": "JBL Portable Speaker 223 is a premium quality portable speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0224",
+    "name": "OnePlus Smartphone 224",
+    "category": "Mobile",
+    "price": 55021,
+    "image": "https://picsum.photos/seed/mobile24/200/200",
+    "description": "OnePlus Smartphone 224 is a premium quality smartphone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0225",
+    "name": "Bowflex Skipping Rope 225",
+    "category": "Gym",
+    "price": 18380,
+    "image": "https://picsum.photos/seed/gym25/200/200",
+    "description": "Bowflex Skipping Rope 225 is a premium quality skipping rope from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0226",
+    "name": "GSK Thermometer 226",
+    "category": "Healthcare",
+    "price": 369,
+    "image": "https://picsum.photos/seed/health26 /200/200",
+    "description": "GSK Thermometer 226 is a premium quality thermometer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0227",
+    "name": "Lenovo Ultrabook 227",
+    "category": "Laptop",
+    "price": 85522,
+    "image": "https://picsum.photos/seed/laptop27/200/200",
+    "description": "Lenovo Ultrabook 227 is a premium quality ultrabook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0228",
+    "name": "Reebok Resistance Bands 228",
+    "category": "Gym",
+    "price": 25655,
+    "image": "https://picsum.photos/seed/gym28/200/200",
+    "description": "Reebok Resistance Bands 228 is a premium quality resistance bands from Reebok.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0229",
+    "name": "Asus Gaming Laptop 229",
+    "category": "Laptop",
+    "price": 176864,
+    "image": "https://picsum.photos/seed/laptop29/200/200",
+    "description": "Asus Gaming Laptop 229 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0230",
+    "name": "JBL Smart Speaker 230",
+    "category": "Speaker",
+    "price": 3514,
+    "image": "https://picsum.photos/seed/speaker30/200/200",
+    "description": "JBL Smart Speaker 230 is a premium quality smart speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0231",
+    "name": "Philips Smart Speaker 231",
+    "category": "Speaker",
+    "price": 20918,
+    "image": "https://picsum.photos/seed/speaker31/200/200",
+    "description": "Philips Smart Speaker 231 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0232",
+    "name": "Puma Dress 232",
+    "category": "Clothes",
+    "price": 3450,
+    "image": "https://picsum.photos/seed/clothes32/200/200",
+    "description": "Puma Dress 232 is a premium quality dress from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0233",
+    "name": "3M Thermometer 233",
+    "category": "Healthcare",
+    "price": 1719,
+    "image": "https://picsum.photos/seed/health33 /200/200",
+    "description": "3M Thermometer 233 is a premium quality thermometer from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0234",
+    "name": "Bowflex Dumbbells 234",
+    "category": "Gym",
+    "price": 13804,
+    "image": "https://picsum.photos/seed/gym34/200/200",
+    "description": "Bowflex Dumbbells 234 is a premium quality dumbbells from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0235",
+    "name": "Under Armour Resistance Bands 235",
+    "category": "Gym",
+    "price": 11938,
+    "image": "https://picsum.photos/seed/gym35/200/200",
+    "description": "Under Armour Resistance Bands 235 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0236",
+    "name": "Bowflex Yoga Mat 236",
+    "category": "Gym",
+    "price": 17294,
+    "image": "https://picsum.photos/seed/gym36/200/200",
+    "description": "Bowflex Yoga Mat 236 is a premium quality yoga mat from Bowflex.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0237",
+    "name": "Samsung iPhone 237",
+    "category": "Mobile",
+    "price": 119856,
+    "image": "https://picsum.photos/seed/mobile37/200/200",
+    "description": "Samsung iPhone 237 is a premium quality iphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0238",
+    "name": "OnePlus iPhone 238",
+    "category": "Mobile",
+    "price": 36343,
+    "image": "https://picsum.photos/seed/mobile38/200/200",
+    "description": "OnePlus iPhone 238 is a premium quality iphone from OnePlus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0239",
+    "name": "Sony Portable Speaker 239",
+    "category": "Speaker",
+    "price": 9397,
+    "image": "https://picsum.photos/seed/speaker39/200/200",
+    "description": "Sony Portable Speaker 239 is a premium quality portable speaker from Sony.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0240",
+    "name": "Bose Smart Speaker 240",
+    "category": "Speaker",
+    "price": 24410,
+    "image": "https://picsum.photos/seed/speaker40/200/200",
+    "description": "Bose Smart Speaker 240 is a premium quality smart speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0241",
+    "name": "JBL Bluetooth Speaker 241",
+    "category": "Speaker",
+    "price": 23146,
+    "image": "https://picsum.photos/seed/speaker41/200/200",
+    "description": "JBL Bluetooth Speaker 241 is a premium quality bluetooth speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0242",
+    "name": "Nike Jeans 242",
+    "category": "Clothes",
+    "price": 1748,
+    "image": "https://picsum.photos/seed/clothes42/200/200",
+    "description": "Nike Jeans 242 is a premium quality jeans from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0243",
+    "name": "Apple iPhone 243",
+    "category": "Mobile",
+    "price": 73419,
+    "image": "https://picsum.photos/seed/mobile43/200/200",
+    "description": "Apple iPhone 243 is a premium quality iphone from Apple.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0244",
+    "name": "Reebok Treadmill 244",
+    "category": "Gym",
+    "price": 18475,
+    "image": "https://picsum.photos/seed/gym44/200/200",
+    "description": "Reebok Treadmill 244 is a premium quality treadmill from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0245",
+    "name": "Anker Portable Speaker 245",
+    "category": "Speaker",
+    "price": 23851,
+    "image": "https://picsum.photos/seed/speaker45/200/200",
+    "description": "Anker Portable Speaker 245 is a premium quality portable speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0246",
+    "name": "Sony Soundbar 246",
+    "category": "Speaker",
+    "price": 2269,
+    "image": "https://picsum.photos/seed/speaker46/200/200",
+    "description": "Sony Soundbar 246 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0247",
+    "name": "JBL Soundbar 247",
+    "category": "Speaker",
+    "price": 8603,
+    "image": "https://picsum.photos/seed/speaker47/200/200",
+    "description": "JBL Soundbar 247 is a premium quality soundbar from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0248",
+    "name": "Dell Ultrabook 248",
+    "category": "Laptop",
+    "price": 53650,
+    "image": "https://picsum.photos/seed/laptop48/200/200",
+    "description": "Dell Ultrabook 248 is a premium quality ultrabook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0249",
+    "name": "Under Armour Skipping Rope 249",
+    "category": "Gym",
+    "price": 10321,
+    "image": "https://picsum.photos/seed/gym49/200/200",
+    "description": "Under Armour Skipping Rope 249 is a premium quality skipping rope from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0250",
+    "name": "Dell MacBook 250",
+    "category": "Laptop",
+    "price": 76208,
+    "image": "https://picsum.photos/seed/laptop50/200/200",
+    "description": "Dell MacBook 250 is a premium quality macbook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0251",
+    "name": "Lenovo Notebook 251",
+    "category": "Laptop",
+    "price": 167305,
+    "image": "https://picsum.photos/seed/laptop51/200/200",
+    "description": "Lenovo Notebook 251 is a premium quality notebook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0252",
+    "name": "Philips Hand Sanitizer 252",
+    "category": "Healthcare",
+    "price": 6082,
+    "image": "https://picsum.photos/seed/health52 /200/200",
+    "description": "Philips Hand Sanitizer 252 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0253",
+    "name": "HP Gaming Laptop 253",
+    "category": "Laptop",
+    "price": 50491,
+    "image": "https://picsum.photos/seed/laptop53/200/200",
+    "description": "HP Gaming Laptop 253 is a premium quality gaming laptop from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0254",
+    "name": "Anker Soundbar 254",
+    "category": "Speaker",
+    "price": 24160,
+    "image": "https://picsum.photos/seed/speaker54/200/200",
+    "description": "Anker Soundbar 254 is a premium quality soundbar from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0255",
+    "name": "Dell Notebook 255",
+    "category": "Laptop",
+    "price": 47200,
+    "image": "https://picsum.photos/seed/laptop55/200/200",
+    "description": "Dell Notebook 255 is a premium quality notebook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0256",
+    "name": "Acer Gaming Laptop 256",
+    "category": "Laptop",
+    "price": 178351,
+    "image": "https://picsum.photos/seed/laptop56/200/200",
+    "description": "Acer Gaming Laptop 256 is a premium quality gaming laptop from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0257",
+    "name": "Under Armour Yoga Mat 257",
+    "category": "Gym",
+    "price": 30546,
+    "image": "https://picsum.photos/seed/gym57/200/200",
+    "description": "Under Armour Yoga Mat 257 is a premium quality yoga mat from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0258",
+    "name": "JBL Soundbar 258",
+    "category": "Speaker",
+    "price": 18589,
+    "image": "https://picsum.photos/seed/speaker58/200/200",
+    "description": "JBL Soundbar 258 is a premium quality soundbar from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0259",
+    "name": "JBL Soundbar 259",
+    "category": "Speaker",
+    "price": 22404,
+    "image": "https://picsum.photos/seed/speaker59/200/200",
+    "description": "JBL Soundbar 259 is a premium quality soundbar from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0260",
+    "name": "Zara Jeans 260",
+    "category": "Clothes",
+    "price": 301,
+    "image": "https://picsum.photos/seed/clothes60/200/200",
+    "description": "Zara Jeans 260 is a premium quality jeans from Zara.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0261",
+    "name": "Reebok Resistance Bands 261",
+    "category": "Gym",
+    "price": 39481,
+    "image": "https://picsum.photos/seed/gym61/200/200",
+    "description": "Reebok Resistance Bands 261 is a premium quality resistance bands from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0262",
+    "name": "Anker Bluetooth Speaker 262",
+    "category": "Speaker",
+    "price": 14568,
+    "image": "https://picsum.photos/seed/speaker62/200/200",
+    "description": "Anker Bluetooth Speaker 262 is a premium quality bluetooth speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0263",
+    "name": "Levi's Dress 263",
+    "category": "Clothes",
+    "price": 2423,
+    "image": "https://picsum.photos/seed/clothes63/200/200",
+    "description": "Levi's Dress 263 is a premium quality dress from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0264",
+    "name": "Philips Hand Sanitizer 264",
+    "category": "Healthcare",
+    "price": 1341,
+    "image": "https://picsum.photos/seed/health64 /200/200",
+    "description": "Philips Hand Sanitizer 264 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0265",
+    "name": "Nike Sneakers 265",
+    "category": "Clothes",
+    "price": 429,
+    "image": "https://picsum.photos/seed/clothes65/200/200",
+    "description": "Nike Sneakers 265 is a premium quality sneakers from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0266",
+    "name": "Lenovo MacBook 266",
+    "category": "Laptop",
+    "price": 183191,
+    "image": "https://picsum.photos/seed/laptop66/200/200",
+    "description": "Lenovo MacBook 266 is a premium quality macbook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0267",
+    "name": "Philips Thermometer 267",
+    "category": "Healthcare",
+    "price": 1124,
+    "image": "https://picsum.photos/seed/health67 /200/200",
+    "description": "Philips Thermometer 267 is a premium quality thermometer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0268",
+    "name": "GSK Vitamins 268",
+    "category": "Healthcare",
+    "price": 6325,
+    "image": "https://picsum.photos/seed/health68 /200/200",
+    "description": "GSK Vitamins 268 is a premium quality vitamins from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0269",
+    "name": "Asus MacBook 269",
+    "category": "Laptop",
+    "price": 44724,
+    "image": "https://picsum.photos/seed/laptop69/200/200",
+    "description": "Asus MacBook 269 is a premium quality macbook from Asus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0270",
+    "name": "Reebok Resistance Bands 270",
+    "category": "Gym",
+    "price": 28016,
+    "image": "https://picsum.photos/seed/gym70/200/200",
+    "description": "Reebok Resistance Bands 270 is a premium quality resistance bands from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0271",
+    "name": "GSK Vitamins 271",
+    "category": "Healthcare",
+    "price": 6762,
+    "image": "https://picsum.photos/seed/health71 /200/200",
+    "description": "GSK Vitamins 271 is a premium quality vitamins from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0272",
+    "name": "Philips Soundbar 272",
+    "category": "Speaker",
+    "price": 11740,
+    "image": "https://picsum.photos/seed/speaker72/200/200",
+    "description": "Philips Soundbar 272 is a premium quality soundbar from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0273",
+    "name": "Dr Morepen Vitamins 273",
+    "category": "Healthcare",
+    "price": 7529,
+    "image": "https://picsum.photos/seed/health73 /200/200",
+    "description": "Dr Morepen Vitamins 273 is a premium quality vitamins from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0274",
+    "name": "Samsung iPhone 274",
+    "category": "Mobile",
+    "price": 11459,
+    "image": "https://picsum.photos/seed/mobile74/200/200",
+    "description": "Samsung iPhone 274 is a premium quality iphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0275",
+    "name": "Dr Morepen Hand Sanitizer 275",
+    "category": "Healthcare",
+    "price": 7747,
+    "image": "https://picsum.photos/seed/health75 /200/200",
+    "description": "Dr Morepen Hand Sanitizer 275 is a premium quality hand sanitizer from Dr Morepen.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0276",
+    "name": "GSK Hand Sanitizer 276",
+    "category": "Healthcare",
+    "price": 5808,
+    "image": "https://picsum.photos/seed/health76 /200/200",
+    "description": "GSK Hand Sanitizer 276 is a premium quality hand sanitizer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0277",
+    "name": "Acer Gaming Laptop 277",
+    "category": "Laptop",
+    "price": 127862,
+    "image": "https://picsum.photos/seed/laptop77/200/200",
+    "description": "Acer Gaming Laptop 277 is a premium quality gaming laptop from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0278",
+    "name": "Bose Soundbar 278",
+    "category": "Speaker",
+    "price": 12340,
+    "image": "https://picsum.photos/seed/speaker78/200/200",
+    "description": "Bose Soundbar 278 is a premium quality soundbar from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0279",
+    "name": "Dell Notebook 279",
+    "category": "Laptop",
+    "price": 177836,
+    "image": "https://picsum.photos/seed/laptop79/200/200",
+    "description": "Dell Notebook 279 is a premium quality notebook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0280",
+    "name": "Lenovo Gaming Laptop 280",
+    "category": "Laptop",
+    "price": 156237,
+    "image": "https://picsum.photos/seed/laptop80/200/200",
+    "description": "Lenovo Gaming Laptop 280 is a premium quality gaming laptop from Lenovo.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0281",
+    "name": "HP Ultrabook 281",
+    "category": "Laptop",
+    "price": 154083,
+    "image": "https://picsum.photos/seed/laptop81/200/200",
+    "description": "HP Ultrabook 281 is a premium quality ultrabook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0282",
+    "name": "Under Armour Treadmill 282",
+    "category": "Gym",
+    "price": 30592,
+    "image": "https://picsum.photos/seed/gym82/200/200",
+    "description": "Under Armour Treadmill 282 is a premium quality treadmill from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0283",
+    "name": "Lenovo Gaming Laptop 283",
+    "category": "Laptop",
+    "price": 33522,
+    "image": "https://picsum.photos/seed/laptop83/200/200",
+    "description": "Lenovo Gaming Laptop 283 is a premium quality gaming laptop from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0284",
+    "name": "GSK Thermometer 284",
+    "category": "Healthcare",
+    "price": 5950,
+    "image": "https://picsum.photos/seed/health84 /200/200",
+    "description": "GSK Thermometer 284 is a premium quality thermometer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0285",
+    "name": "GSK Thermometer 285",
+    "category": "Healthcare",
+    "price": 7565,
+    "image": "https://picsum.photos/seed/health85 /200/200",
+    "description": "GSK Thermometer 285 is a premium quality thermometer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0286",
+    "name": "Anker Soundbar 286",
+    "category": "Speaker",
+    "price": 7248,
+    "image": "https://picsum.photos/seed/speaker86/200/200",
+    "description": "Anker Soundbar 286 is a premium quality soundbar from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0287",
+    "name": "Asus Gaming Laptop 287",
+    "category": "Laptop",
+    "price": 72577,
+    "image": "https://picsum.photos/seed/laptop87/200/200",
+    "description": "Asus Gaming Laptop 287 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0288",
+    "name": "Sony Soundbar 288",
+    "category": "Speaker",
+    "price": 12580,
+    "image": "https://picsum.photos/seed/speaker88/200/200",
+    "description": "Sony Soundbar 288 is a premium quality soundbar from Sony.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0289",
+    "name": "Lenovo MacBook 289",
+    "category": "Laptop",
+    "price": 77547,
+    "image": "https://picsum.photos/seed/laptop89/200/200",
+    "description": "Lenovo MacBook 289 is a premium quality macbook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0290",
+    "name": "Asus Ultrabook 290",
+    "category": "Laptop",
+    "price": 61386,
+    "image": "https://picsum.photos/seed/laptop90/200/200",
+    "description": "Asus Ultrabook 290 is a premium quality ultrabook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0291",
+    "name": "Bowflex Dumbbells 291",
+    "category": "Gym",
+    "price": 23429,
+    "image": "https://picsum.photos/seed/gym91/200/200",
+    "description": "Bowflex Dumbbells 291 is a premium quality dumbbells from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0292",
+    "name": "Philips First Aid Kit 292",
+    "category": "Healthcare",
+    "price": 1087,
+    "image": "https://picsum.photos/seed/health92 /200/200",
+    "description": "Philips First Aid Kit 292 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0293",
+    "name": "Nike Sneakers 293",
+    "category": "Clothes",
+    "price": 1619,
+    "image": "https://picsum.photos/seed/clothes93/200/200",
+    "description": "Nike Sneakers 293 is a premium quality sneakers from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0294",
+    "name": "Samsung Smartphone 294",
+    "category": "Mobile",
+    "price": 61416,
+    "image": "https://picsum.photos/seed/mobile94/200/200",
+    "description": "Samsung Smartphone 294 is a premium quality smartphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0295",
+    "name": "Asus MacBook 295",
+    "category": "Laptop",
+    "price": 137009,
+    "image": "https://picsum.photos/seed/laptop95/200/200",
+    "description": "Asus MacBook 295 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0296",
+    "name": "Fitbit Skipping Rope 296",
+    "category": "Gym",
+    "price": 37656,
+    "image": "https://picsum.photos/seed/gym96/200/200",
+    "description": "Fitbit Skipping Rope 296 is a premium quality skipping rope from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0297",
+    "name": "JBL Bluetooth Speaker 297",
+    "category": "Speaker",
+    "price": 18257,
+    "image": "https://picsum.photos/seed/speaker97/200/200",
+    "description": "JBL Bluetooth Speaker 297 is a premium quality bluetooth speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0298",
+    "name": "Nike Jacket 298",
+    "category": "Clothes",
+    "price": 3461,
+    "image": "https://picsum.photos/seed/clothes98/200/200",
+    "description": "Nike Jacket 298 is a premium quality jacket from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0299",
+    "name": "Puma T-Shirt 299",
+    "category": "Clothes",
+    "price": 810,
+    "image": "https://picsum.photos/seed/clothes99/200/200",
+    "description": "Puma T-Shirt 299 is a premium quality t-shirt from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0300",
+    "name": "Dr Morepen First Aid Kit 300",
+    "category": "Healthcare",
+    "price": 1403,
+    "image": "https://picsum.photos/seed/health0 /200/200",
+    "description": "Dr Morepen First Aid Kit 300 is a premium quality first aid kit from Dr Morepen.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0301",
+    "name": "Puma T-Shirt 301",
+    "category": "Clothes",
+    "price": 1974,
+    "image": "https://picsum.photos/seed/clothes1/200/200",
+    "description": "Puma T-Shirt 301 is a premium quality t-shirt from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0302",
+    "name": "Cipla Thermometer 302",
+    "category": "Healthcare",
+    "price": 2711,
+    "image": "https://picsum.photos/seed/health2 /200/200",
+    "description": "Cipla Thermometer 302 is a premium quality thermometer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0303",
+    "name": "Zara T-Shirt 303",
+    "category": "Clothes",
+    "price": 3016,
+    "image": "https://picsum.photos/seed/clothes3/200/200",
+    "description": "Zara T-Shirt 303 is a premium quality t-shirt from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0304",
+    "name": "Adidas Dress 304",
+    "category": "Clothes",
+    "price": 3141,
+    "image": "https://picsum.photos/seed/clothes4/200/200",
+    "description": "Adidas Dress 304 is a premium quality dress from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0305",
+    "name": "Xiaomi Android Phone 305",
+    "category": "Mobile",
+    "price": 79496,
+    "image": "https://picsum.photos/seed/mobile5/200/200",
+    "description": "Xiaomi Android Phone 305 is a premium quality android phone from Xiaomi.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0306",
+    "name": "Bowflex Resistance Bands 306",
+    "category": "Gym",
+    "price": 26311,
+    "image": "https://picsum.photos/seed/gym6/200/200",
+    "description": "Bowflex Resistance Bands 306 is a premium quality resistance bands from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0307",
+    "name": "Dr Morepen Vitamins 307",
+    "category": "Healthcare",
+    "price": 2372,
+    "image": "https://picsum.photos/seed/health7 /200/200",
+    "description": "Dr Morepen Vitamins 307 is a premium quality vitamins from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0308",
+    "name": "Apple iPhone 308",
+    "category": "Mobile",
+    "price": 89887,
+    "image": "https://picsum.photos/seed/mobile8/200/200",
+    "description": "Apple iPhone 308 is a premium quality iphone from Apple.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0309",
+    "name": "Philips Hand Sanitizer 309",
+    "category": "Healthcare",
+    "price": 7065,
+    "image": "https://picsum.photos/seed/health9 /200/200",
+    "description": "Philips Hand Sanitizer 309 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0310",
+    "name": "Philips Smart Speaker 310",
+    "category": "Speaker",
+    "price": 5960,
+    "image": "https://picsum.photos/seed/speaker10/200/200",
+    "description": "Philips Smart Speaker 310 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0311",
+    "name": "Acer Ultrabook 311",
+    "category": "Laptop",
+    "price": 63296,
+    "image": "https://picsum.photos/seed/laptop11/200/200",
+    "description": "Acer Ultrabook 311 is a premium quality ultrabook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0312",
+    "name": "Puma Dress 312",
+    "category": "Clothes",
+    "price": 3359,
+    "image": "https://picsum.photos/seed/clothes12/200/200",
+    "description": "Puma Dress 312 is a premium quality dress from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0313",
+    "name": "Puma Jeans 313",
+    "category": "Clothes",
+    "price": 2049,
+    "image": "https://picsum.photos/seed/clothes13/200/200",
+    "description": "Puma Jeans 313 is a premium quality jeans from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0314",
+    "name": "GSK Hand Sanitizer 314",
+    "category": "Healthcare",
+    "price": 1779,
+    "image": "https://picsum.photos/seed/health14 /200/200",
+    "description": "GSK Hand Sanitizer 314 is a premium quality hand sanitizer from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0315",
+    "name": "OnePlus Android Phone 315",
+    "category": "Mobile",
+    "price": 78518,
+    "image": "https://picsum.photos/seed/mobile15/200/200",
+    "description": "OnePlus Android Phone 315 is a premium quality android phone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0316",
+    "name": "Asus Ultrabook 316",
+    "category": "Laptop",
+    "price": 198180,
+    "image": "https://picsum.photos/seed/laptop16/200/200",
+    "description": "Asus Ultrabook 316 is a premium quality ultrabook from Asus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0317",
+    "name": "HP MacBook 317",
+    "category": "Laptop",
+    "price": 80453,
+    "image": "https://picsum.photos/seed/laptop17/200/200",
+    "description": "HP MacBook 317 is a premium quality macbook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0318",
+    "name": "Philips Thermometer 318",
+    "category": "Healthcare",
+    "price": 3640,
+    "image": "https://picsum.photos/seed/health18 /200/200",
+    "description": "Philips Thermometer 318 is a premium quality thermometer from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0319",
+    "name": "Samsung Handset 319",
+    "category": "Mobile",
+    "price": 36963,
+    "image": "https://picsum.photos/seed/mobile19/200/200",
+    "description": "Samsung Handset 319 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0320",
+    "name": "Lenovo MacBook 320",
+    "category": "Laptop",
+    "price": 52839,
+    "image": "https://picsum.photos/seed/laptop20/200/200",
+    "description": "Lenovo MacBook 320 is a premium quality macbook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0321",
+    "name": "JBL Soundbar 321",
+    "category": "Speaker",
+    "price": 18752,
+    "image": "https://picsum.photos/seed/speaker21/200/200",
+    "description": "JBL Soundbar 321 is a premium quality soundbar from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0322",
+    "name": "Reebok Dumbbells 322",
+    "category": "Gym",
+    "price": 36646,
+    "image": "https://picsum.photos/seed/gym22/200/200",
+    "description": "Reebok Dumbbells 322 is a premium quality dumbbells from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0323",
+    "name": "Philips Hand Sanitizer 323",
+    "category": "Healthcare",
+    "price": 489,
+    "image": "https://picsum.photos/seed/health23 /200/200",
+    "description": "Philips Hand Sanitizer 323 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0324",
+    "name": "Xiaomi Handset 324",
+    "category": "Mobile",
+    "price": 80690,
+    "image": "https://picsum.photos/seed/mobile24/200/200",
+    "description": "Xiaomi Handset 324 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0325",
+    "name": "HP Gaming Laptop 325",
+    "category": "Laptop",
+    "price": 79371,
+    "image": "https://picsum.photos/seed/laptop25/200/200",
+    "description": "HP Gaming Laptop 325 is a premium quality gaming laptop from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0326",
+    "name": "HP Notebook 326",
+    "category": "Laptop",
+    "price": 172536,
+    "image": "https://picsum.photos/seed/laptop26/200/200",
+    "description": "HP Notebook 326 is a premium quality notebook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0327",
+    "name": "Dell Notebook 327",
+    "category": "Laptop",
+    "price": 194636,
+    "image": "https://picsum.photos/seed/laptop27/200/200",
+    "description": "Dell Notebook 327 is a premium quality notebook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0328",
+    "name": "Bose Bluetooth Speaker 328",
+    "category": "Speaker",
+    "price": 16772,
+    "image": "https://picsum.photos/seed/speaker28/200/200",
+    "description": "Bose Bluetooth Speaker 328 is a premium quality bluetooth speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0329",
+    "name": "Fitbit Resistance Bands 329",
+    "category": "Gym",
+    "price": 38856,
+    "image": "https://picsum.photos/seed/gym29/200/200",
+    "description": "Fitbit Resistance Bands 329 is a premium quality resistance bands from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0330",
+    "name": "Philips Thermometer 330",
+    "category": "Healthcare",
+    "price": 2930,
+    "image": "https://picsum.photos/seed/health30 /200/200",
+    "description": "Philips Thermometer 330 is a premium quality thermometer from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0331",
+    "name": "3M Face Mask 331",
+    "category": "Healthcare",
+    "price": 2428,
+    "image": "https://picsum.photos/seed/health31 /200/200",
+    "description": "3M Face Mask 331 is a premium quality face mask from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0332",
+    "name": "Samsung iPhone 332",
+    "category": "Mobile",
+    "price": 80319,
+    "image": "https://picsum.photos/seed/mobile32/200/200",
+    "description": "Samsung iPhone 332 is a premium quality iphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0333",
+    "name": "Anker Soundbar 333",
+    "category": "Speaker",
+    "price": 18519,
+    "image": "https://picsum.photos/seed/speaker33/200/200",
+    "description": "Anker Soundbar 333 is a premium quality soundbar from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0334",
+    "name": "Decathlon Dumbbells 334",
+    "category": "Gym",
+    "price": 37517,
+    "image": "https://picsum.photos/seed/gym34/200/200",
+    "description": "Decathlon Dumbbells 334 is a premium quality dumbbells from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0335",
+    "name": "Sony Soundbar 335",
+    "category": "Speaker",
+    "price": 9543,
+    "image": "https://picsum.photos/seed/speaker35/200/200",
+    "description": "Sony Soundbar 335 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0336",
+    "name": "Nike Jacket 336",
+    "category": "Clothes",
+    "price": 4100,
+    "image": "https://picsum.photos/seed/clothes36/200/200",
+    "description": "Nike Jacket 336 is a premium quality jacket from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0337",
+    "name": "Cipla Vitamins 337",
+    "category": "Healthcare",
+    "price": 7639,
+    "image": "https://picsum.photos/seed/health37 /200/200",
+    "description": "Cipla Vitamins 337 is a premium quality vitamins from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0338",
+    "name": "Philips Soundbar 338",
+    "category": "Speaker",
+    "price": 15055,
+    "image": "https://picsum.photos/seed/speaker38/200/200",
+    "description": "Philips Soundbar 338 is a premium quality soundbar from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0339",
+    "name": "Reebok Dumbbells 339",
+    "category": "Gym",
+    "price": 24502,
+    "image": "https://picsum.photos/seed/gym39/200/200",
+    "description": "Reebok Dumbbells 339 is a premium quality dumbbells from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0340",
+    "name": "Apple Handset 340",
+    "category": "Mobile",
+    "price": 13972,
+    "image": "https://picsum.photos/seed/mobile40/200/200",
+    "description": "Apple Handset 340 is a premium quality handset from Apple.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0341",
+    "name": "Fitbit Resistance Bands 341",
+    "category": "Gym",
+    "price": 3892,
+    "image": "https://picsum.photos/seed/gym41/200/200",
+    "description": "Fitbit Resistance Bands 341 is a premium quality resistance bands from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0342",
+    "name": "Bose Portable Speaker 342",
+    "category": "Speaker",
+    "price": 17907,
+    "image": "https://picsum.photos/seed/speaker42/200/200",
+    "description": "Bose Portable Speaker 342 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0343",
+    "name": "Bowflex Resistance Bands 343",
+    "category": "Gym",
+    "price": 17955,
+    "image": "https://picsum.photos/seed/gym43/200/200",
+    "description": "Bowflex Resistance Bands 343 is a premium quality resistance bands from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0344",
+    "name": "Acer MacBook 344",
+    "category": "Laptop",
+    "price": 109899,
+    "image": "https://picsum.photos/seed/laptop44/200/200",
+    "description": "Acer MacBook 344 is a premium quality macbook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0345",
+    "name": "Apple Smartphone 345",
+    "category": "Mobile",
+    "price": 20056,
+    "image": "https://picsum.photos/seed/mobile45/200/200",
+    "description": "Apple Smartphone 345 is a premium quality smartphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0346",
+    "name": "HP Notebook 346",
+    "category": "Laptop",
+    "price": 171053,
+    "image": "https://picsum.photos/seed/laptop46/200/200",
+    "description": "HP Notebook 346 is a premium quality notebook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0347",
+    "name": "HP Gaming Laptop 347",
+    "category": "Laptop",
+    "price": 43852,
+    "image": "https://picsum.photos/seed/laptop47/200/200",
+    "description": "HP Gaming Laptop 347 is a premium quality gaming laptop from HP.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0348",
+    "name": "Sony Soundbar 348",
+    "category": "Speaker",
+    "price": 10172,
+    "image": "https://picsum.photos/seed/speaker48/200/200",
+    "description": "Sony Soundbar 348 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0349",
+    "name": "Philips Thermometer 349",
+    "category": "Healthcare",
+    "price": 3473,
+    "image": "https://picsum.photos/seed/health49 /200/200",
+    "description": "Philips Thermometer 349 is a premium quality thermometer from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0350",
+    "name": "HP Gaming Laptop 350",
+    "category": "Laptop",
+    "price": 109434,
+    "image": "https://picsum.photos/seed/laptop50/200/200",
+    "description": "HP Gaming Laptop 350 is a premium quality gaming laptop from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0351",
+    "name": "Zara Dress 351",
+    "category": "Clothes",
+    "price": 3515,
+    "image": "https://picsum.photos/seed/clothes51/200/200",
+    "description": "Zara Dress 351 is a premium quality dress from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0352",
+    "name": "Reebok Resistance Bands 352",
+    "category": "Gym",
+    "price": 6288,
+    "image": "https://picsum.photos/seed/gym52/200/200",
+    "description": "Reebok Resistance Bands 352 is a premium quality resistance bands from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0353",
+    "name": "Google Android Phone 353",
+    "category": "Mobile",
+    "price": 98094,
+    "image": "https://picsum.photos/seed/mobile53/200/200",
+    "description": "Google Android Phone 353 is a premium quality android phone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0354",
+    "name": "Reebok Dumbbells 354",
+    "category": "Gym",
+    "price": 17652,
+    "image": "https://picsum.photos/seed/gym54/200/200",
+    "description": "Reebok Dumbbells 354 is a premium quality dumbbells from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0355",
+    "name": "Philips Vitamins 355",
+    "category": "Healthcare",
+    "price": 2278,
+    "image": "https://picsum.photos/seed/health55 /200/200",
+    "description": "Philips Vitamins 355 is a premium quality vitamins from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0356",
+    "name": "Cipla Thermometer 356",
+    "category": "Healthcare",
+    "price": 5297,
+    "image": "https://picsum.photos/seed/health56 /200/200",
+    "description": "Cipla Thermometer 356 is a premium quality thermometer from Cipla.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0357",
+    "name": "JBL Portable Speaker 357",
+    "category": "Speaker",
+    "price": 24759,
+    "image": "https://picsum.photos/seed/speaker57/200/200",
+    "description": "JBL Portable Speaker 357 is a premium quality portable speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0358",
+    "name": "Anker Soundbar 358",
+    "category": "Speaker",
+    "price": 20041,
+    "image": "https://picsum.photos/seed/speaker58/200/200",
+    "description": "Anker Soundbar 358 is a premium quality soundbar from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0359",
+    "name": "Nike Jacket 359",
+    "category": "Clothes",
+    "price": 2815,
+    "image": "https://picsum.photos/seed/clothes59/200/200",
+    "description": "Nike Jacket 359 is a premium quality jacket from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0360",
+    "name": "Cipla Face Mask 360",
+    "category": "Healthcare",
+    "price": 7338,
+    "image": "https://picsum.photos/seed/health60 /200/200",
+    "description": "Cipla Face Mask 360 is a premium quality face mask from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0361",
+    "name": "Cipla Thermometer 361",
+    "category": "Healthcare",
+    "price": 343,
+    "image": "https://picsum.photos/seed/health61 /200/200",
+    "description": "Cipla Thermometer 361 is a premium quality thermometer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0362",
+    "name": "Philips First Aid Kit 362",
+    "category": "Healthcare",
+    "price": 2515,
+    "image": "https://picsum.photos/seed/health62 /200/200",
+    "description": "Philips First Aid Kit 362 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0363",
+    "name": "Dr Morepen Thermometer 363",
+    "category": "Healthcare",
+    "price": 4486,
+    "image": "https://picsum.photos/seed/health63 /200/200",
+    "description": "Dr Morepen Thermometer 363 is a premium quality thermometer from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0364",
+    "name": "JBL Smart Speaker 364",
+    "category": "Speaker",
+    "price": 16663,
+    "image": "https://picsum.photos/seed/speaker64/200/200",
+    "description": "JBL Smart Speaker 364 is a premium quality smart speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0365",
+    "name": "Dell Notebook 365",
+    "category": "Laptop",
+    "price": 91395,
+    "image": "https://picsum.photos/seed/laptop65/200/200",
+    "description": "Dell Notebook 365 is a premium quality notebook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0366",
+    "name": "Asus Ultrabook 366",
+    "category": "Laptop",
+    "price": 114743,
+    "image": "https://picsum.photos/seed/laptop66/200/200",
+    "description": "Asus Ultrabook 366 is a premium quality ultrabook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0367",
+    "name": "Nike Sneakers 367",
+    "category": "Clothes",
+    "price": 1238,
+    "image": "https://picsum.photos/seed/clothes67/200/200",
+    "description": "Nike Sneakers 367 is a premium quality sneakers from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0368",
+    "name": "JBL Bluetooth Speaker 368",
+    "category": "Speaker",
+    "price": 3789,
+    "image": "https://picsum.photos/seed/speaker68/200/200",
+    "description": "JBL Bluetooth Speaker 368 is a premium quality bluetooth speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0369",
+    "name": "Under Armour Resistance Bands 369",
+    "category": "Gym",
+    "price": 808,
+    "image": "https://picsum.photos/seed/gym69/200/200",
+    "description": "Under Armour Resistance Bands 369 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0370",
+    "name": "Zara Dress 370",
+    "category": "Clothes",
+    "price": 898,
+    "image": "https://picsum.photos/seed/clothes70/200/200",
+    "description": "Zara Dress 370 is a premium quality dress from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0371",
+    "name": "Nike Jacket 371",
+    "category": "Clothes",
+    "price": 4008,
+    "image": "https://picsum.photos/seed/clothes71/200/200",
+    "description": "Nike Jacket 371 is a premium quality jacket from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0372",
+    "name": "Dell MacBook 372",
+    "category": "Laptop",
+    "price": 95151,
+    "image": "https://picsum.photos/seed/laptop72/200/200",
+    "description": "Dell MacBook 372 is a premium quality macbook from Dell.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0373",
+    "name": "Puma Sneakers 373",
+    "category": "Clothes",
+    "price": 4580,
+    "image": "https://picsum.photos/seed/clothes73/200/200",
+    "description": "Puma Sneakers 373 is a premium quality sneakers from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0374",
+    "name": "Bose Soundbar 374",
+    "category": "Speaker",
+    "price": 7315,
+    "image": "https://picsum.photos/seed/speaker74/200/200",
+    "description": "Bose Soundbar 374 is a premium quality soundbar from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0375",
+    "name": "3M Face Mask 375",
+    "category": "Healthcare",
+    "price": 1257,
+    "image": "https://picsum.photos/seed/health75 /200/200",
+    "description": "3M Face Mask 375 is a premium quality face mask from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0376",
+    "name": "Adidas T-Shirt 376",
+    "category": "Clothes",
+    "price": 4474,
+    "image": "https://picsum.photos/seed/clothes76/200/200",
+    "description": "Adidas T-Shirt 376 is a premium quality t-shirt from Adidas.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0377",
+    "name": "Samsung iPhone 377",
+    "category": "Mobile",
+    "price": 72158,
+    "image": "https://picsum.photos/seed/mobile77/200/200",
+    "description": "Samsung iPhone 377 is a premium quality iphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0378",
+    "name": "Asus Gaming Laptop 378",
+    "category": "Laptop",
+    "price": 129122,
+    "image": "https://picsum.photos/seed/laptop78/200/200",
+    "description": "Asus Gaming Laptop 378 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0379",
+    "name": "Apple Handset 379",
+    "category": "Mobile",
+    "price": 31800,
+    "image": "https://picsum.photos/seed/mobile79/200/200",
+    "description": "Apple Handset 379 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0380",
+    "name": "Asus MacBook 380",
+    "category": "Laptop",
+    "price": 68810,
+    "image": "https://picsum.photos/seed/laptop80/200/200",
+    "description": "Asus MacBook 380 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0381",
+    "name": "Puma T-Shirt 381",
+    "category": "Clothes",
+    "price": 4906,
+    "image": "https://picsum.photos/seed/clothes81/200/200",
+    "description": "Puma T-Shirt 381 is a premium quality t-shirt from Puma.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "LA0382",
+    "name": "Dell Ultrabook 382",
+    "category": "Laptop",
+    "price": 70207,
+    "image": "https://picsum.photos/seed/laptop82/200/200",
+    "description": "Dell Ultrabook 382 is a premium quality ultrabook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0383",
+    "name": "Cipla First Aid Kit 383",
+    "category": "Healthcare",
+    "price": 3009,
+    "image": "https://picsum.photos/seed/health83 /200/200",
+    "description": "Cipla First Aid Kit 383 is a premium quality first aid kit from Cipla.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0384",
+    "name": "Google Android Phone 384",
+    "category": "Mobile",
+    "price": 74201,
+    "image": "https://picsum.photos/seed/mobile84/200/200",
+    "description": "Google Android Phone 384 is a premium quality android phone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0385",
+    "name": "Dell Gaming Laptop 385",
+    "category": "Laptop",
+    "price": 110376,
+    "image": "https://picsum.photos/seed/laptop85/200/200",
+    "description": "Dell Gaming Laptop 385 is a premium quality gaming laptop from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0386",
+    "name": "Decathlon Resistance Bands 386",
+    "category": "Gym",
+    "price": 20678,
+    "image": "https://picsum.photos/seed/gym86/200/200",
+    "description": "Decathlon Resistance Bands 386 is a premium quality resistance bands from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0387",
+    "name": "Cipla First Aid Kit 387",
+    "category": "Healthcare",
+    "price": 3046,
+    "image": "https://picsum.photos/seed/health87 /200/200",
+    "description": "Cipla First Aid Kit 387 is a premium quality first aid kit from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0388",
+    "name": "Puma Jeans 388",
+    "category": "Clothes",
+    "price": 3171,
+    "image": "https://picsum.photos/seed/clothes88/200/200",
+    "description": "Puma Jeans 388 is a premium quality jeans from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0389",
+    "name": "Dr Morepen Hand Sanitizer 389",
+    "category": "Healthcare",
+    "price": 1757,
+    "image": "https://picsum.photos/seed/health89 /200/200",
+    "description": "Dr Morepen Hand Sanitizer 389 is a premium quality hand sanitizer from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0390",
+    "name": "Puma Jacket 390",
+    "category": "Clothes",
+    "price": 1324,
+    "image": "https://picsum.photos/seed/clothes90/200/200",
+    "description": "Puma Jacket 390 is a premium quality jacket from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0391",
+    "name": "JBL Soundbar 391",
+    "category": "Speaker",
+    "price": 6443,
+    "image": "https://picsum.photos/seed/speaker91/200/200",
+    "description": "JBL Soundbar 391 is a premium quality soundbar from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0392",
+    "name": "Under Armour Resistance Bands 392",
+    "category": "Gym",
+    "price": 37783,
+    "image": "https://picsum.photos/seed/gym92/200/200",
+    "description": "Under Armour Resistance Bands 392 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0393",
+    "name": "Reebok Treadmill 393",
+    "category": "Gym",
+    "price": 30445,
+    "image": "https://picsum.photos/seed/gym93/200/200",
+    "description": "Reebok Treadmill 393 is a premium quality treadmill from Reebok.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0394",
+    "name": "Anker Portable Speaker 394",
+    "category": "Speaker",
+    "price": 23297,
+    "image": "https://picsum.photos/seed/speaker94/200/200",
+    "description": "Anker Portable Speaker 394 is a premium quality portable speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0395",
+    "name": "Asus Gaming Laptop 395",
+    "category": "Laptop",
+    "price": 151895,
+    "image": "https://picsum.photos/seed/laptop95/200/200",
+    "description": "Asus Gaming Laptop 395 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0396",
+    "name": "Cipla Face Mask 396",
+    "category": "Healthcare",
+    "price": 2019,
+    "image": "https://picsum.photos/seed/health96 /200/200",
+    "description": "Cipla Face Mask 396 is a premium quality face mask from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0397",
+    "name": "Bowflex Treadmill 397",
+    "category": "Gym",
+    "price": 36687,
+    "image": "https://picsum.photos/seed/gym97/200/200",
+    "description": "Bowflex Treadmill 397 is a premium quality treadmill from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0398",
+    "name": "Sony Smart Speaker 398",
+    "category": "Speaker",
+    "price": 16428,
+    "image": "https://picsum.photos/seed/speaker98/200/200",
+    "description": "Sony Smart Speaker 398 is a premium quality smart speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0399",
+    "name": "Nike Sneakers 399",
+    "category": "Clothes",
+    "price": 1845,
+    "image": "https://picsum.photos/seed/clothes99/200/200",
+    "description": "Nike Sneakers 399 is a premium quality sneakers from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0400",
+    "name": "Acer Notebook 400",
+    "category": "Laptop",
+    "price": 70618,
+    "image": "https://picsum.photos/seed/laptop0/200/200",
+    "description": "Acer Notebook 400 is a premium quality notebook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0401",
+    "name": "Zara Sneakers 401",
+    "category": "Clothes",
+    "price": 1759,
+    "image": "https://picsum.photos/seed/clothes1/200/200",
+    "description": "Zara Sneakers 401 is a premium quality sneakers from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0402",
+    "name": "OnePlus Smartphone 402",
+    "category": "Mobile",
+    "price": 104088,
+    "image": "https://picsum.photos/seed/mobile2/200/200",
+    "description": "OnePlus Smartphone 402 is a premium quality smartphone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0403",
+    "name": "Sony Soundbar 403",
+    "category": "Speaker",
+    "price": 9896,
+    "image": "https://picsum.photos/seed/speaker3/200/200",
+    "description": "Sony Soundbar 403 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0404",
+    "name": "Sony Smart Speaker 404",
+    "category": "Speaker",
+    "price": 18299,
+    "image": "https://picsum.photos/seed/speaker4/200/200",
+    "description": "Sony Smart Speaker 404 is a premium quality smart speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0405",
+    "name": "JBL Portable Speaker 405",
+    "category": "Speaker",
+    "price": 22897,
+    "image": "https://picsum.photos/seed/speaker5/200/200",
+    "description": "JBL Portable Speaker 405 is a premium quality portable speaker from JBL.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0406",
+    "name": "Apple Android Phone 406",
+    "category": "Mobile",
+    "price": 31128,
+    "image": "https://picsum.photos/seed/mobile6/200/200",
+    "description": "Apple Android Phone 406 is a premium quality android phone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0407",
+    "name": "Sony Bluetooth Speaker 407",
+    "category": "Speaker",
+    "price": 16175,
+    "image": "https://picsum.photos/seed/speaker7/200/200",
+    "description": "Sony Bluetooth Speaker 407 is a premium quality bluetooth speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0408",
+    "name": "Bose Portable Speaker 408",
+    "category": "Speaker",
+    "price": 14764,
+    "image": "https://picsum.photos/seed/speaker8/200/200",
+    "description": "Bose Portable Speaker 408 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0409",
+    "name": "Acer Gaming Laptop 409",
+    "category": "Laptop",
+    "price": 57942,
+    "image": "https://picsum.photos/seed/laptop9/200/200",
+    "description": "Acer Gaming Laptop 409 is a premium quality gaming laptop from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0410",
+    "name": "Bose Portable Speaker 410",
+    "category": "Speaker",
+    "price": 15793,
+    "image": "https://picsum.photos/seed/speaker10/200/200",
+    "description": "Bose Portable Speaker 410 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0411",
+    "name": "Anker Portable Speaker 411",
+    "category": "Speaker",
+    "price": 23036,
+    "image": "https://picsum.photos/seed/speaker11/200/200",
+    "description": "Anker Portable Speaker 411 is a premium quality portable speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0412",
+    "name": "Zara Jacket 412",
+    "category": "Clothes",
+    "price": 1263,
+    "image": "https://picsum.photos/seed/clothes12/200/200",
+    "description": "Zara Jacket 412 is a premium quality jacket from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0413",
+    "name": "Levi's T-Shirt 413",
+    "category": "Clothes",
+    "price": 2942,
+    "image": "https://picsum.photos/seed/clothes13/200/200",
+    "description": "Levi's T-Shirt 413 is a premium quality t-shirt from Levi's.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0414",
+    "name": "Decathlon Treadmill 414",
+    "category": "Gym",
+    "price": 7420,
+    "image": "https://picsum.photos/seed/gym14/200/200",
+    "description": "Decathlon Treadmill 414 is a premium quality treadmill from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0415",
+    "name": "Bowflex Skipping Rope 415",
+    "category": "Gym",
+    "price": 36476,
+    "image": "https://picsum.photos/seed/gym15/200/200",
+    "description": "Bowflex Skipping Rope 415 is a premium quality skipping rope from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0416",
+    "name": "Samsung Handset 416",
+    "category": "Mobile",
+    "price": 48078,
+    "image": "https://picsum.photos/seed/mobile16/200/200",
+    "description": "Samsung Handset 416 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0417",
+    "name": "Sony Soundbar 417",
+    "category": "Speaker",
+    "price": 20346,
+    "image": "https://picsum.photos/seed/speaker17/200/200",
+    "description": "Sony Soundbar 417 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0418",
+    "name": "Xiaomi Handset 418",
+    "category": "Mobile",
+    "price": 51072,
+    "image": "https://picsum.photos/seed/mobile18/200/200",
+    "description": "Xiaomi Handset 418 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0419",
+    "name": "Cipla Hand Sanitizer 419",
+    "category": "Healthcare",
+    "price": 4025,
+    "image": "https://picsum.photos/seed/health19 /200/200",
+    "description": "Cipla Hand Sanitizer 419 is a premium quality hand sanitizer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0420",
+    "name": "Anker Soundbar 420",
+    "category": "Speaker",
+    "price": 12533,
+    "image": "https://picsum.photos/seed/speaker20/200/200",
+    "description": "Anker Soundbar 420 is a premium quality soundbar from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0421",
+    "name": "Philips Portable Speaker 421",
+    "category": "Speaker",
+    "price": 22338,
+    "image": "https://picsum.photos/seed/speaker21/200/200",
+    "description": "Philips Portable Speaker 421 is a premium quality portable speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0422",
+    "name": "JBL Portable Speaker 422",
+    "category": "Speaker",
+    "price": 8899,
+    "image": "https://picsum.photos/seed/speaker22/200/200",
+    "description": "JBL Portable Speaker 422 is a premium quality portable speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0423",
+    "name": "Reebok Yoga Mat 423",
+    "category": "Gym",
+    "price": 20469,
+    "image": "https://picsum.photos/seed/gym23/200/200",
+    "description": "Reebok Yoga Mat 423 is a premium quality yoga mat from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0424",
+    "name": "Dell Notebook 424",
+    "category": "Laptop",
+    "price": 155990,
+    "image": "https://picsum.photos/seed/laptop24/200/200",
+    "description": "Dell Notebook 424 is a premium quality notebook from Dell.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0425",
+    "name": "Under Armour Resistance Bands 425",
+    "category": "Gym",
+    "price": 37960,
+    "image": "https://picsum.photos/seed/gym25/200/200",
+    "description": "Under Armour Resistance Bands 425 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0426",
+    "name": "Under Armour Yoga Mat 426",
+    "category": "Gym",
+    "price": 10635,
+    "image": "https://picsum.photos/seed/gym26/200/200",
+    "description": "Under Armour Yoga Mat 426 is a premium quality yoga mat from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0427",
+    "name": "Xiaomi iPhone 427",
+    "category": "Mobile",
+    "price": 8631,
+    "image": "https://picsum.photos/seed/mobile27/200/200",
+    "description": "Xiaomi iPhone 427 is a premium quality iphone from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0428",
+    "name": "Dell Ultrabook 428",
+    "category": "Laptop",
+    "price": 142482,
+    "image": "https://picsum.photos/seed/laptop28/200/200",
+    "description": "Dell Ultrabook 428 is a premium quality ultrabook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0429",
+    "name": "Puma Dress 429",
+    "category": "Clothes",
+    "price": 894,
+    "image": "https://picsum.photos/seed/clothes29/200/200",
+    "description": "Puma Dress 429 is a premium quality dress from Puma.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0430",
+    "name": "Philips Soundbar 430",
+    "category": "Speaker",
+    "price": 8592,
+    "image": "https://picsum.photos/seed/speaker30/200/200",
+    "description": "Philips Soundbar 430 is a premium quality soundbar from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0431",
+    "name": "Acer Ultrabook 431",
+    "category": "Laptop",
+    "price": 198866,
+    "image": "https://picsum.photos/seed/laptop31/200/200",
+    "description": "Acer Ultrabook 431 is a premium quality ultrabook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0432",
+    "name": "Dell Ultrabook 432",
+    "category": "Laptop",
+    "price": 140339,
+    "image": "https://picsum.photos/seed/laptop32/200/200",
+    "description": "Dell Ultrabook 432 is a premium quality ultrabook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0433",
+    "name": "Reebok Yoga Mat 433",
+    "category": "Gym",
+    "price": 33299,
+    "image": "https://picsum.photos/seed/gym33/200/200",
+    "description": "Reebok Yoga Mat 433 is a premium quality yoga mat from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0434",
+    "name": "Levi's T-Shirt 434",
+    "category": "Clothes",
+    "price": 1936,
+    "image": "https://picsum.photos/seed/clothes34/200/200",
+    "description": "Levi's T-Shirt 434 is a premium quality t-shirt from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0435",
+    "name": "Apple Smartphone 435",
+    "category": "Mobile",
+    "price": 98580,
+    "image": "https://picsum.photos/seed/mobile35/200/200",
+    "description": "Apple Smartphone 435 is a premium quality smartphone from Apple.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0436",
+    "name": "Levi's Jeans 436",
+    "category": "Clothes",
+    "price": 4688,
+    "image": "https://picsum.photos/seed/clothes36/200/200",
+    "description": "Levi's Jeans 436 is a premium quality jeans from Levi's.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0437",
+    "name": "Apple Handset 437",
+    "category": "Mobile",
+    "price": 110122,
+    "image": "https://picsum.photos/seed/mobile37/200/200",
+    "description": "Apple Handset 437 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0438",
+    "name": "Levi's Jacket 438",
+    "category": "Clothes",
+    "price": 3691,
+    "image": "https://picsum.photos/seed/clothes38/200/200",
+    "description": "Levi's Jacket 438 is a premium quality jacket from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0439",
+    "name": "Sony Bluetooth Speaker 439",
+    "category": "Speaker",
+    "price": 21826,
+    "image": "https://picsum.photos/seed/speaker39/200/200",
+    "description": "Sony Bluetooth Speaker 439 is a premium quality bluetooth speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0440",
+    "name": "Sony Portable Speaker 440",
+    "category": "Speaker",
+    "price": 14683,
+    "image": "https://picsum.photos/seed/speaker40/200/200",
+    "description": "Sony Portable Speaker 440 is a premium quality portable speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0441",
+    "name": "Reebok Dumbbells 441",
+    "category": "Gym",
+    "price": 29112,
+    "image": "https://picsum.photos/seed/gym41/200/200",
+    "description": "Reebok Dumbbells 441 is a premium quality dumbbells from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0442",
+    "name": "Anker Portable Speaker 442",
+    "category": "Speaker",
+    "price": 8046,
+    "image": "https://picsum.photos/seed/speaker42/200/200",
+    "description": "Anker Portable Speaker 442 is a premium quality portable speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0443",
+    "name": "JBL Portable Speaker 443",
+    "category": "Speaker",
+    "price": 14048,
+    "image": "https://picsum.photos/seed/speaker43/200/200",
+    "description": "JBL Portable Speaker 443 is a premium quality portable speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0444",
+    "name": "Sony Bluetooth Speaker 444",
+    "category": "Speaker",
+    "price": 24335,
+    "image": "https://picsum.photos/seed/speaker44/200/200",
+    "description": "Sony Bluetooth Speaker 444 is a premium quality bluetooth speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0445",
+    "name": "OnePlus Android Phone 445",
+    "category": "Mobile",
+    "price": 29136,
+    "image": "https://picsum.photos/seed/mobile45/200/200",
+    "description": "OnePlus Android Phone 445 is a premium quality android phone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0446",
+    "name": "Adidas Jacket 446",
+    "category": "Clothes",
+    "price": 2501,
+    "image": "https://picsum.photos/seed/clothes46/200/200",
+    "description": "Adidas Jacket 446 is a premium quality jacket from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0447",
+    "name": "Nike Sneakers 447",
+    "category": "Clothes",
+    "price": 907,
+    "image": "https://picsum.photos/seed/clothes47/200/200",
+    "description": "Nike Sneakers 447 is a premium quality sneakers from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0448",
+    "name": "Cipla Hand Sanitizer 448",
+    "category": "Healthcare",
+    "price": 5611,
+    "image": "https://picsum.photos/seed/health48 /200/200",
+    "description": "Cipla Hand Sanitizer 448 is a premium quality hand sanitizer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0449",
+    "name": "Acer Notebook 449",
+    "category": "Laptop",
+    "price": 151287,
+    "image": "https://picsum.photos/seed/laptop49/200/200",
+    "description": "Acer Notebook 449 is a premium quality notebook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0450",
+    "name": "HP Ultrabook 450",
+    "category": "Laptop",
+    "price": 53451,
+    "image": "https://picsum.photos/seed/laptop50/200/200",
+    "description": "HP Ultrabook 450 is a premium quality ultrabook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0451",
+    "name": "Lenovo Notebook 451",
+    "category": "Laptop",
+    "price": 116493,
+    "image": "https://picsum.photos/seed/laptop51/200/200",
+    "description": "Lenovo Notebook 451 is a premium quality notebook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0452",
+    "name": "Zara Jacket 452",
+    "category": "Clothes",
+    "price": 927,
+    "image": "https://picsum.photos/seed/clothes52/200/200",
+    "description": "Zara Jacket 452 is a premium quality jacket from Zara.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0453",
+    "name": "Nike Jeans 453",
+    "category": "Clothes",
+    "price": 2296,
+    "image": "https://picsum.photos/seed/clothes53/200/200",
+    "description": "Nike Jeans 453 is a premium quality jeans from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0454",
+    "name": "Puma T-Shirt 454",
+    "category": "Clothes",
+    "price": 1451,
+    "image": "https://picsum.photos/seed/clothes54/200/200",
+    "description": "Puma T-Shirt 454 is a premium quality t-shirt from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0455",
+    "name": "Under Armour Skipping Rope 455",
+    "category": "Gym",
+    "price": 18924,
+    "image": "https://picsum.photos/seed/gym55/200/200",
+    "description": "Under Armour Skipping Rope 455 is a premium quality skipping rope from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0456",
+    "name": "Under Armour Skipping Rope 456",
+    "category": "Gym",
+    "price": 27979,
+    "image": "https://picsum.photos/seed/gym56/200/200",
+    "description": "Under Armour Skipping Rope 456 is a premium quality skipping rope from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0457",
+    "name": "Apple iPhone 457",
+    "category": "Mobile",
+    "price": 30389,
+    "image": "https://picsum.photos/seed/mobile57/200/200",
+    "description": "Apple iPhone 457 is a premium quality iphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0458",
+    "name": "Samsung iPhone 458",
+    "category": "Mobile",
+    "price": 115240,
+    "image": "https://picsum.photos/seed/mobile58/200/200",
+    "description": "Samsung iPhone 458 is a premium quality iphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0459",
+    "name": "GSK Thermometer 459",
+    "category": "Healthcare",
+    "price": 2184,
+    "image": "https://picsum.photos/seed/health59 /200/200",
+    "description": "GSK Thermometer 459 is a premium quality thermometer from GSK.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0460",
+    "name": "Bose Soundbar 460",
+    "category": "Speaker",
+    "price": 13634,
+    "image": "https://picsum.photos/seed/speaker60/200/200",
+    "description": "Bose Soundbar 460 is a premium quality soundbar from Bose.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0461",
+    "name": "OnePlus Smartphone 461",
+    "category": "Mobile",
+    "price": 50171,
+    "image": "https://picsum.photos/seed/mobile61/200/200",
+    "description": "OnePlus Smartphone 461 is a premium quality smartphone from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0462",
+    "name": "Dell Gaming Laptop 462",
+    "category": "Laptop",
+    "price": 162470,
+    "image": "https://picsum.photos/seed/laptop62/200/200",
+    "description": "Dell Gaming Laptop 462 is a premium quality gaming laptop from Dell.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0463",
+    "name": "Bose Smart Speaker 463",
+    "category": "Speaker",
+    "price": 9652,
+    "image": "https://picsum.photos/seed/speaker63/200/200",
+    "description": "Bose Smart Speaker 463 is a premium quality smart speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0464",
+    "name": "Google Android Phone 464",
+    "category": "Mobile",
+    "price": 46021,
+    "image": "https://picsum.photos/seed/mobile64/200/200",
+    "description": "Google Android Phone 464 is a premium quality android phone from Google.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "MO0465",
+    "name": "Xiaomi iPhone 465",
+    "category": "Mobile",
+    "price": 35001,
+    "image": "https://picsum.photos/seed/mobile65/200/200",
+    "description": "Xiaomi iPhone 465 is a premium quality iphone from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0466",
+    "name": "Zara Jeans 466",
+    "category": "Clothes",
+    "price": 3174,
+    "image": "https://picsum.photos/seed/clothes66/200/200",
+    "description": "Zara Jeans 466 is a premium quality jeans from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0467",
+    "name": "Apple iPhone 467",
+    "category": "Mobile",
+    "price": 6757,
+    "image": "https://picsum.photos/seed/mobile67/200/200",
+    "description": "Apple iPhone 467 is a premium quality iphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0468",
+    "name": "Zara Dress 468",
+    "category": "Clothes",
+    "price": 578,
+    "image": "https://picsum.photos/seed/clothes68/200/200",
+    "description": "Zara Dress 468 is a premium quality dress from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0469",
+    "name": "Samsung Handset 469",
+    "category": "Mobile",
+    "price": 16464,
+    "image": "https://picsum.photos/seed/mobile69/200/200",
+    "description": "Samsung Handset 469 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0470",
+    "name": "Puma T-Shirt 470",
+    "category": "Clothes",
+    "price": 2816,
+    "image": "https://picsum.photos/seed/clothes70/200/200",
+    "description": "Puma T-Shirt 470 is a premium quality t-shirt from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0471",
+    "name": "Apple Smartphone 471",
+    "category": "Mobile",
+    "price": 103407,
+    "image": "https://picsum.photos/seed/mobile71/200/200",
+    "description": "Apple Smartphone 471 is a premium quality smartphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0472",
+    "name": "OnePlus Handset 472",
+    "category": "Mobile",
+    "price": 17650,
+    "image": "https://picsum.photos/seed/mobile72/200/200",
+    "description": "OnePlus Handset 472 is a premium quality handset from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0473",
+    "name": "Sony Portable Speaker 473",
+    "category": "Speaker",
+    "price": 9843,
+    "image": "https://picsum.photos/seed/speaker73/200/200",
+    "description": "Sony Portable Speaker 473 is a premium quality portable speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0474",
+    "name": "Decathlon Dumbbells 474",
+    "category": "Gym",
+    "price": 3197,
+    "image": "https://picsum.photos/seed/gym74/200/200",
+    "description": "Decathlon Dumbbells 474 is a premium quality dumbbells from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0475",
+    "name": "Philips Portable Speaker 475",
+    "category": "Speaker",
+    "price": 9051,
+    "image": "https://picsum.photos/seed/speaker75/200/200",
+    "description": "Philips Portable Speaker 475 is a premium quality portable speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0476",
+    "name": "Dell Notebook 476",
+    "category": "Laptop",
+    "price": 42254,
+    "image": "https://picsum.photos/seed/laptop76/200/200",
+    "description": "Dell Notebook 476 is a premium quality notebook from Dell.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0477",
+    "name": "Philips Portable Speaker 477",
+    "category": "Speaker",
+    "price": 11204,
+    "image": "https://picsum.photos/seed/speaker77/200/200",
+    "description": "Philips Portable Speaker 477 is a premium quality portable speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0478",
+    "name": "Levi's Dress 478",
+    "category": "Clothes",
+    "price": 1117,
+    "image": "https://picsum.photos/seed/clothes78/200/200",
+    "description": "Levi's Dress 478 is a premium quality dress from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0479",
+    "name": "Dell Ultrabook 479",
+    "category": "Laptop",
+    "price": 56028,
+    "image": "https://picsum.photos/seed/laptop79/200/200",
+    "description": "Dell Ultrabook 479 is a premium quality ultrabook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0480",
+    "name": "Dr Morepen Face Mask 480",
+    "category": "Healthcare",
+    "price": 7177,
+    "image": "https://picsum.photos/seed/health80 /200/200",
+    "description": "Dr Morepen Face Mask 480 is a premium quality face mask from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0481",
+    "name": "3M Hand Sanitizer 481",
+    "category": "Healthcare",
+    "price": 4259,
+    "image": "https://picsum.photos/seed/health81 /200/200",
+    "description": "3M Hand Sanitizer 481 is a premium quality hand sanitizer from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0482",
+    "name": "Apple Smartphone 482",
+    "category": "Mobile",
+    "price": 5076,
+    "image": "https://picsum.photos/seed/mobile82/200/200",
+    "description": "Apple Smartphone 482 is a premium quality smartphone from Apple.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0483",
+    "name": "Dr Morepen Vitamins 483",
+    "category": "Healthcare",
+    "price": 5384,
+    "image": "https://picsum.photos/seed/health83 /200/200",
+    "description": "Dr Morepen Vitamins 483 is a premium quality vitamins from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0484",
+    "name": "Dell MacBook 484",
+    "category": "Laptop",
+    "price": 88599,
+    "image": "https://picsum.photos/seed/laptop84/200/200",
+    "description": "Dell MacBook 484 is a premium quality macbook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0485",
+    "name": "Puma T-Shirt 485",
+    "category": "Clothes",
+    "price": 3455,
+    "image": "https://picsum.photos/seed/clothes85/200/200",
+    "description": "Puma T-Shirt 485 is a premium quality t-shirt from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0486",
+    "name": "Bowflex Yoga Mat 486",
+    "category": "Gym",
+    "price": 9732,
+    "image": "https://picsum.photos/seed/gym86/200/200",
+    "description": "Bowflex Yoga Mat 486 is a premium quality yoga mat from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0487",
+    "name": "Philips First Aid Kit 487",
+    "category": "Healthcare",
+    "price": 833,
+    "image": "https://picsum.photos/seed/health87 /200/200",
+    "description": "Philips First Aid Kit 487 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0488",
+    "name": "Apple iPhone 488",
+    "category": "Mobile",
+    "price": 13364,
+    "image": "https://picsum.photos/seed/mobile88/200/200",
+    "description": "Apple iPhone 488 is a premium quality iphone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0489",
+    "name": "Anker Bluetooth Speaker 489",
+    "category": "Speaker",
+    "price": 10872,
+    "image": "https://picsum.photos/seed/speaker89/200/200",
+    "description": "Anker Bluetooth Speaker 489 is a premium quality bluetooth speaker from Anker.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0490",
+    "name": "GSK Vitamins 490",
+    "category": "Healthcare",
+    "price": 1856,
+    "image": "https://picsum.photos/seed/health90 /200/200",
+    "description": "GSK Vitamins 490 is a premium quality vitamins from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0491",
+    "name": "Bose Bluetooth Speaker 491",
+    "category": "Speaker",
+    "price": 5026,
+    "image": "https://picsum.photos/seed/speaker91/200/200",
+    "description": "Bose Bluetooth Speaker 491 is a premium quality bluetooth speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0492",
+    "name": "Levi's Sneakers 492",
+    "category": "Clothes",
+    "price": 1355,
+    "image": "https://picsum.photos/seed/clothes92/200/200",
+    "description": "Levi's Sneakers 492 is a premium quality sneakers from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0493",
+    "name": "Bose Portable Speaker 493",
+    "category": "Speaker",
+    "price": 4385,
+    "image": "https://picsum.photos/seed/speaker93/200/200",
+    "description": "Bose Portable Speaker 493 is a premium quality portable speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0494",
+    "name": "Samsung iPhone 494",
+    "category": "Mobile",
+    "price": 54069,
+    "image": "https://picsum.photos/seed/mobile94/200/200",
+    "description": "Samsung iPhone 494 is a premium quality iphone from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0495",
+    "name": "Reebok Treadmill 495",
+    "category": "Gym",
+    "price": 7269,
+    "image": "https://picsum.photos/seed/gym95/200/200",
+    "description": "Reebok Treadmill 495 is a premium quality treadmill from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0496",
+    "name": "Asus MacBook 496",
+    "category": "Laptop",
+    "price": 190166,
+    "image": "https://picsum.photos/seed/laptop96/200/200",
+    "description": "Asus MacBook 496 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0497",
+    "name": "Puma Dress 497",
+    "category": "Clothes",
+    "price": 4645,
+    "image": "https://picsum.photos/seed/clothes97/200/200",
+    "description": "Puma Dress 497 is a premium quality dress from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0498",
+    "name": "Dr Morepen Vitamins 498",
+    "category": "Healthcare",
+    "price": 2473,
+    "image": "https://picsum.photos/seed/health98 /200/200",
+    "description": "Dr Morepen Vitamins 498 is a premium quality vitamins from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0499",
+    "name": "Cipla Face Mask 499",
+    "category": "Healthcare",
+    "price": 6914,
+    "image": "https://picsum.photos/seed/health99 /200/200",
+    "description": "Cipla Face Mask 499 is a premium quality face mask from Cipla.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0500",
+    "name": "Dr Morepen Thermometer 500",
+    "category": "Healthcare",
+    "price": 6173,
+    "image": "https://picsum.photos/seed/health0 /200/200",
+    "description": "Dr Morepen Thermometer 500 is a premium quality thermometer from Dr Morepen.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0501",
+    "name": "3M Face Mask 501",
+    "category": "Healthcare",
+    "price": 5119,
+    "image": "https://picsum.photos/seed/health1 /200/200",
+    "description": "3M Face Mask 501 is a premium quality face mask from 3M.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0502",
+    "name": "Zara T-Shirt 502",
+    "category": "Clothes",
+    "price": 4836,
+    "image": "https://picsum.photos/seed/clothes2/200/200",
+    "description": "Zara T-Shirt 502 is a premium quality t-shirt from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0503",
+    "name": "Philips Smart Speaker 503",
+    "category": "Speaker",
+    "price": 20814,
+    "image": "https://picsum.photos/seed/speaker3/200/200",
+    "description": "Philips Smart Speaker 503 is a premium quality smart speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0504",
+    "name": "Puma Sneakers 504",
+    "category": "Clothes",
+    "price": 4267,
+    "image": "https://picsum.photos/seed/clothes4/200/200",
+    "description": "Puma Sneakers 504 is a premium quality sneakers from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0505",
+    "name": "Lenovo Ultrabook 505",
+    "category": "Laptop",
+    "price": 105272,
+    "image": "https://picsum.photos/seed/laptop5/200/200",
+    "description": "Lenovo Ultrabook 505 is a premium quality ultrabook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0506",
+    "name": "Fitbit Resistance Bands 506",
+    "category": "Gym",
+    "price": 23856,
+    "image": "https://picsum.photos/seed/gym6/200/200",
+    "description": "Fitbit Resistance Bands 506 is a premium quality resistance bands from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0507",
+    "name": "Zara Jacket 507",
+    "category": "Clothes",
+    "price": 1391,
+    "image": "https://picsum.photos/seed/clothes7/200/200",
+    "description": "Zara Jacket 507 is a premium quality jacket from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0508",
+    "name": "Acer Gaming Laptop 508",
+    "category": "Laptop",
+    "price": 167498,
+    "image": "https://picsum.photos/seed/laptop8/200/200",
+    "description": "Acer Gaming Laptop 508 is a premium quality gaming laptop from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0509",
+    "name": "Cipla First Aid Kit 509",
+    "category": "Healthcare",
+    "price": 7063,
+    "image": "https://picsum.photos/seed/health9 /200/200",
+    "description": "Cipla First Aid Kit 509 is a premium quality first aid kit from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0510",
+    "name": "Bowflex Resistance Bands 510",
+    "category": "Gym",
+    "price": 29853,
+    "image": "https://picsum.photos/seed/gym10/200/200",
+    "description": "Bowflex Resistance Bands 510 is a premium quality resistance bands from Bowflex.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0511",
+    "name": "Dr Morepen Face Mask 511",
+    "category": "Healthcare",
+    "price": 4143,
+    "image": "https://picsum.photos/seed/health11 /200/200",
+    "description": "Dr Morepen Face Mask 511 is a premium quality face mask from Dr Morepen.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0512",
+    "name": "Sony Bluetooth Speaker 512",
+    "category": "Speaker",
+    "price": 16005,
+    "image": "https://picsum.photos/seed/speaker12/200/200",
+    "description": "Sony Bluetooth Speaker 512 is a premium quality bluetooth speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0513",
+    "name": "Nike Dress 513",
+    "category": "Clothes",
+    "price": 2144,
+    "image": "https://picsum.photos/seed/clothes13/200/200",
+    "description": "Nike Dress 513 is a premium quality dress from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0514",
+    "name": "Xiaomi Smartphone 514",
+    "category": "Mobile",
+    "price": 67346,
+    "image": "https://picsum.photos/seed/mobile14/200/200",
+    "description": "Xiaomi Smartphone 514 is a premium quality smartphone from Xiaomi.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0515",
+    "name": "Nike Jacket 515",
+    "category": "Clothes",
+    "price": 821,
+    "image": "https://picsum.photos/seed/clothes15/200/200",
+    "description": "Nike Jacket 515 is a premium quality jacket from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0516",
+    "name": "Xiaomi Handset 516",
+    "category": "Mobile",
+    "price": 12353,
+    "image": "https://picsum.photos/seed/mobile16/200/200",
+    "description": "Xiaomi Handset 516 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0517",
+    "name": "Reebok Resistance Bands 517",
+    "category": "Gym",
+    "price": 799,
+    "image": "https://picsum.photos/seed/gym17/200/200",
+    "description": "Reebok Resistance Bands 517 is a premium quality resistance bands from Reebok.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0518",
+    "name": "Under Armour Resistance Bands 518",
+    "category": "Gym",
+    "price": 12641,
+    "image": "https://picsum.photos/seed/gym18/200/200",
+    "description": "Under Armour Resistance Bands 518 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0519",
+    "name": "Asus Gaming Laptop 519",
+    "category": "Laptop",
+    "price": 116732,
+    "image": "https://picsum.photos/seed/laptop19/200/200",
+    "description": "Asus Gaming Laptop 519 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0520",
+    "name": "Samsung Smartphone 520",
+    "category": "Mobile",
+    "price": 80952,
+    "image": "https://picsum.photos/seed/mobile20/200/200",
+    "description": "Samsung Smartphone 520 is a premium quality smartphone from Samsung.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0521",
+    "name": "Dr Morepen Hand Sanitizer 521",
+    "category": "Healthcare",
+    "price": 3842,
+    "image": "https://picsum.photos/seed/health21 /200/200",
+    "description": "Dr Morepen Hand Sanitizer 521 is a premium quality hand sanitizer from Dr Morepen.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0522",
+    "name": "Bose Smart Speaker 522",
+    "category": "Speaker",
+    "price": 1818,
+    "image": "https://picsum.photos/seed/speaker22/200/200",
+    "description": "Bose Smart Speaker 522 is a premium quality smart speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0523",
+    "name": "Cipla Vitamins 523",
+    "category": "Healthcare",
+    "price": 3345,
+    "image": "https://picsum.photos/seed/health23 /200/200",
+    "description": "Cipla Vitamins 523 is a premium quality vitamins from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0524",
+    "name": "Fitbit Resistance Bands 524",
+    "category": "Gym",
+    "price": 26552,
+    "image": "https://picsum.photos/seed/gym24/200/200",
+    "description": "Fitbit Resistance Bands 524 is a premium quality resistance bands from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0525",
+    "name": "Philips Portable Speaker 525",
+    "category": "Speaker",
+    "price": 6448,
+    "image": "https://picsum.photos/seed/speaker25/200/200",
+    "description": "Philips Portable Speaker 525 is a premium quality portable speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0526",
+    "name": "Apple Handset 526",
+    "category": "Mobile",
+    "price": 45210,
+    "image": "https://picsum.photos/seed/mobile26/200/200",
+    "description": "Apple Handset 526 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0527",
+    "name": "JBL Portable Speaker 527",
+    "category": "Speaker",
+    "price": 18952,
+    "image": "https://picsum.photos/seed/speaker27/200/200",
+    "description": "JBL Portable Speaker 527 is a premium quality portable speaker from JBL.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0528",
+    "name": "Philips First Aid Kit 528",
+    "category": "Healthcare",
+    "price": 4036,
+    "image": "https://picsum.photos/seed/health28 /200/200",
+    "description": "Philips First Aid Kit 528 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0529",
+    "name": "Sony Soundbar 529",
+    "category": "Speaker",
+    "price": 2616,
+    "image": "https://picsum.photos/seed/speaker29/200/200",
+    "description": "Sony Soundbar 529 is a premium quality soundbar from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0530",
+    "name": "Under Armour Skipping Rope 530",
+    "category": "Gym",
+    "price": 29941,
+    "image": "https://picsum.photos/seed/gym30/200/200",
+    "description": "Under Armour Skipping Rope 530 is a premium quality skipping rope from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0531",
+    "name": "Cipla Thermometer 531",
+    "category": "Healthcare",
+    "price": 5467,
+    "image": "https://picsum.photos/seed/health31 /200/200",
+    "description": "Cipla Thermometer 531 is a premium quality thermometer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0532",
+    "name": "Apple Android Phone 532",
+    "category": "Mobile",
+    "price": 102776,
+    "image": "https://picsum.photos/seed/mobile32/200/200",
+    "description": "Apple Android Phone 532 is a premium quality android phone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0533",
+    "name": "OnePlus Smartphone 533",
+    "category": "Mobile",
+    "price": 18541,
+    "image": "https://picsum.photos/seed/mobile33/200/200",
+    "description": "OnePlus Smartphone 533 is a premium quality smartphone from OnePlus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0534",
+    "name": "Under Armour Resistance Bands 534",
+    "category": "Gym",
+    "price": 32111,
+    "image": "https://picsum.photos/seed/gym34/200/200",
+    "description": "Under Armour Resistance Bands 534 is a premium quality resistance bands from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0535",
+    "name": "GSK First Aid Kit 535",
+    "category": "Healthcare",
+    "price": 7223,
+    "image": "https://picsum.photos/seed/health35 /200/200",
+    "description": "GSK First Aid Kit 535 is a premium quality first aid kit from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0536",
+    "name": "Google Android Phone 536",
+    "category": "Mobile",
+    "price": 58225,
+    "image": "https://picsum.photos/seed/mobile36/200/200",
+    "description": "Google Android Phone 536 is a premium quality android phone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0537",
+    "name": "Sony Bluetooth Speaker 537",
+    "category": "Speaker",
+    "price": 4195,
+    "image": "https://picsum.photos/seed/speaker37/200/200",
+    "description": "Sony Bluetooth Speaker 537 is a premium quality bluetooth speaker from Sony.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0538",
+    "name": "Zara Jeans 538",
+    "category": "Clothes",
+    "price": 1066,
+    "image": "https://picsum.photos/seed/clothes38/200/200",
+    "description": "Zara Jeans 538 is a premium quality jeans from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0539",
+    "name": "HP Notebook 539",
+    "category": "Laptop",
+    "price": 93246,
+    "image": "https://picsum.photos/seed/laptop39/200/200",
+    "description": "HP Notebook 539 is a premium quality notebook from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0540",
+    "name": "Philips Face Mask 540",
+    "category": "Healthcare",
+    "price": 3611,
+    "image": "https://picsum.photos/seed/health40 /200/200",
+    "description": "Philips Face Mask 540 is a premium quality face mask from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0541",
+    "name": "Decathlon Resistance Bands 541",
+    "category": "Gym",
+    "price": 32427,
+    "image": "https://picsum.photos/seed/gym41/200/200",
+    "description": "Decathlon Resistance Bands 541 is a premium quality resistance bands from Decathlon.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0542",
+    "name": "Xiaomi Handset 542",
+    "category": "Mobile",
+    "price": 7080,
+    "image": "https://picsum.photos/seed/mobile42/200/200",
+    "description": "Xiaomi Handset 542 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0543",
+    "name": "Puma Jacket 543",
+    "category": "Clothes",
+    "price": 3191,
+    "image": "https://picsum.photos/seed/clothes43/200/200",
+    "description": "Puma Jacket 543 is a premium quality jacket from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0544",
+    "name": "Puma Dress 544",
+    "category": "Clothes",
+    "price": 302,
+    "image": "https://picsum.photos/seed/clothes44/200/200",
+    "description": "Puma Dress 544 is a premium quality dress from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0545",
+    "name": "Under Armour Skipping Rope 545",
+    "category": "Gym",
+    "price": 33635,
+    "image": "https://picsum.photos/seed/gym45/200/200",
+    "description": "Under Armour Skipping Rope 545 is a premium quality skipping rope from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0546",
+    "name": "Google iPhone 546",
+    "category": "Mobile",
+    "price": 15583,
+    "image": "https://picsum.photos/seed/mobile46/200/200",
+    "description": "Google iPhone 546 is a premium quality iphone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0547",
+    "name": "Puma Jeans 547",
+    "category": "Clothes",
+    "price": 4509,
+    "image": "https://picsum.photos/seed/clothes47/200/200",
+    "description": "Puma Jeans 547 is a premium quality jeans from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0548",
+    "name": "OnePlus Handset 548",
+    "category": "Mobile",
+    "price": 108969,
+    "image": "https://picsum.photos/seed/mobile48/200/200",
+    "description": "OnePlus Handset 548 is a premium quality handset from OnePlus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0549",
+    "name": "Xiaomi iPhone 549",
+    "category": "Mobile",
+    "price": 96153,
+    "image": "https://picsum.photos/seed/mobile49/200/200",
+    "description": "Xiaomi iPhone 549 is a premium quality iphone from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0550",
+    "name": "Fitbit Skipping Rope 550",
+    "category": "Gym",
+    "price": 22677,
+    "image": "https://picsum.photos/seed/gym50/200/200",
+    "description": "Fitbit Skipping Rope 550 is a premium quality skipping rope from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0551",
+    "name": "Samsung Smartphone 551",
+    "category": "Mobile",
+    "price": 83580,
+    "image": "https://picsum.photos/seed/mobile51/200/200",
+    "description": "Samsung Smartphone 551 is a premium quality smartphone from Samsung.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0552",
+    "name": "Levi's Jeans 552",
+    "category": "Clothes",
+    "price": 2225,
+    "image": "https://picsum.photos/seed/clothes52/200/200",
+    "description": "Levi's Jeans 552 is a premium quality jeans from Levi's.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0553",
+    "name": "GSK Vitamins 553",
+    "category": "Healthcare",
+    "price": 7495,
+    "image": "https://picsum.photos/seed/health53 /200/200",
+    "description": "GSK Vitamins 553 is a premium quality vitamins from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0554",
+    "name": "Nike Dress 554",
+    "category": "Clothes",
+    "price": 4871,
+    "image": "https://picsum.photos/seed/clothes54/200/200",
+    "description": "Nike Dress 554 is a premium quality dress from Nike.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0555",
+    "name": "Levi's Dress 555",
+    "category": "Clothes",
+    "price": 1791,
+    "image": "https://picsum.photos/seed/clothes55/200/200",
+    "description": "Levi's Dress 555 is a premium quality dress from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0556",
+    "name": "HP Gaming Laptop 556",
+    "category": "Laptop",
+    "price": 43768,
+    "image": "https://picsum.photos/seed/laptop56/200/200",
+    "description": "HP Gaming Laptop 556 is a premium quality gaming laptop from HP.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0557",
+    "name": "3M Face Mask 557",
+    "category": "Healthcare",
+    "price": 2717,
+    "image": "https://picsum.photos/seed/health57 /200/200",
+    "description": "3M Face Mask 557 is a premium quality face mask from 3M.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0558",
+    "name": "Sony Smart Speaker 558",
+    "category": "Speaker",
+    "price": 20599,
+    "image": "https://picsum.photos/seed/speaker58/200/200",
+    "description": "Sony Smart Speaker 558 is a premium quality smart speaker from Sony.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "GY0559",
+    "name": "Under Armour Yoga Mat 559",
+    "category": "Gym",
+    "price": 5004,
+    "image": "https://picsum.photos/seed/gym59/200/200",
+    "description": "Under Armour Yoga Mat 559 is a premium quality yoga mat from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0560",
+    "name": "Under Armour Dumbbells 560",
+    "category": "Gym",
+    "price": 38711,
+    "image": "https://picsum.photos/seed/gym60/200/200",
+    "description": "Under Armour Dumbbells 560 is a premium quality dumbbells from Under Armour.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0561",
+    "name": "Anker Smart Speaker 561",
+    "category": "Speaker",
+    "price": 9199,
+    "image": "https://picsum.photos/seed/speaker61/200/200",
+    "description": "Anker Smart Speaker 561 is a premium quality smart speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0562",
+    "name": "Asus MacBook 562",
+    "category": "Laptop",
+    "price": 196726,
+    "image": "https://picsum.photos/seed/laptop62/200/200",
+    "description": "Asus MacBook 562 is a premium quality macbook from Asus.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0563",
+    "name": "Puma T-Shirt 563",
+    "category": "Clothes",
+    "price": 3326,
+    "image": "https://picsum.photos/seed/clothes63/200/200",
+    "description": "Puma T-Shirt 563 is a premium quality t-shirt from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0564",
+    "name": "Dell Notebook 564",
+    "category": "Laptop",
+    "price": 121401,
+    "image": "https://picsum.photos/seed/laptop64/200/200",
+    "description": "Dell Notebook 564 is a premium quality notebook from Dell.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0565",
+    "name": "Samsung Handset 565",
+    "category": "Mobile",
+    "price": 45811,
+    "image": "https://picsum.photos/seed/mobile65/200/200",
+    "description": "Samsung Handset 565 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0566",
+    "name": "Puma Dress 566",
+    "category": "Clothes",
+    "price": 2352,
+    "image": "https://picsum.photos/seed/clothes66/200/200",
+    "description": "Puma Dress 566 is a premium quality dress from Puma.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "GY0567",
+    "name": "Fitbit Resistance Bands 567",
+    "category": "Gym",
+    "price": 18884,
+    "image": "https://picsum.photos/seed/gym67/200/200",
+    "description": "Fitbit Resistance Bands 567 is a premium quality resistance bands from Fitbit.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0568",
+    "name": "Asus Gaming Laptop 568",
+    "category": "Laptop",
+    "price": 86496,
+    "image": "https://picsum.photos/seed/laptop68/200/200",
+    "description": "Asus Gaming Laptop 568 is a premium quality gaming laptop from Asus.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0569",
+    "name": "Cipla Thermometer 569",
+    "category": "Healthcare",
+    "price": 7927,
+    "image": "https://picsum.photos/seed/health69 /200/200",
+    "description": "Cipla Thermometer 569 is a premium quality thermometer from Cipla.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0570",
+    "name": "Bose Bluetooth Speaker 570",
+    "category": "Speaker",
+    "price": 17744,
+    "image": "https://picsum.photos/seed/speaker70/200/200",
+    "description": "Bose Bluetooth Speaker 570 is a premium quality bluetooth speaker from Bose.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0571",
+    "name": "Adidas Sneakers 571",
+    "category": "Clothes",
+    "price": 3365,
+    "image": "https://picsum.photos/seed/clothes71/200/200",
+    "description": "Adidas Sneakers 571 is a premium quality sneakers from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0572",
+    "name": "Nike Jeans 572",
+    "category": "Clothes",
+    "price": 2073,
+    "image": "https://picsum.photos/seed/clothes72/200/200",
+    "description": "Nike Jeans 572 is a premium quality jeans from Nike.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0573",
+    "name": "Sony Soundbar 573",
+    "category": "Speaker",
+    "price": 5271,
+    "image": "https://picsum.photos/seed/speaker73/200/200",
+    "description": "Sony Soundbar 573 is a premium quality soundbar from Sony.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "CL0574",
+    "name": "Adidas Dress 574",
+    "category": "Clothes",
+    "price": 1872,
+    "image": "https://picsum.photos/seed/clothes74/200/200",
+    "description": "Adidas Dress 574 is a premium quality dress from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0575",
+    "name": "Samsung Handset 575",
+    "category": "Mobile",
+    "price": 62882,
+    "image": "https://picsum.photos/seed/mobile75/200/200",
+    "description": "Samsung Handset 575 is a premium quality handset from Samsung.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0576",
+    "name": "Anker Bluetooth Speaker 576",
+    "category": "Speaker",
+    "price": 8436,
+    "image": "https://picsum.photos/seed/speaker76/200/200",
+    "description": "Anker Bluetooth Speaker 576 is a premium quality bluetooth speaker from Anker.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0577",
+    "name": "Levi's Sneakers 577",
+    "category": "Clothes",
+    "price": 790,
+    "image": "https://picsum.photos/seed/clothes77/200/200",
+    "description": "Levi's Sneakers 577 is a premium quality sneakers from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "SP0578",
+    "name": "Philips Portable Speaker 578",
+    "category": "Speaker",
+    "price": 18456,
+    "image": "https://picsum.photos/seed/speaker78/200/200",
+    "description": "Philips Portable Speaker 578 is a premium quality portable speaker from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0579",
+    "name": "Xiaomi Handset 579",
+    "category": "Mobile",
+    "price": 33759,
+    "image": "https://picsum.photos/seed/mobile79/200/200",
+    "description": "Xiaomi Handset 579 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0580",
+    "name": "Lenovo Notebook 580",
+    "category": "Laptop",
+    "price": 122506,
+    "image": "https://picsum.photos/seed/laptop80/200/200",
+    "description": "Lenovo Notebook 580 is a premium quality notebook from Lenovo.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0581",
+    "name": "Philips Hand Sanitizer 581",
+    "category": "Healthcare",
+    "price": 5040,
+    "image": "https://picsum.photos/seed/health81 /200/200",
+    "description": "Philips Hand Sanitizer 581 is a premium quality hand sanitizer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0582",
+    "name": "GSK First Aid Kit 582",
+    "category": "Healthcare",
+    "price": 6671,
+    "image": "https://picsum.photos/seed/health82 /200/200",
+    "description": "GSK First Aid Kit 582 is a premium quality first aid kit from GSK.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0583",
+    "name": "Levi's T-Shirt 583",
+    "category": "Clothes",
+    "price": 3564,
+    "image": "https://picsum.photos/seed/clothes83/200/200",
+    "description": "Levi's T-Shirt 583 is a premium quality t-shirt from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0584",
+    "name": "Philips First Aid Kit 584",
+    "category": "Healthcare",
+    "price": 1498,
+    "image": "https://picsum.photos/seed/health84 /200/200",
+    "description": "Philips First Aid Kit 584 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0585",
+    "name": "Philips Face Mask 585",
+    "category": "Healthcare",
+    "price": 1571,
+    "image": "https://picsum.photos/seed/health85 /200/200",
+    "description": "Philips Face Mask 585 is a premium quality face mask from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0586",
+    "name": "Google iPhone 586",
+    "category": "Mobile",
+    "price": 89074,
+    "image": "https://picsum.photos/seed/mobile86/200/200",
+    "description": "Google iPhone 586 is a premium quality iphone from Google.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0587",
+    "name": "Levi's Jeans 587",
+    "category": "Clothes",
+    "price": 1340,
+    "image": "https://picsum.photos/seed/clothes87/200/200",
+    "description": "Levi's Jeans 587 is a premium quality jeans from Levi's.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "LA0588",
+    "name": "Acer MacBook 588",
+    "category": "Laptop",
+    "price": 196214,
+    "image": "https://picsum.photos/seed/laptop88/200/200",
+    "description": "Acer MacBook 588 is a premium quality macbook from Acer.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0589",
+    "name": "Xiaomi Handset 589",
+    "category": "Mobile",
+    "price": 47803,
+    "image": "https://picsum.photos/seed/mobile89/200/200",
+    "description": "Xiaomi Handset 589 is a premium quality handset from Xiaomi.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "HE0590",
+    "name": "Philips Thermometer 590",
+    "category": "Healthcare",
+    "price": 2515,
+    "image": "https://picsum.photos/seed/health90 /200/200",
+    "description": "Philips Thermometer 590 is a premium quality thermometer from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0591",
+    "name": "Adidas T-Shirt 591",
+    "category": "Clothes",
+    "price": 618,
+    "image": "https://picsum.photos/seed/clothes91/200/200",
+    "description": "Adidas T-Shirt 591 is a premium quality t-shirt from Adidas.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "CL0592",
+    "name": "Zara Jeans 592",
+    "category": "Clothes",
+    "price": 4732,
+    "image": "https://picsum.photos/seed/clothes92/200/200",
+    "description": "Zara Jeans 592 is a premium quality jeans from Zara.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0593",
+    "name": "Philips First Aid Kit 593",
+    "category": "Healthcare",
+    "price": 3754,
+    "image": "https://picsum.photos/seed/health93 /200/200",
+    "description": "Philips First Aid Kit 593 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": true
+  },
+  {
+    "id": "SP0594",
+    "name": "Philips Soundbar 594",
+    "category": "Speaker",
+    "price": 22920,
+    "image": "https://picsum.photos/seed/speaker94/200/200",
+    "description": "Philips Soundbar 594 is a premium quality soundbar from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0595",
+    "name": "Philips First Aid Kit 595",
+    "category": "Healthcare",
+    "price": 1432,
+    "image": "https://picsum.photos/seed/health95 /200/200",
+    "description": "Philips First Aid Kit 595 is a premium quality first aid kit from Philips.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0596",
+    "name": "Apple Handset 596",
+    "category": "Mobile",
+    "price": 65469,
+    "image": "https://picsum.photos/seed/mobile96/200/200",
+    "description": "Apple Handset 596 is a premium quality handset from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0597",
+    "name": "3M First Aid Kit 597",
+    "category": "Healthcare",
+    "price": 4682,
+    "image": "https://picsum.photos/seed/health97 /200/200",
+    "description": "3M First Aid Kit 597 is a premium quality first aid kit from 3M.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0598",
+    "name": "Xiaomi Android Phone 598",
+    "category": "Mobile",
+    "price": 9828,
+    "image": "https://picsum.photos/seed/mobile98/200/200",
+    "description": "Xiaomi Android Phone 598 is a premium quality android phone from Xiaomi.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "MO0599",
+    "name": "Apple Android Phone 599",
+    "category": "Mobile",
+    "price": 102063,
+    "image": "https://picsum.photos/seed/mobile99/200/200",
+    "description": "Apple Android Phone 599 is a premium quality android phone from Apple.",
+    "isFlashDeal": false
+  },
+  {
+    "id": "HE0600",
+    "name": "Philips Face Mask 600",
+    "category": "Healthcare",
+    "price": 4115,
+    "image": "https://picsum.photos/seed/health0 /200/200",
+    "description": "Philips Face Mask 600 is a premium quality face mask from Philips.",
+    "isFlashDeal": false
+  }
+]

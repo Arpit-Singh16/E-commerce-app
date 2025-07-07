@@ -1,0 +1,167 @@
+import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+
+class Wishlist extends StatefulWidget {
+  const Wishlist({super.key});
+
+  @override
+  State<Wishlist> createState() => _WishlistState();
+}
+
+class _WishlistState extends State<Wishlist> {
+  List<Map<String, dynamic>> wishlist = [];
+  bool isLoading = true;
+  int totalPrice = 0;
+
+  @override
+  void initState() {
+    super.initState();
+    fetchCartItems();
+  }
+
+  Future<void> fetchCartItems() async {
+    try {
+      final user = FirebaseAuth.instance.currentUser;
+      final snapshot = await FirebaseFirestore.instance
+          .collection('Wishlist')
+          .where('uid', isEqualTo: user!.uid)
+          .get();
+
+      final items = snapshot.docs.map((doc) {
+        final data = doc.data();
+        data['id'] = doc.id;
+        return data;
+      }).toList();
+
+      if (!mounted) return;
+      setState(() {
+        wishlist = items;
+        isLoading = false;
+        totalPrice = calculateTotal(items);
+      });
+    } catch (e) {
+      print("❌ Error: $e");
+      if (!mounted) return;
+      setState(() {
+        isLoading = false;
+      });
+    }
+  }
+
+  int calculateTotal(List<Map<String, dynamic>> items) {
+    int total = 0;
+
+    for (var item in items) {
+      if (item is Map<String, dynamic>) {
+        final dynamic rawPrice = item['price'];
+        final int price = rawPrice is String
+            ? int.tryParse(rawPrice) ?? 0
+            : rawPrice is int
+            ? rawPrice
+            : rawPrice is double
+            ? rawPrice.round()
+            : 0;
+
+        final dynamic rawQuantity = item['quantity'];
+        final int quantity = rawQuantity is int
+            ? rawQuantity
+            : int.tryParse(rawQuantity?.toString() ?? '') ?? 1;
+
+        total += price * quantity;
+      }
+    }
+
+    return total;
+  }
+
+
+
+  Future<void> removeItem(String docId) async {
+    await FirebaseFirestore.instance.collection('Wishlist').doc(docId).delete();
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Item removed from Wishlist')),
+    );
+    fetchCartItems();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Your Wishlist",style: TextStyle(color: Colors.white),),
+        backgroundColor: Colors.black,
+      ),
+      body: isLoading
+          ? const Center(child: CircularProgressIndicator())
+          : wishlist.isEmpty
+          ? const Center(child: Text("Wishlist is empty"))
+          : Column(
+        children: [
+          Expanded(
+            child: ListView.builder(
+              itemCount: wishlist.length,
+              itemBuilder: (context, index) {
+                final item = wishlist[index];
+                final id = item['id'];
+                final image = item['image'] ?? '';
+                final name = item['name'] ?? 'Unnamed';
+
+                final dynamic rawQuantity = item['quantity'];
+                final int quantity = rawQuantity is int
+                    ? rawQuantity
+                    : int.tryParse(rawQuantity?.toString() ?? '') ?? 1;
+
+                final dynamic rawPrice = item['price'];
+                final int price = rawPrice is String
+                    ? int.tryParse(rawPrice) ?? 0
+                    : rawPrice is int
+                    ? rawPrice
+                    : rawPrice is double
+                    ? rawPrice.round()
+                    : 0;
+
+                print("🛒 Item $index: $item");
+
+                return Card(
+                  margin: const EdgeInsets.symmetric(
+                      horizontal: 12, vertical: 6),
+                  child: ListTile(
+                    leading: ClipRRect(
+                      borderRadius: BorderRadius.circular(8),
+                      child: image != ''
+                          ? Image.network(image,
+                          width: 60,
+                          height: 60,
+                          fit: BoxFit.cover)
+                          : const Icon(Icons.image_not_supported,
+                          size: 40),
+                    ),
+                    title: Text(name,
+                        style: const TextStyle(
+                            fontWeight: FontWeight.bold)),
+                    subtitle: Text(
+                        "₹$price × $quantity = ₹${price * quantity}"),
+                    trailing: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        IconButton(
+                          icon:
+                          const Icon(Icons.favorite, color: Colors.red,),
+                          onPressed: () {
+                            removeItem(id);
+                          },
+                        ),
+                      ],
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662625647549",
+    "project_id": "project-app-a9e69",
+    "storage_bucket": "project-app-a9e69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662625647549:android:ac79adb9f03d5f6e9230d4",
+        "android_client_info": {
+          "package_name": "com.example.quotetowallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7YQpVpCHxXXTvqlOvhnTBFT5t3INJw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
