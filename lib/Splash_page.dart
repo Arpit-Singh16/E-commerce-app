@@ -1,10 +1,15 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'Admin/Adminpage.dart';
 import 'Bottom_navgation.dart';
+=======
+import 'Product_page.dart';
+import 'json_upload.dart';
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
 import 'login.dart';
 
 
@@ -16,6 +21,7 @@ class SplashPage extends StatefulWidget {
 }
 
 class _SplashPageState extends State<SplashPage> {
+<<<<<<< HEAD
   @override
   void initState() {
     super.initState();
@@ -103,6 +109,35 @@ class _SplashPageState extends State<SplashPage> {
             ),
             const SizedBox(height: 20),
             const CircularProgressIndicator(color: Colors.blue),
+=======
+
+  @override
+  void initState() {
+    Timer(Duration(seconds: 2),(){
+      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>LoginPage()));
+    });
+  }
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.grey,
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            CircleAvatar(
+              backgroundImage: NetworkImage(
+                "https://plus.unsplash.com/premium_photo-1690571200236-0f9098fc6ca9?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              ),
+              radius: 200,
+            ),
+            Text("Welcome to My App",
+              style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
+            CircularProgressIndicator(
+              color: Colors.blue,
+            ),
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
           ],
         ),
       ),

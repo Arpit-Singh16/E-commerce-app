@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -9,6 +10,12 @@ class CardPaymentPage extends StatefulWidget {
   final int totalprice;
 
   const CardPaymentPage({super.key, required this.productId, required this.totalprice});
+=======
+import 'package:flutter/material.dart';
+
+class CardPaymentPage extends StatefulWidget {
+  const CardPaymentPage({super.key});
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
 
   @override
   State<CardPaymentPage> createState() => _CardPaymentPageState();
@@ -22,6 +29,7 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
   final TextEditingController cvvController = TextEditingController();
   final TextEditingController nameController = TextEditingController();
 
+<<<<<<< HEAD
   bool isProcessing = false;
 
   Future<bool> placeOrder() async {
@@ -123,6 +131,8 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
     }
   }
 
+=======
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -134,7 +144,12 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
         padding: const EdgeInsets.all(16.0),
         child: Form(
           key: _formKey,
+<<<<<<< HEAD
           child: ListView(
+=======
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
             children: [
               const Text(
                 "Enter Card Details",
@@ -170,7 +185,10 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
 
               // Expiry and CVV
               Row(
+<<<<<<< HEAD
                 crossAxisAlignment: CrossAxisAlignment.start,
+=======
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
                 children: [
                   Expanded(
                     child: TextFormField(
@@ -191,17 +209,25 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
                       decoration: const InputDecoration(
                         labelText: "CVV",
                         border: OutlineInputBorder(),
+<<<<<<< HEAD
                         counterText: "",
+=======
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
                       ),
                       keyboardType: TextInputType.number,
                       maxLength: 3,
                       obscureText: true,
                       validator: (value) =>
+<<<<<<< HEAD
                       value == null || value.length != 3 ? "Invalid CVV" : null,
+=======
+                      value!.length != 3 ? "Invalid CVV" : null,
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
                     ),
                   ),
                 ],
               ),
+<<<<<<< HEAD
               const SizedBox(height: 30),
 
               // Submit Button
@@ -239,6 +265,21 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
                           ),
                         );
                       }
+=======
+
+              const SizedBox(height: 30),
+
+              // Pay Button
+              SizedBox(
+                width: double.infinity,
+                child: ElevatedButton(
+                  onPressed: () {
+                    if (_formKey.currentState!.validate()) {
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        const SnackBar(content: Text("Processing Payment...")),
+                      );
+                      // Add payment logic here
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
                     }
                   },
                   style: ElevatedButton.styleFrom(
@@ -248,7 +289,14 @@ class _CardPaymentPageState extends State<CardPaymentPage> {
                       borderRadius: BorderRadius.circular(10),
                     ),
                   ),
+<<<<<<< HEAD
                   child: Text("Pay ₹${widget.totalprice}",style: TextStyle(color: Colors.white),),
+=======
+                  child: const Text(
+                    "Pay Now ₹1250",
+                    style: TextStyle(fontSize: 18,color: Colors.white),
+                  ),
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
                 ),
               ),
             ],

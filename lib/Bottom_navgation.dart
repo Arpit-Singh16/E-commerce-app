@@ -16,7 +16,11 @@ class _BottomNavgationState extends State<BottomNavgation> {
   int _currentIndex = 0;
   final List<Widget> pages = [
     Homepage(),
+<<<<<<< HEAD
     Wishlist(),
+=======
+    WishlistPage(),
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
     CartPage(),
     ProfilePage(),
   ];

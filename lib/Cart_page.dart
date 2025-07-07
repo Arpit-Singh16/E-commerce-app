@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+<<<<<<< HEAD
 import 'Payment_address.dart';
+=======
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
 
 class CartPage extends StatefulWidget {
   const CartPage({super.key});
@@ -102,8 +105,12 @@ class _CartPageState extends State<CartPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+<<<<<<< HEAD
         centerTitle: true,
         title: const Text("🛒 Your Cart",style: TextStyle(color: Colors.white),),
+=======
+        title: const Text("🛒 Your Cart"),
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
         backgroundColor: Colors.black,
       ),
       body: isLoading
@@ -118,7 +125,11 @@ class _CartPageState extends State<CartPage> {
               itemBuilder: (context, index) {
                 final item = cartItems[index];
                 final id = item['id'];
+<<<<<<< HEAD
                 final image = item['image'];
+=======
+                final image = item['image'] ?? '';
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
                 final name = item['name'] ?? 'Unnamed';
 
                 final dynamic rawQuantity = item['quantity'];
@@ -190,6 +201,7 @@ class _CartPageState extends State<CartPage> {
                 const Text("Total:",
                     style: TextStyle(
                         color: Colors.white, fontSize: 18)),
+<<<<<<< HEAD
                 InkWell(
                   onTap: () {
                     if (totalPrice > 0) {
@@ -224,6 +236,13 @@ class _CartPageState extends State<CartPage> {
                   ),
                 ),
 
+=======
+                Text("₹$totalPrice",
+                    style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold)),
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
               ],
             ),
           ),

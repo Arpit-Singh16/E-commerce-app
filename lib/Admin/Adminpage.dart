@@ -52,7 +52,11 @@ class _AdminpageState extends State<Adminpage> {
                   _buildAdminListTile(context, 'Manage Products', Icons.fastfood, () {
                     Navigator.push(
                       context,
+<<<<<<< HEAD
                       MaterialPageRoute(builder: (context) => AdminProducts()),
+=======
+                      MaterialPageRoute(builder: (context) => Adminproducts()),
+>>>>>>> bd00922827b5a97f04d8c66ddffd076714c318a6
                     );
                   }),
                   _buildAdminListTile(context, 'Manage Users', Icons.people, () {
